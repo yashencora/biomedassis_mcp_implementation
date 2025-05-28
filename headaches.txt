@@ -1,0 +1,3292 @@
+1. J Integr Neurosci. 2024 Feb 20;23(2):43. doi: 10.31083/j.jin2302043.
+
+Headache Disorders: Differentiating Primary and Secondary Etiologies.
+
+Hernandez J(1), Molina E(1), Rodriguez A(1), Woodford S(1), Nguyen A(1), Parker 
+G(1), Lucke-Wold B(1).
+
+Author information:
+(1)Department of Neurosurgery, University of Florida College of Medicine, 
+Gainesville, FL 32610, USA.
+
+In the initial assessment of a headache patient, several dangerous secondary 
+etiologies must be considered. A thorough history and physical examination, 
+along with a comprehensive differential diagnosis may alert a physician to the 
+diagnosis of a secondary headache particularly when it is accompanied by certain 
+clinical features. Evaluation and workup include a complete neurological 
+examination, consideration of neuroimaging, and serum/spinal fluid analysis if 
+indicated. Careful attention to the patients' history and physical examination 
+will guide the diagnostic work-up and management. In this review, we summarize 
+the diagnostic workup of various primary and secondary headache etiologies. 
+Although most headaches are primary in nature, it is essential to screen for 
+headache "red flags", as they can suggest life threatening secondary etiologies. 
+When secondary causes are suspected, appropriate neuroimaging can further 
+differentiate the underlying cause. The appropriate imaging is dependent on the 
+most likely secondary etiology, which is deduced from history and physical 
+examination. When no red flags are present, primary headaches are more likely. 
+These can be differentiated by frequency, location, duration, triggers, and 
+presence of aura. The different clinical presentations for secondary headaches, 
+as well as the distinguishing features for primary headaches are outlined in 
+this review.
+
+© 2024 The Author(s). Published by IMR Press.
+
+DOI: 10.31083/j.jin2302043
+PMID: 38419454 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. 
+Given the role as Guest Editor, Dr. Brandon Lucke-Wold was not involved in the 
+peer-review of this article and has no access to information regarding its 
+peer-review. Full responsibility for the editorial process for this article was 
+delegated to Gernot Riedel.
+
+
+2. Handb Clin Neurol. 2019;167:511-528. doi: 10.1016/B978-0-12-804766-8.00028-5.
+
+Headache in the elderly.
+
+Kaniecki RG(1), Levin AD(2).
+
+Author information:
+(1)Department of Neurology, University of Pittsburgh Medical Center, Pittsburgh, 
+PA, United States. Electronic address: kanieckirg@upmc.edu.
+(2)Department of Neurology, University of Pittsburgh Medical Center, Pittsburgh, 
+PA, United States.
+
+Headache is the most common neurologic symptom and affects nearly half the 
+world's population at any given time. Although the prevalence declines with age, 
+headache remains a common neurologic complaint among elderly populations. 
+Headaches can be divided into primary and secondary causes. Primary headaches 
+comprise about two-thirds of headaches among the elderly. They are defined by 
+clinical criteria and are diagnosed based on symptom pattern and exclusion of 
+secondary causes. Primary headaches include migraine, tension-type, trigeminal 
+autonomic cephalalgias, and hypnic headache. Secondary headaches are defined by 
+their suspected etiology. A higher index of suspicion for a secondary headache 
+disorder is warranted in older patients with new-onset headache. They are 
+roughly 12 times more likely to have serious underlying causes and, frequently, 
+have different symptomatic presentations compared to younger adults. Various 
+imaging and laboratory evaluations are indicated in the presence of any "red 
+flag" signs or symptoms. Head CT is the procedure of choice for acute headache 
+presentations, and brain MRI for those with chronic headache complaints. 
+Management of headache in elderly populations can be challenging due to the 
+presence of multiple medical comorbidities, polypharmacy, and differences in 
+drug metabolism and clearance.
+
+Copyright © 2019 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/B978-0-12-804766-8.00028-5
+PMID: 31753152 [Indexed for MEDLINE]
+
+
+3. Curr Pain Headache Rep. 2020 Aug 25;24(10):62. doi: 10.1007/s11916-020-00892-6.
+
+Epidemiology of Headache in Children and Adolescents-Another Type of Pandemia.
+
+Nieswand V(1), Richter M(2), Gossrau G(3).
+
+Author information:
+(1)Headache Clinic, Pain Center, University Hospital and Faculty of Medicine 
+Carl Gustav Carus, TU Dresden, Fetscherstr 74, 01307, Dresden, Germany.
+(2)Department of Pediatrics, University Hospital and Faculty of Medicine Carl 
+Gustav Carus, TU Dresden, Dresden, Germany.
+(3)Headache Clinic, Pain Center, University Hospital and Faculty of Medicine 
+Carl Gustav Carus, TU Dresden, Fetscherstr 74, 01307, Dresden, Germany. 
+Gudrun.Gossrau2@uniklinikum-dresden.de.
+
+PURPOSE OF REVIEW: Headaches are not only responsible for restrictions in 
+everyday life in adults. In children and adolescents, regular headaches lead 
+also to reduced life quality and limitations in the social sphere, in school 
+education, and in professional careers. Here, we provide an overview on the 
+frequency of headache in children and adolescents with the aim of increasing 
+awareness about this particular health issue.
+RECENT FINDINGS: Overall, headache prevalence in children and adolescents has 
+been increasing in recent years. From various regions worldwide, data describing 
+headache, its forms, and consequences are growing. In addition, factors 
+frequently correlated with headache are repeatedly investigated and named: 
+besides genetic factors, psychosocial and behavioral factors are linked to the 
+prevalence of headache. Increasing evidence indicates that headache is 
+underestimated as a common disorder in children and adolescents. Accordingly, 
+too little emphasis is placed by society on its prevention and treatment. Thus, 
+the extent of the social and health economic burden of frequent headaches in 
+children and adolescents needs to be better illustrated, worldwide. Furthermore, 
+the data collected in this review should support the efforts to improve 
+outpatient therapy paths for young headache patients. Factors correlating with 
+headache in pupils can draw our attention to unmet needs of these patients and 
+allow physicians to derive important therapy contents from this data.
+
+DOI: 10.1007/s11916-020-00892-6
+PMCID: PMC7447651
+PMID: 32840694 [Indexed for MEDLINE]
+
+Conflict of interest statement: Vera Nieswand, Matthias Richter, and Gudrun 
+Gossrau declare no conflict of interest.
+
+
+4. Semin Neurol. 2019 Feb;39(1):20-26. doi: 10.1055/s-0038-1677023. Epub 2019 Feb 
+11.
+
+Evaluation and Management of the Emergency Department Headache.
+
+Filler L(1), Akhter M(1)(2), Nimlos P(1).
+
+Author information:
+(1)Department of Emergency Medicine, Maricopa Medical Center, Phoenix, Arizona.
+(2)Department of Emergency Medicine, University of Arizona College of 
+Medicine-Phoenix, Phoenix, Arizona.
+
+The acute headache in the emergency department (ED) poses a diagnostic dilemma 
+that may overwhelm providers attempting to weigh the cost of advanced workups 
+against the risk of missing serious pathology. While the majority of headache 
+concerns are benign primary headache disorders, identifying life-threatening 
+secondary causes of headache-which may be broadly categorized into structural, 
+infectious, and vascular causes-is the primary focus of evaluation in the ED. 
+Secondary headaches are associated with a high morbidity and mortality, and 
+require strict scrutiny of the history and physical examination to adequately 
+risk-stratify patients. Innovative and emerging technologies may further assist 
+providers in the diagnosis of headache, and challenge previous gold-standard 
+diagnostic evaluations. Herein, we present a general overview of the workup and 
+management of headaches in the ED, with a special section for diagnostic 
+considerations in evaluating for acute meningitis, subarachnoid hemorrhage, and 
+acute angle-closure glaucoma.
+
+Thieme Medical Publishers 333 Seventh Avenue, New York, NY 10001, USA.
+
+DOI: 10.1055/s-0038-1677023
+PMID: 30743289 [Indexed for MEDLINE]
+
+Conflict of interest statement: None declared.
+
+
+5. J Am Board Fam Med. 2024 Jul-Aug;37(4):737-744. doi: 
+10.3122/jabfm.2023.230450R1.
+
+Headache Treatment Options.
+
+Florczyk S(1), Elliott T(2), Lawrence K(2), Penwell-Waines L(2), Robes C(2).
+
+Author information:
+(1)From the Novant Health Family Medicine Residency Program, Cornelius, NC. 
+smflorczyk@novanthealth.org).
+(2)From the Novant Health Family Medicine Residency Program, Cornelius, NC.
+
+Family medicine physicians often see headache as the chief complaint when 
+meeting patients within their practice. The goal is to try different treatment 
+modalities without having to send the patient to a specialist. Headaches affect 
+different individuals during their lifetime. Before any treatment begins, it is 
+best that one rules out possible causes of the headache, for example, drug 
+interactions or structural cerebrum conditions. Nonpharmacological treatment is 
+recommended first before attempting a stepwise approach to cost-effective 
+pharmacological treatment options. Pharmacological treatment options should 
+include preventive and on-demand options. A family physician has all the 
+resources to assist patients with different types of headaches.
+
+© Copyright by the American Board of Family Medicine.
+
+DOI: 10.3122/jabfm.2023.230450R1
+PMID: 39455276 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: None.
+
+
+6. Semin Pediatr Neurol. 2021 Dec;40:100923. doi: 10.1016/j.spen.2021.100923. Epub 
+2021 Sep 9.
+
+Pediatric Headache Attributed to Infection.
+
+Walter SM(1), Laderman M(2), Polk P(3).
+
+Author information:
+(1)Department of Family and Community Health, West Virginia University School of 
+Nursing, Robert C. Byrd Health Sciences Center, Morgantown, WV. Electronic 
+address: swalters@hsc.wvu.edu.
+(2)Department of Neurology, Nationwide Childrens Hospital, Columbus, OH.
+(3)School of Nursing, Cleveland State University, Cleveland, OH.
+
+Pediatric headaches attributed to infection are typically related to non-life 
+threatening illnesses such as upper respiratory tract infections and 
+rhinosinusitis. Although less common, secondary headaches related to life 
+threatening infections are most frequently associated with meningitis. This 
+review provides an overview of the International Classification of Headache 
+Disorders third edition (ICHD-3) categories of infections contributing to 
+secondary headache, describes clinical presentation, and presents a focused 
+review on relevant diagnoses associated with this headache type. An 
+understanding of headache attributed to infection will provide the foundation on 
+distinguishing secondary headaches from various etiological infectious 
+disorders.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.spen.2021.100923
+PMID: 34749918 [Indexed for MEDLINE]
+
+
+7. Nervenarzt. 2020 Oct;91(10):926-935. doi: 10.1007/s00115-020-00959-0.
+
+[Headache in multiple sclerosis].
+
+[Article in German]
+
+Gebhardt M(1), Kropp P(2), Hoffmann F(3), Zettl UK(4).
+
+Author information:
+(1)Klinik für Neurologie, Krankenhaus Martha-Maria Halle-Dölau, Röntgenstraße 1, 
+06120, Halle, Deutschland. Marcel.Gebhardt@Martha-Maria.de.
+(2)Institut für Medizinische Psychologie und Medizinische Soziologie, 
+Universitätsmedizin Rostock, Gehlsheimer Straße 20, 18147, Rostock, Deutschland.
+(3)Klinik für Neurologie, Krankenhaus Martha-Maria Halle-Dölau, Röntgenstraße 1, 
+06120, Halle, Deutschland.
+(4)Klinik und Poliklinik für Neurologie, Sektion für Neuroimmunologie, 
+Universitätsmedizin Rostock, Gehlsheimer Straße 20, 18147, Rostock, Deutschland.
+
+The relationship between headache and multiple sclerosis (MS) has been a matter 
+of controversy for over 60 years. Headaches are still rated as a "red flag", 
+indicating alternative diagnoses to MS, although in the last few years numerous 
+studies have shown a frequent association between headache and MS. In recent 
+studies on MS patients, a link was found between lower age/shorter disease 
+duration of MS and frequent headaches. A study of 50 patients manifesting MS for 
+the first time showed the highest headache prevalence in MS of 78% reported so 
+far.Headaches can also be a possible side effect of most disease-modifying MS 
+drugs. In many cases, however, the headache appears to be a symptom of MS in 
+terms of secondary headache. This is also supported by pathophysiological 
+implications, for example, by detecting B cell follicles in the meninges of MS 
+patients.Migraine is the most common type of headache in MS. In some cases, this 
+is a comorbidity of two diseases with many similarities, but headaches caused by 
+inflammatory MS lesions also appear to be phenomenologically very similar to 
+classic migraines; thus, distinguishing between them is often only successful 
+with the help of thorough differential diagnostics (cerebrospinal fluid, MRI 
+etc.).The task of future studies must be to specify the phenomenology of 
+headache in MS even more precisely, in order to, to gain knowledge in, among 
+others, patients with radiologically isolated syndrome, who often suffer from 
+headache, because in these patients a considerable differential diagnostic and 
+therapeutic uncertainty exists.
+
+DOI: 10.1007/s00115-020-00959-0
+PMID: 32696077 [Indexed for MEDLINE]
+
+
+8. Neurol Clin. 2024 May;42(2):375-388. doi: 10.1016/j.ncl.2023.12.002. Epub 2024 
+Feb 13.
+
+Headache due to Vascular Disorders.
+
+Rothrock JF(1).
+
+Author information:
+(1)Inova Health/University of Virginia School of Medicine, Migraineur. 
+Electronic address: rothrockjf@gmail.com.
+
+Headache and cerebrovascular disease (CVD) are inextricably linked. Although in 
+some cases headache complicating CVD may be little more than a symptomatic 
+afterthought, in other cases, early recognition of headache's role in the CVD 
+process is critical to effective management. In other words, headaches secondary 
+to CVD span a spectrum, and in this article, we will review that spectrum.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ncl.2023.12.002
+PMID: 38575257 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure Nothing to disclose.
+
+
+9. Schmerz. 2021 Apr;35(2):139-149. doi: 10.1007/s00482-021-00540-x. Epub 2021 Mar 
+16.
+
+[Post-dural puncture headache].
+
+[Article in German; Abstract available in German from the publisher]
+
+Kamm K(1), Förderreuther S(2).
+
+Author information:
+(1)Neurologische Klinik und Poliklinik, Klinikum der LMU München, Standort 
+Großhadern, Marchioninistr. 15, 81377, München, Deutschland.
+(2)Neurologische Klinik und Poliklinik, Neurologischer Konsiliardienst am 
+Standort Innenstadt, Klinikum der Ludwig-Maximilians-Universität München, 
+Ziemssenstr. 1, 80336, München, Deutschland. 
+steffi.foerderreuther@med.uni-muenchen.de.
+
+Post-dural puncture headache belongs to the group of secondary headache 
+disorders and is a typical complication of intended or unintended dural 
+puncture. The main symptom is orthostatic headache, which can be accompanied by 
+neurological symptoms such as diplopia depending on the extent of the 
+cerebrospinal fluid leak. The course of this headache is predominantly benign, 
+showing spontaneous improvement over a couple of days, although severe cases are 
+described in the literature. The following article provides an overview of the 
+current knowledge about the headache's pathophysiology, diagnostic work-up and 
+therapy.
+
+Publisher: Der postpunktionelle Kopfschmerz gehört zu den sekundären 
+Kopfschmerzen und kann als Komplikation nach einer Punktion des Liquorraums 
+auftreten. Hauptsymptom ist ein orthostatischer Kopfschmerz, der je nach Schwere 
+des Liquorlecks mit anderen neurologischen Symptomen wie Sehstörungen 
+einhergehen kann. Der postpunktionelle Kopfschmerz hat einen überwiegend 
+benignen Verlauf mit spontaner Besserung nach einigen Tagen, dennoch sind selten 
+schwerwiegende Verläufe beschrieben. Im vorliegenden Beitrag soll der aktuelle 
+Stand der Pathophysiologie, Diagnostik und Therapie des postpunktionellen 
+Kopfschmerzes dargestellt werden.
+
+DOI: 10.1007/s00482-021-00540-x
+PMID: 33725180 [Indexed for MEDLINE]
+
+
+10. Cancer. 2021 Dec 1;127(23):4368-4375. doi: 10.1002/cncr.33930. Epub 2021 Oct 4.
+
+Evaluation of headache in patients with cancer.
+
+Bernstein CA(1).
+
+Author information:
+(1)Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts.
+
+Headache is a common complaint and is often benign. When patients with cancer 
+describe new headaches, it is important to ensure that there are no emergent or 
+concerning etiologies, including metastatic disease. This review article details 
+primary and secondary headaches. Red flags-the do-not-miss warning signs-are 
+described. An initial approach to the evaluation, including suggestions for 
+imaging, features to look for in a targeted examination, and when to request a 
+consultation, is outlined. An overview of headache etiologies is described with 
+a particular emphasis on the most common types: migraine and tension. The 
+classification of headaches, based on criteria from the International 
+Classification of Headache Disorders (3rd edition; beta version), is reviewed. 
+Medications used for treatment, including newer biological agents, are 
+described, and there are details about both abortive and preventive medication 
+therapies. Suggestions for complementary and integrative therapies, some of 
+which may be synergistic in treating other cancer symptoms, are outlined; they 
+include mindfulness therapies, which are gaining traction in treating a variety 
+of medical conditions. Readers should have an understanding of headache 
+evaluation in patients with cancer and should know how to formulate a plan for a 
+diagnosis. In addition, readers will gain familiarity with common treatments, 
+both pharmacological and complementary/integrative.
+
+© 2021 American Cancer Society.
+
+DOI: 10.1002/cncr.33930
+PMID: 34606085 [Indexed for MEDLINE]
+
+
+11. Med Clin North Am. 2025 Mar;109(2):529-541. doi: 10.1016/j.mcna.2024.10.004. 
+Epub 2024 Dec 10.
+
+Acute Headache Diagnosis and Management.
+
+Parikh SK(1).
+
+Author information:
+(1)Adjunct Faculty, College of Nursing, Thomas Jefferson University, 901 Walnut 
+Street, Philadelphia, PA 19107, USA. Electronic address: 
+simy.parikh@jefferson.edu.
+
+A clinician's goal when encountering acute headaches is to distinguish primary 
+and secondary headache disorders. A comprehensive history, screening for warning 
+signs of secondary headache, and a physical examination can help determine if 
+further workup is necessary. While neurodiagnostic testing is not indicated for 
+individuals with a history of primary headache disorders with typical symptoms, 
+individuals with atypical signs or symptoms may warrant brain imaging with MRI 
+brain, CT head, CT angiogram, CTV, MRV, conventional cerebral angiography, spine 
+imaging, and/or lumbar puncture. Secondary headaches should be treated for their 
+underlying cause. Primary headache disorders have specific evidence-based 
+treatments that can help with acute pain relief.
+
+Copyright © 2024 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mcna.2024.10.004
+PMID: 39893027 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure Dr S.K. Parikh has received personal 
+compensation in the range of $500 to $4999 for serving on a Scientific Advisory 
+or Data Safety Monitoring Board for Pfizer.
+
+
+12. Indian J Pediatr. 2018 Jan;85(1):66-70. doi: 10.1007/s12098-017-2437-7. Epub 
+2017 Aug 30.
+
+Child with Headache.
+
+Lakshmikantha KM(1), Nallasamy K(2).
+
+Author information:
+(1)Advanced Pediatric Centre, Post Graduate Institute of Medical Education and 
+Research, Chandigarh, 160012, India.
+(2)Advanced Pediatric Centre, Post Graduate Institute of Medical Education and 
+Research, Chandigarh, 160012, India. ny.karthi@gmail.com.
+
+Headache is a common complaint for which parents seek pediatrician's consult. 
+Headaches are seen in increasing frequency from 3 y of age onwards with peaks in 
+older children and adolescents. In children, secondary headaches due to 
+underlying etiologies are far more common than primary headaches due to 
+migraine. Recognition of temporal pattern of headache along with focused 
+neurological examination will help in narrowing down the etiology. The key goal 
+in urgent care assessment is to identify children with underlying serious 
+illnesses that require stabilization and urgent referral. For benign causes, 
+symptomatic treatment with analgesics like paracetamol or ibuprofen would 
+suffice initially, while identification of the underlying condition would lead 
+to further appropriate management, particularly in primary headaches.
+
+DOI: 10.1007/s12098-017-2437-7
+PMID: 28852973 [Indexed for MEDLINE]
+
+
+13. Continuum (Minneap Minn). 2015 Aug;21(4 Headache):1132-45. doi: 
+10.1212/CON.0000000000000197.
+
+Pediatric Headache.
+
+Hershey AD.
+
+PURPOSE OF REVIEW: Headache is one of the most common health concerns in 
+children and adolescents, yet remains underrecognized as a disease. A variety of 
+factors, including the unique aspects of childhood headaches, contribute to this 
+underrecognition.
+RECENT FINDINGS: Improving recognition of childhood and adolescent headaches and 
+using a standardized approach for their evaluation is expected to lead to the 
+appropriate diagnosis and subsequent additional evaluation and management to 
+improve the overall outcome in children and adolescents with headaches. Building 
+on limited studies in children and adolescents and translating adult studies to 
+children can assist in designing a multidisciplinary treatment plan.
+SUMMARY: This review focuses on some of the unique aspects of evaluating 
+children and adolescents with headaches; the impact of these headaches on 
+school, home, and family function; determination of disability and influence of 
+comorbid conditions; and development of a treatment plan that incorporates 
+acute, preventive, and biobehavioral management tools.
+
+DOI: 10.1212/CON.0000000000000197
+PMID: 26252596 [Indexed for MEDLINE]
+
+
+14. Semin Pediatr Neurol. 2021 Dec;40:100925. doi: 10.1016/j.spen.2021.100925. Epub 
+2021 Sep 5.
+
+Ocular Causes for Headache.
+
+Nguyen E(1), Inger H(2), Jordan C(2), Rogers D(2).
+
+Author information:
+(1)Nationwide Children's Hospital, Department of Ophthalmology, Columbus, OH. 
+Electronic address: Elena.Nguyen@nationwidechildrens.org.
+(2)Nationwide Children's Hospital, Department of Ophthalmology, Columbus, OH.
+
+Ocular causes of headaches include headaches associated with refractive error 
+(HARE), convergence insufficiency (CI), and accommodative spasm (AS). HARE is 
+more severe in patients with a high amount of refractive error. CI or AS 
+patients can have diplopia and strabismus. Both CI and AS can be associated with 
+head trauma or other systemic disorders. Headaches due to ocular causes are 
+frontally localized occurring near the end of the day and are associated with 
+increased amount of near work. HARE is treated with glasses while CI or AS may 
+need other therapies such as prism, eye drops, surgery, or orthoptic exercises.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.spen.2021.100925
+PMID: 34749915 [Indexed for MEDLINE]
+
+
+15. Neurol Clin. 2022 Aug;40(3):507-530. doi: 10.1016/j.ncl.2022.02.004.
+
+Imaging of Headache Attributed to Vascular Disorders.
+
+Wang LL(1), Mahammedi A(2), Vagal AS(2).
+
+Author information:
+(1)Department of Radiology, University of Cincinnati, University of Cincinnati 
+Medical Center, 234 Goodman Street, Cincinnati, OH 45219, USA. Electronic 
+address: Lily.wang@uc.edu.
+(2)Department of Radiology, University of Cincinnati, University of Cincinnati 
+Medical Center, 234 Goodman Street, Cincinnati, OH 45219, USA.
+
+Imaging is essential in the diagnosis of vascular causes of headaches. With 
+advances in technology, there are increasing options of imaging modalities to 
+choose from, each with its own advantages and disadvantages. This article will 
+focus on imaging pearls and pitfalls of vascular causes of headaches. These 
+include aneurysms, vasculitides, vascular malformations, and cerebral venous 
+thrombosis.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ncl.2022.02.004
+PMID: 35871782 [Indexed for MEDLINE]
+
+
+16. Curr Pain Headache Rep. 2018 Feb 23;22(3):17. doi: 10.1007/s11916-018-0675-7.
+
+Headache Diagnosis in Children and Adolescents.
+
+Dao JM(1), Qubty W(2).
+
+Author information:
+(1)Department of Neurology, UCSF Child Neurology, 550 16th Street, 4th Floor, 
+San Francisco, CA, 94158, USA. jasmin.dao@ucsf.edu.
+(2)Department of Neurology, UCSF Child Neurology, 550 16th Street, 4th Floor, 
+San Francisco, CA, 94158, USA.
+
+PURPOSE OF REVIEW: Headache phenotypes can differ between adults and children. 
+While most headaches are due to primary headache disorders, in a small 
+population, they can be an indication of a potentially life-threatening 
+neurologic condition. The challenge lies in identifying warning signs that 
+warrant further workup. This article reviews different types of pediatric 
+headaches and headache evaluation in children and teens, and focuses on the 
+approach for diagnosis of secondary headaches.
+RECENT FINDINGS: Common thought is that increased frequency and severity of 
+headache may reflect secondary pathology; however, headache phenotype may not be 
+fully developed and can evolve in adolescence or adulthood. Headache location, 
+particularly occipital headache alone, does not necessarily signify secondary 
+intracranial pathology. Certain warning signs warrant neuroimaging, but others 
+only warrant imaging in certain clinical contexts. Brain MRI is the neuroimaging 
+modality of choice, though there is a high rate of incidental findings and often 
+does not change headache management. A stepwise approach is essential to avoid 
+missing secondary headaches. There are several differences between adults and 
+children in clinical manifestations of headache. Evaluation and diagnosis of 
+pediatric headache starts with a thorough headache and medical history, family 
+and social history, and identification of risk factors. A thorough physical and 
+neurologic exam is important, with close attention to features that could 
+suggest secondary headache pathology. Neuroimaging and other testing should only 
+be performed if there is concern for secondary headache.
+
+DOI: 10.1007/s11916-018-0675-7
+PMID: 29476266 [Indexed for MEDLINE]
+
+
+17. Pediatr Ann. 2017 Apr 1;46(4):e155-e165. doi: 10.3928/19382359-20170321-02.
+
+Childhood Headache: A Brief Review.
+
+Blume HK.
+
+Headaches are common in childhood and adolescence and can cause significant 
+distress and disability for a child and their family. Providers need to be able 
+to identify "red flags" for worrisome causes of secondary headaches and 
+recognize typical primary headache characteristics to provide each patient with 
+the best possible care to improve their quality of life and minimize disability. 
+This article reviews the epidemiology of headaches in children, signs and 
+symptoms of secondary headaches, definitions of some primary childhood 
+headaches, and options for management of both acute and chronic pediatric 
+migraine. [Pediatr Ann. 2017;46(4):e155-e165.].
+
+Copyright 2017, SLACK Incorporated.
+
+DOI: 10.3928/19382359-20170321-02
+PMID: 28414397 [Indexed for MEDLINE]
+
+
+18. Neurol Clin. 2012 Aug;30(3):835-66. doi: 10.1016/j.ncl.2012.04.001. Epub 2012 
+Jun 9.
+
+Headache in pregnancy.
+
+MacGregor EA(1).
+
+Author information:
+(1)Barts Sexual Health Centre, St Bartholomew's Hospital, London EC1A 7BE, UK. 
+e.macgregor@qmul.ac.uk
+
+Primary headaches are most common in women during their reproductive years and 
+are affected by the hormonal fluctuations during pregnancy. Most headaches 
+follow a benign course during pregnancy, although migraine is associated with 
+increased risk of hypertensive disorders of pregnancy and stroke. Management of 
+primary headaches during pregnancy is essentially similar to management in the 
+nonpregnant state, with a few exceptions. This article reviews the epidemiology, 
+prognosis, and management of primary headaches during pregnancy and lactation, 
+and considers secondary headaches that are important to exclude.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ncl.2012.04.001
+PMID: 22840792 [Indexed for MEDLINE]
+
+
+19. Semin Pediatr Neurol. 2017 Nov;24(4):310-319. doi: 10.1016/j.spen.2017.10.003. 
+Epub 2017 Oct 6.
+
+Pediatric Headache and Seizures.
+
+Oakley CB(1), Kossoff EH(2).
+
+Author information:
+(1)Departments of Neurology and Pediatrics, Johns Hopkins University School of 
+Medicine, Baltimore, MD. Electronic address: coakley1@jhmi.edu.
+(2)Departments of Neurology and Pediatrics, Johns Hopkins University School of 
+Medicine, Baltimore, MD.
+
+Headache and seizures are two of the most common complaints seen in the field of 
+pediatric neurology with headache being number one. Both these conditions may 
+coexist. Where the difficulty begins is when the symptoms are not clear cut in 
+making a diagnosis, and conditions are possible as either an atypical seizure or 
+migraine variant. What further complicates matters is the fact that there are 
+many underlying neurologic conditions that carry with them a higher likelihood 
+of developing both headaches and seizures, making each a distinct possibility 
+when obtaining a history from a parent about unusual spells. Although 
+differentiating between seizure and headache may not be easy, with a focused yet 
+thorough history and appropriate use of investigative tools, it can be done. 
+Coming to the correct diagnosis is only the start; once seizures and or 
+headaches have been appropriately diagnosed then the real challenge begins and 
+that is finding a way to successfully treat the headaches and seizures. Within 
+pediatric neurology, the acute options tend to be more diagnosis specific 
+whereas the prophylactic ones may overlap and treat both headaches and seizures. 
+In the following review, we will discuss the epidemiology of pediatric headaches 
+and seizures, the overlap between these 2 conditions in diagnosis, as well as 
+how to tell them apart, and the treatment options and prognosis of both common 
+neurologic disorders in children.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.spen.2017.10.003
+PMID: 29249511 [Indexed for MEDLINE]
+
+
+20. Int Forum Allergy Rhinol. 2019 May;9(5):443-451. doi: 10.1002/alr.22268. Epub 
+2019 Jan 15.
+
+Rhinogenic headache in pediatric and adolescent patients: an evidence-based 
+review.
+
+Smith BC(1), George LC(1), Svider PF(1), Nebor I(1), Folbe AJ(2), Sheyn 
+A(3)(4)(5), Johnson AP(6), Eloy JA(1)(7)(8)(9).
+
+Author information:
+(1)Department of Otolaryngology-Head and Neck Surgery, Rutgers New Jersey 
+Medical School, Newark, NJ.
+(2)Department of Otolaryngology, William Beaumont Hospital, Royal Oak, MI.
+(3)Department of Otolaryngology, University of Tennessee Health Science Center, 
+Memphis, TN.
+(4)Department of Pediatric Otolaryngology, LeBonheur Children's Hospital, 
+Memphis, TN.
+(5)St. Jude Children's Research Hospital, Memphis, TN.
+(6)Department of Otolaryngology, University of Colorado School of Medicine, 
+Aurora, CO.
+(7)Department of Neurological Surgery, Rutgers New Jersey Medical School, 
+Newark, NJ.
+(8)Department of Ophthalmology and Visual Science, Rutgers New Jersey Medical 
+School, Newark, NJ.
+(9)Center for Skull Base and Pituitary Surgery, Neurological Institute of New 
+Jersey, Rutgers New Jersey Medical School, Newark, NJ.
+
+BACKGROUND: Although some causes of rhinogenic headache, such as acute 
+sinusitis, have clear diagnostic criteria, others, such as "sinus headache" and 
+mucosal contact points, are more nebulous. Misdiagnosis of these entities and 
+primary headaches may result in unnecessary medical or surgical treatment. The 
+purpose of this systematic review is to delineate current understanding of 
+diagnosis and treatment of rhinogenic headaches, including sinus and mucosal 
+contact point headaches, in children.
+METHODS: PubMed, SCOPUS, and the Cochrane databases were searched for studies on 
+sinus headache and mucosal contact point headaches in children. Studies were 
+assessed for level of evidence, and risk of bias was assessed by Methodological 
+Index for Non-Randomized Studies (MINORS) scoring. Diagnostic criteria, 
+management strategies, and other clinical data were analyzed.
+RESULTS: Eight studies met the inclusion criteria. Level of evidence was 
+predominantly 4. Forty percent of pediatric patients with migraine had been 
+previously misdiagnosed with sinus headache. Of 327 pediatric patients in two 
+studies, between 55% and 73% had at least 1 cranial autonomic symptom associated 
+with their migraine. For children with mucosal contact point headaches, surgical 
+management in select patients improved headache intensity or severity in 17 
+(89%) cases.
+CONCLUSION: The majority of pediatric patients with sinus headache harbor a 
+primary headache disorder, with migraine being most common. Physicians should 
+suspect primary headache disorders in pediatric patients with chronic headaches 
+and a normal exam. Although some case series are supportive of surgical 
+management for mucosal contact point headaches in children, the level of 
+evidence supporting these recommendations is insufficient. High-quality clinical 
+trials are necessary for continuing to improve outcomes in patients with these 
+clinical entities.
+
+© 2019 ARS-AAOA, LLC.
+
+DOI: 10.1002/alr.22268
+PMID: 30644652 [Indexed for MEDLINE]
+
+
+21. Semin Pediatr Neurol. 2025 Apr;53:101185. doi: 10.1016/j.spen.2025.101185. Epub 
+2025 Mar 22.
+
+Pediatric headache attributed to brain tumor.
+
+Ergonul Z(1), Stone A(2).
+
+Author information:
+(1)Division of Pediatric Neurology, Department of Pediatrics, Weill Cornell 
+Medical College, New York, NY, USA. Electronic address: zue2001@med.cornell.edu.
+(2)Division of Pediatric Neurology, Department of Pediatrics, Weill Cornell 
+Medical College, New York, NY, USA.
+
+Headache is one of the most common neurologic disorders in children with a 
+prevalence between 57-82 %. Affecting only 2.5 per 100,000 persons of the 
+pediatric population, brain tumors in children is less common, but frequently 
+present with headache. However, headache rarely presents as the sole neurologic 
+symptom of a brain tumor in children. According to the International 
+Classification of Headache Disorders Third Edition (ICHD-3), a headache may be 
+attributed to a brain tumor if it is in close temporal relation with the tumor, 
+worsens in parallel with the tumor, and/or improves after the successful 
+treatment of the tumor. Brain tumor headaches are traditionally thought to 
+display specific characteristics, including severe pain intensity, morning 
+occurrence and association with nausea or vomiting. There are no formal criteria 
+for headache attributed to brain tumor in children in ICHD-3. In this review we 
+provide an overview of the ICHD-3 criteria and clinical presentation, and 
+management of headaches attributed to brain tumors in children.
+
+Copyright © 2025 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.spen.2025.101185
+PMID: 40216489 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Zuhal Ergonul 
+declares that she is a principal investigator for a Phase 3 trial of Rimegepant 
+for the treatment of migraine in children and adolescents (Pfizer). Zuhal 
+Ergonul has no other competing financial interests or personal relationships 
+that could have appeared to influence the work reported in this paper. Amelia 
+Stone has no known competing financial interests or personal relationships that 
+could have appeared to influence the work reported in this paper.
+
+
+22. Brain Nerve. 2013 Sep;65(9):1043-55.
+
+[Headache disorders].
+
+[Article in Japanese]
+
+Takeshima T(1), Kikui S.
+
+Author information:
+(1)Headache Center, Department of Neurology, Tominaga Hospital.
+
+Primary headache disorders such as migraine, tension-type headache, and cluster 
+headache are prevalent and disabling neurological disorders. Although most 
+headache disorders are largely treatable, they are under-recognized, 
+under-diagnosed, and under-treated. Many headache sufferers in Japan do not 
+receive appropriate and effective health care; hence, the illness, which should 
+be relieved, persists and acts as an individual and societal burden. One of the 
+barriers most responsible for this is poor awareness of the disorders. For 
+lifting the burden, health care must be improved. Education is an essential way 
+to resolve these issues at multiple levels. We have a Japanese version of the 
+international headache classification and diagnostic criteria II (ICHD-II) and 
+guidelines for the management of chronic headaches. Utilization of these 
+resources is key for the improvement of headache management in our country. Not 
+only neurologists, but also neurosurgeons and other medical specialists are 
+participating in headache care in Japan. The Japanese Headache Society and the 
+Japanese Society for Neurology should play major roles in health care service, 
+education programs, as well as clinical and basic research for headache 
+disorders. The road map for realizing our aim on headache treatment is as 
+follows: (1) increase the number of units concerning headache in lectures for 
+medical students, implement training programs for residents and neurologists, 
+and offer continuous medical educations for physicians and neurologists; (2) 
+secure more funding for headache research; (3) propagate medical care for 
+headache in primary care settings and regional fundamental hospitals; (4) reform 
+the health care system for headache and incentivize appropriate compensation for 
+headache care in public health insurance; and (5) spread appropriate information 
+on medical and socio-ethical issues related to headache for the sufferers and 
+citizens. The authors expect that many neurologists have an interest in headache 
+and understanding headaches, and better health care for headache disorders will 
+bring great benefits for the sufferers.
+
+PMID: 24018741 [Indexed for MEDLINE]
+
+
+23. Am J Otolaryngol. 2021 Nov-Dec;42(6):103113. doi: 10.1016/j.amjoto.2021.103113. 
+Epub 2021 Jun 17.
+
+Rhinogenic and sinus headache - Literature review.
+
+Bernichi JV(1), Rizzo VL(1), Villa JF(2), Santos RF(3), Caparroz FA(4).
+
+Author information:
+(1)FACERES, São José do Rio Preto, Sao Paulo, Brazil.
+(2)Department of Rhinology and Skull Base Surgery, Federal University of Sao 
+Paulo, Brazil. Electronic address: f_caparroz@hotmail.com.
+(3)Department of Rhinology and Skull Base Surgery, Federal University of Sao 
+Paulo, Brazil.
+(4)Department of Sleep Medicine, Federal University of Sao Paulo, Brazil.
+
+BACKGROUND: Headache is a common, yet challenging symptom to evaluate given its 
+wide range of clinical presentations and different etiologies. For centuries, 
+conceptual understanding of headache causation has been attributed to anatomic 
+abnormalities of the nose and paranasal sinuses.
+METHODS: Structured literature review.
+RESULTS: The number of cases, categorized as migraines or other primary 
+headaches, misdiagnosed as a "sinus headache" is high in the literature, ranging 
+from 50 to 80%. The potential mechanisms for rhinogenic headaches were 
+classically described as pain secondary to prolonged mucosal contact points, 
+hypoxia in the paranasal sinuses secondary to poor ventilation, or pressure 
+caused by the growth of nasal polyps. Additionally, other mechanisms were 
+described and are still being studied. Corrective surgery for mucosal contact 
+points in the nasal cavity is deemed necessary for relieving the headache, 
+although patient outcomes are variable.
+CONCLUSION: Delay in proper diagnosis and treatment negatively impact patient 
+quality of life. Most cases of "sinus headache" or "rhinogenic headache" seen in 
+clinical practice are in fact misdiagnosed as either primary headaches or 
+migraines. Because of increased misdiagnoses, Otolaryngologists should establish 
+a direct and precise diagnosis congruent with a chief complaint being a 
+headache. Vital information such as a good clinical history, well-performed 
+nasal endoscopy, and occasional CT scan may decrease misdiagnosis probability.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjoto.2021.103113
+PMID: 34175774 [Indexed for MEDLINE]
+
+
+24. Otolaryngol Clin North Am. 2022 Jun;55(3S):e1-e8. doi: 
+10.1016/j.otc.2022.06.014.
+
+Comprehensive Management of Headache for the Otolaryngologist: A Summary.
+
+Kulich M(1), Setzen M(2), Doherty J(3).
+
+Author information:
+(1)Caruso Department of Otolaryngology-Head and Neck Surgery, Keck School of 
+Medicine of the University of Southern California, 1537 Norfolk Street, Suite 
+5800, Los Angeles, CA 90033, USA. Electronic address: Marta.kulich@med.usc.edu.
+(2)Weill Cornell Medical College.
+(3)Caruso Department of Otolaryngology-Head and Neck Surgery, Keck School of 
+Medicine of the University of Southern California.
+
+Otolaryngologists will frequently encounter patients with head and facial pain. 
+The headache may be a primary disorder or a symptom of a secondary pathology. 
+Understanding diagnostic criteria and the autonomic and otologic manifestations 
+of primary headaches is imperative for accurate diagnosis and treatment. This 
+article summarizes key points in the issue "Comprehensive Management of Headache 
+for the Otolaryngologist" and can be used as a cursory reference.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.otc.2022.06.014
+PMID: 35987560 [Indexed for MEDLINE]
+
+
+25. Continuum (Minneap Minn). 2014 Feb;20(1 Neurology of Pregnancy):128-47. doi: 
+10.1212/01.CON.0000443841.40933.9e.
+
+Headache in pregnancy.
+
+Macgregor EA.
+
+PURPOSE OF REVIEW: This article provides an overview of the diagnosis and 
+management of primary and secondary headaches that may occur during pregnancy 
+and postpartum. Headache presenting in pregnancy is of significant concern to 
+the affected woman. Quick and correct diagnosis leads to the optimal management, 
+minimizing risks to the pregnancy.
+RECENT FINDINGS: Several strategies have been developed to distinguish secondary 
+headaches that need urgent assessment and management from benign primary and 
+secondary headaches and to minimize the risk of misdiagnosis. Recent guidelines 
+for the drug treatment of headaches are considered in the context of updated 
+information on the safety of drugs in pregnancy and lactation.
+SUMMARY: Primary headaches are common and typically improve during pregnancy. 
+Management during pregnancy and lactation is similar to management in the 
+nonpregnant state, with a few exceptions. Secondary causes of headache that are 
+more likely to occur during pregnancy include cerebral venous thrombosis, 
+posterior reversible encephalopathy syndrome resulting from eclampsia, 
+post-dural puncture headache, stroke, and pituitary apoplexy.
+
+DOI: 10.1212/01.CON.0000443841.40933.9e
+PMCID: PMC10563971
+PMID: 24492815 [Indexed for MEDLINE]
+
+
+26. Curr Pain Headache Rep. 2003 Aug;7(4):288-96. doi: 10.1007/s11916-003-0049-6.
+
+Headache in pregnancy.
+
+Marcus DA(1).
+
+Author information:
+(1)Pain Evaluation and Treatment Institute, 5750 Centre Avenue, Pittsburgh, PA 
+15206, USA. MarcusD@anes.upmc.edu
+
+Headache is a frequent symptom in women of childbearing age and during 
+pregnancy. Benign and pathologic headaches may change in response to changes in 
+estrogen after conception. Expected patterns of change are described for 
+headaches that occur commonly during pregnancy. In addition, although treatment 
+options are limited during pregnancy, a variety of effective medication and 
+nonmedication treatments are available and should be offered to women with 
+benign headaches that persist into the second trimester of pregnancy.
+
+DOI: 10.1007/s11916-003-0049-6
+PMID: 12828878 [Indexed for MEDLINE]
+
+
+27. J Am Osteopath Assoc. 2005 Apr;105(4 Suppl 2):23S-29S.
+
+Chronic daily headache.
+
+Silberstein SD(1).
+
+Author information:
+(1)Jefferson Headache Center, Thomas Jefferson University Hospital, 111 S 11th 
+Street, Gibbon Bldg, Suite 8130, Philadelphia, PA 19107-4824, USA. 
+Stephen.silberstein@jefferson.edu.
+
+Chronic daily headache represents a range of disorders characterized by the 
+occurrence of long-duration headache 15 or more days per month. The 
+classification of these disorders continues to undergo revision to make them 
+more clinically relevant, such as that which has been most controversial, the 
+classification of chronic migraine. The role of medication overuse in what has 
+commonly been known as rebound headache can have a significant influence on 
+these disorders. The diagnosis of the chronic daily headaches, including chronic 
+migraine and chronic tension-type headache, truly cannot be made if patients are 
+having medication-overuse headache. This article reviews the criteria for 
+medication-overuse headache and the subset of headaches making up chronic daily 
+headache, as well as the epidemiologic and therapeutic aspects of these 
+disorders.
+
+PMID: 15928350 [Indexed for MEDLINE]
+
+
+28. Ned Tijdschr Tandheelkd. 2016 Nov;123(11):539-544. doi: 
+10.5177/ntvt.2016.11.16122.
+
+[Headache: classification and diagnosis].
+
+[Article in Dutch; Abstract available in Dutch from the publisher]
+
+Carbaat PA, Couturier EG.
+
+There are many types of headache and, moreover, many people have different types 
+of headache at the same time. Adequate treatment is possible only on the basis 
+of the correct diagnosis. Technically and in terms of content the current 
+diagnostics process for headache is based on the 'International Classification 
+of Headache Disorders' (ICHD-3-beta) that was produced under the auspices of the 
+International Headache Society. This classification is based on a distinction 
+between primary and secondary headaches. The most common primary headache types 
+are the tension type headache, migraine and the cluster headache. Application of 
+uniform diagnostic concepts is essential to come to the most appropriate 
+treatment of the various types of headache.
+
+Publisher: Er zijn vele soorten hoofdpijn en bovendien hebben veel mensen 
+verschillende soorten hoofdpijn tegelijkertijd. Een adequate behandeling is 
+alleen mogelijk op basis van de juiste diagnose. Technisch en inhoudelijk is de 
+huidige diagnostiek van hoofdpijn gebaseerd op de ‘International Classification 
+of Headache Disorders’ (ICHD-3-beta) die is opgesteld onder auspiciën van de 
+International Headache Society. Deze classificatie gaat uit van primaire en 
+secundaire hoofdpijnen. De meest voorkomende primaire hoofdpijnen zijn 
+spanningshoofdpijn, migraine en clusterhoofdpijn. Toepassing van eenduidige 
+diagnostische begrippen is essentieel om te komen tot de meest geëigende 
+behandeling van de verschillende soorten hoofdpijn.
+
+DOI: 10.5177/ntvt.2016.11.16122
+PMID: 27834408 [Indexed for MEDLINE]
+
+
+29. Headache. 2022 Mar;62(3):225-226. doi: 10.1111/head.14280. Epub 2022 Mar 16.
+
+Introducing Headache's "Trainee Highlights".
+
+Bobker SM(1).
+
+Author information:
+(1)UCSF Headache Center, University of California at San Francisco, San 
+Francisco, California, USA.
+
+DOI: 10.1111/head.14280
+PMID: 35294056 [Indexed for MEDLINE]
+
+
+30. J Neuroinflammation. 2021 Nov 8;18(1):259. doi: 10.1186/s12974-021-02229-5.
+
+Headache and immunological/autoimmune disorders: a comprehensive review of 
+available epidemiological evidence with insights on potential underlying 
+mechanisms.
+
+Biscetti L(1), De Vanna G(2), Cresta E(2), Corbelli I(2), Gaetani L(2), Cupini 
+L(3), Calabresi P(4), Sarchielli P(5).
+
+Author information:
+(1)Istituto Nazionale di Riposo e Cura dell'Anziano a carattere scientifico, 
+IRCSS- INRCA, Ancona, Italy.
+(2)Section of Neurology, Department of Medicine and Surgery, University of 
+Perugia, Perugia, Italy.
+(3)Headache Center, UOC Neurologia-Stroke Unit, Emergency Department, Ospedale 
+S. Eugenio, Rome, Italy.
+(4)Department of Neuroscience, Università Cattolica Sacro Cuore, Rome, Italy.
+(5)Section of Neurology, Department of Medicine and Surgery, University of 
+Perugia, Perugia, Italy. paola.sarchielli@unipg.it.
+
+Several lines of evidence support a role of the immune system in headache 
+pathogenesis, with particular regard to migraine. Firstly, alterations in 
+cytokine profile and in lymphocyte subsets have been reported in headache 
+patients. Secondly, several genetic and environmental pathogenic factors seem to 
+be frequently shared by headache and immunological/autoimmune diseases. 
+Accordingly, immunological alterations in primary headaches, in particular in 
+migraine, have been suggested to predispose some patients to the development of 
+immunological and autoimmune diseases. On the other hand, pathogenic mechanisms 
+underlying autoimmune disorders, in some cases, seem to favour the onset of 
+headache. Therefore, an association between headache and 
+immunological/autoimmune disorders has been thoroughly investigated in the last 
+years. The knowledge of this possible association may have relevant implications 
+in the clinical practice when deciding diagnostic and therapeutic approaches. 
+The present review summarizes findings to date regarding the plausible 
+relationship between headache and immunological/autoimmune disorders, starting 
+from a description of immunological alteration of primary headaches, and moving 
+onward to the evidence supporting a potential link between headache and each 
+specific autoimmune/immunological disease.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12974-021-02229-5
+PMCID: PMC8573865
+PMID: 34749743 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they do not have any 
+competing interest.
+
+
+31. Cephalalgia. 2023 Apr;43(4):3331024221146976. doi: 10.1177/03331024221146976.
+
+Epicranial headaches part 2: Nummular headache and epicrania fugax.
+
+Cuadrado ML(1)(2).
+
+Author information:
+(1)Headache Unit, Department of Neurology, Instituto de Investigación Sanitaria 
+San Carlos, Hospital Clínico San Carlos, Madrid, Spain.
+(2)Department of Medicine, School of Medicine, Universidad Complutense de 
+Madrid, Madrid, Spain.
+
+BACKGROUND: Nummular headache and epicrania fugax are two primary headaches that 
+fall under the heading of epicranial headaches.
+METHODS: This article reviews the epidemiological and clinical features of 
+nummular headache and epicrania fugax, proposed pathogenic mechanisms and 
+state-of-the-art management, according to the literature.
+RESULTS AND CONCLUSIONS: Nummular headache and epicrania fugax are generally 
+viewed as rare headache disorders, but no population-based epidemiological data 
+are available. Nummular headache is characterized by continuous or intermittent 
+head pain, which remains circumscribed in a round or oval area of the scalp, 
+typically one to six centimeters in diameter. Epicrania fugax manifests with 
+brief paroxysms of pain that move along the surface of the head, following a 
+linear or zigzag trajectory through different nerve territories. Nummular 
+headache and epicrania fugax are mostly primary headaches, but some secondary 
+cases have been reported. The pathogenesis of these headaches is not fully 
+understood. Nummular headache could probably originate in epicranial tissues or 
+adjacent intracranial structures, while the origin of epicrania fugax could be 
+extracranial or intracranial. Diagnostic assessment requires careful examination 
+of the symptomatic areas. Underlying disorders should be excluded by additional 
+investigations, including neuroimaging and appropriate blood tests. No 
+controlled clinical trials have been conducted in nummular headache or epicrania 
+fugax. Analgesics and anti-inflammatory drugs, botulinum toxin and gabapentin 
+are currently the most recommended treatment options for nummular headache. In 
+epicrania fugax, the most used treatments are gabapentin, lamotrigine, and other 
+antiseizure medications.
+
+DOI: 10.1177/03331024221146976
+PMID: 36855999 [Indexed for MEDLINE]
+
+
+32. Curr Pain Headache Rep. 2010 Aug;14(4):316-20. doi: 10.1007/s11916-010-0126-6.
+
+Headache in multiple sclerosis.
+
+Putzki N(1), Katsarava Z.
+
+Author information:
+(1)Department of Neurology, University of Duisburg-Essen, Germany. 
+norman.putzki@uni-due.de
+
+Pain, including headache, is a frequent complaint of individuals with multiple 
+sclerosis (MS). Prevalence of headache in patients with MS was reported to be 
+higher than 50%, but it is uncertain if this is different than what is seen in 
+the general population. Nonetheless, it is possible that MS and headaches are 
+comorbid. Case reports illustrated that isolated MS lesions (eg, in "strategic" 
+regions like the midbrain) may cause severe headaches often resembling migraine. 
+Furthermore, the role of MS disease-modifying agents needs to be taken into 
+consideration. Mode of action and side effect profiles differ, and treatment per 
+se may sometimes trigger headache in patients with MS. Thorough evaluation of 
+headache in patients with MS is crucial to optimize patient management to help 
+improve quality of life.
+
+DOI: 10.1007/s11916-010-0126-6
+PMID: 20514531 [Indexed for MEDLINE]
+
+
+33. Nervenarzt. 2021 Jun;92(6):611-621. doi: 10.1007/s00115-021-01147-4.
+
+[Post-dural puncture headache].
+
+[Article in German; Abstract available in German from the publisher]
+
+Kamm K(1), Förderreuther S(2).
+
+Author information:
+(1)Neurologische Klinik und Poliklinik, Klinikum der LMU München, Standort 
+Großhadern, Marchioninistr. 15, 81377, München, Deutschland.
+(2)Neurologische Klinik und Poliklinik, Neurologischer Konsiliardienst am 
+Standort Innenstadt, Klinikum der Ludwig-Maximilians-Universität München, 
+Ziemssenstr. 1, 80336, München, Deutschland. 
+steffi.foerderreuther@med.uni-muenchen.de.
+
+Post-dural puncture headache belongs to the group of secondary headache 
+disorders and is a typical complication of intended or unintended dural 
+puncture. The main symptom is orthostatic headache, which can be accompanied by 
+neurological symptoms such as diplopia depending on the extent of the 
+cerebrospinal fluid leak. The course of this headache is predominantly benign, 
+showing spontaneous improvement over a couple of days, although severe cases are 
+described in the literature. The following article provides an overview of the 
+current knowledge about the headache's pathophysiology, diagnostic work-up and 
+therapy.
+
+Publisher: Der postpunktionelle Kopfschmerz gehört zu den sekundären 
+Kopfschmerzen und kann als Komplikation nach einer Punktion des Liquorraums 
+auftreten. Hauptsymptom ist ein orthostatischer Kopfschmerz, der je nach Schwere 
+des Liquorlecks mit anderen neurologischen Symptomen wie Sehstörungen 
+einhergehen kann. Der postpunktionelle Kopfschmerz hat einen überwiegend 
+benignen Verlauf mit spontaner Besserung nach einigen Tagen, dennoch sind selten 
+schwerwiegende Verläufe beschrieben. Im vorliegenden Beitrag soll der aktuelle 
+Stand der Pathophysiologie, Diagnostik und Therapie des postpunktionellen 
+Kopfschmerzes dargestellt werden.
+
+DOI: 10.1007/s00115-021-01147-4
+PMID: 34046723 [Indexed for MEDLINE]
+
+
+34. Curr Pain Headache Rep. 2005 Aug;9(4):272-6. doi: 10.1007/s11916-005-0036-1.
+
+Primary cough headache.
+
+Pascual J(1).
+
+Author information:
+(1)Service of Neurology, University Hospital Marqués de Valdecilla, 39008 
+Santander, Spain. juliopascual@telefonica.net
+
+Primary cough headache is defined as head pain brought on by coughing or other 
+Valsalva maneuvers, but not by prolonged physical exercise, in the absence of 
+any intracranial disorder. Primary cough headache is considered to be a rare 
+condition, accounting for 0.4% of all headaches consulting our Neurology 
+Department. Its pathophysiology remains a mystery. Primary cough headache is a 
+sudden-onset headache that usually lasts from 1 second to 30 minutes, tends to 
+be bilateral and posterior, does not begin earlier than the fifth decade of 
+life, is more frequent in men, is not accompanied by other neurologic 
+manifestations, and responds to indomethacin. These clinical characteristics 
+allow its differential diagnosis from other entities, even though a 
+craniocervical magnetic resonance imaging study is mandatory to rule out 
+posterior fossa lesions, especially Chiari type-I malformation.
+
+DOI: 10.1007/s11916-005-0036-1
+PMID: 16004844 [Indexed for MEDLINE]
+
+
+35. Zh Nevrol Psikhiatr Im S S Korsakova. 2021;121(2):114-121. doi: 
+10.17116/jnevro2021121021114.
+
+[Headache and cerebrovascular diseases].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Tabeeva GR(1).
+
+Author information:
+(1)Sechenov First Moscow State Medical University, Moscow, Russia.
+
+Headache is a common symptom of acute and chronic cerebrovascular diseases. 
+Headache can be symptomatic in patients with various forms of vascular pathology 
+of the brain but primary headaches are much more common. Secondary headaches in 
+acute cerebrovascular accidents may be the first symptom, and in some cases, a 
+risk factor or complication of stroke. In chronic cerebrovascular diseases, 
+headache may be the predominant symptom in the early stages and resolve in the 
+later stages of the disease. At the same time, the severity, nature and course 
+of headache cannot be considered as reliable signs of cerebrovascular disease. 
+Meanwhile, the verification of the headache form is important from the point of 
+view of determining the priorities of diagnosis and therapy.
+
+Publisher: Головная боль является частым симптомом острых и хронических 
+цереброваскулярных заболеваний. У пациентов с разными формами сосудистой 
+патологии мозга головная боль может носить симптоматический характер, но 
+существенно чаще встречаются первичные цефалгии. Вторичные головные боли при 
+острых нарушениях мозгового кровообращения могут быть первым симптомом, а в 
+некоторых случаях фактором риска или осложнением инсульта. При хронических 
+цереброваскулярных заболеваниях головная боль может быть превалирующим симптомом 
+на ранних этапах и регрессировать на более поздних стадиях заболевания. При этом 
+тяжесть, характер и течение головной боли не могут рассматриваться как надежные 
+признаки цереброваскулярного заболевания. Между тем верификация формы головной 
+боли является важной с точки зрения определения приоритетов диагностики и 
+терапии.
+
+DOI: 10.17116/jnevro2021121021114
+PMID: 33728860 [Indexed for MEDLINE]
+
+
+36. Curr Pain Headache Rep. 2023 Nov;27(11):695-706. doi: 
+10.1007/s11916-023-01180-9. Epub 2023 Oct 24.
+
+The Spectrum of Headache in Leptomeningeal Metastases: A Comprehensive Review 
+with Clinical Management Guidelines.
+
+Wilcox JA(1), Estrera R(2), Boire A(3)(4).
+
+Author information:
+(1)Department of Neurology, Memorial Sloan Kettering Cancer Center, New York, 
+NY, USA.
+(2)Human Oncology and Pathogenesis Program, Brain Tumor Center, Memorial Sloan 
+Kettering Cancer Center, New York, NY, USA.
+(3)Department of Neurology, Memorial Sloan Kettering Cancer Center, New York, 
+NY, USA. boirea@mskcc.org.
+(4)Human Oncology and Pathogenesis Program, Brain Tumor Center, Memorial Sloan 
+Kettering Cancer Center, New York, NY, USA. boirea@mskcc.org.
+
+PURPOSE OF REVIEW: Headaches are a common, oftentimes debilitating symptom in 
+patients with leptomeningeal metastases.
+RECENT FINDINGS: The third edition of the International Classification of 
+Headache Disorders provides a useful diagnostic framework for headaches 
+secondary to leptomeningeal metastases based on the temporal relationship of 
+headache with disease onset, change in headache severity in correlation with 
+leptomeningeal disease burden, and accompanying neurologic signs such as cranial 
+nerve palsies and encephalopathy. However, headaches in patients with 
+leptomeningeal metastases can be further defined by a wide range of varying 
+cancer- and treatment-related pathophysiologies, each requiring a tailored 
+approach. A thorough review of the literature and expert opinion on five 
+observed headache sub-classifications in patients with leptomeningeal metastases 
+is provided, with attention to necessary diagnostic testing, recommended 
+first-line treatments, and prevention strategies.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s11916-023-01180-9
+PMCID: PMC10713777
+PMID: 37874457 [Indexed for MEDLINE]
+
+Conflict of interest statement: JAW has received research funding from the 
+American Society of Clinical Oncology. AAB has received research funding from 
+The Pew Charitable Trusts, Pershing Square Sohn Cancer Research Alliances, Joe 
+W. and Dorothy Dorsett Brown Foundation, W.M. Keck Foundation, American Brain 
+Tumor Association, Alan and Sandra Gerry Metastasis and Tumor Ecosystems Center, 
+AACR, National Institutes of Health, STARR Cancer Consortium, MSKCC Center for 
+Experimental Therapeutics, and FM Kirby Foundation. AAB holds an unpaid position 
+on the Scientific Advisory Board for Evren Scientific. AAB is an inventor on the 
+following patents: 62/258,044; 10/413,522; and 63/052,139 and inventors on the 
+following provisional patent applications: 63/449,817 and 63/449,823.
+
+
+37. Cephalalgia. 2015 Nov;35(13):1215-9. doi: 10.1177/0333102415570496. Epub 2015 
+Feb 3.
+
+Huygens' headache.
+
+Koehler PJ(1).
+
+Author information:
+(1)Department of Neurology Atrium Medical Centre,The Netherlands 
+pkoehler@neurohistory.nl.
+
+BACKGROUND: Christiaan Huygens (1629-1695) was a Dutch mathematician, physicist, 
+and astronomer. He became well-known as inventor of the pendulum clock and 
+described light as a wave phenomenon. He became Fellow of the Royal Society 
+(London) and member of the Académie des Sciences (Paris). From the 
+correspondence with family members and famous scientists, we learn that he 
+suffered from frequent headaches.
+AIM: To study Huygens' 22-volume Oeuvres Complètes (1888-1950) to find letters 
+in which his headaches are mentioned and translate pertinent sections into 
+English.
+CONCLUSIONS: Although a posthumous diagnosis of Huygens' headaches is somewhat 
+hazardous, the recurrent episodes with incapacitating headache and family 
+history over two generations are suggestive for migraine. It becomes clear that 
+it impeded his writing, reading, and research. From the letters we get an 
+impression of the impact of the headache upon his life and the treatments that 
+were applied in the 17th century.
+
+© International Headache Society 2015.
+
+DOI: 10.1177/0333102415570496
+PMID: 25648352 [Indexed for MEDLINE]
+
+
+38. Otolaryngol Clin North Am. 2022 Jun;55(3):493-499. doi: 
+10.1016/j.otc.2022.02.001. Epub 2022 Apr 27.
+
+The Role of the Otolaryngologist in the Evaluation and Management of Headache.
+
+Murthy HD(1), Mowry SE(2).
+
+Author information:
+(1)Department of Otolaryngology, Case Western Reserve University, 10900 Euclid 
+Avenue, Cleveland, OH 44106, USA.
+(2)Department of Otolaryngology, Case Western Reserve University, 10900 Euclid 
+Avenue, Cleveland, OH 44106, USA; Department of Otolaryngology, University 
+Hospitals, Cleveland Medical Center, 11100 Euclid Avenue, LKS 5405, Cleveland, 
+OH 44106, USA. Electronic address: Sarah.Mowry@UHhospitals.org.
+
+Headaches are a global health problem and are encountered by a variety of 
+specialties, including otolaryngologists. These patients can present as a 
+challenge, but an understanding of primary and secondary headache disorders and 
+the accompanying broad differential diagnosis is critical. For secondary 
+headache disorders, a differential diagnosis categorized by anatomic location 
+can help organize the evaluation of these patients, which can then be narrowed 
+by the history and examination findings. Additional ancillary tests such as 
+laboratories and imaging can further aid in diagnosis but are not always 
+necessary.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.otc.2022.02.001
+PMID: 35490037 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure Dr S.E. Mowry is a paid consultant 
+for Cochlear Americas and Otomed. Educational consultant for Stryker with travel 
+expenses covered.
+
+
+39. Curr Pain Headache Rep. 2009 Feb;13(1):82-8. doi: 10.1007/s11916-009-0016-y.
+
+Perimenstrual headache: treatment options.
+
+Henry KA(1), Cohen CI.
+
+Author information:
+(1)Department of Neurology, New York University School of Medicine, 550 First 
+Avenue, NBV7W11, New York, NY 10016, USA. katherine.henry@nyumc.org
+
+At least half of women migraineurs experience menstrual migraine (MM), 
+suggesting a hormonal explanation for the incidence of these headaches. Basic 
+science efforts suggest a relationship between estrogen and the 
+neurotransmitters and neuronal structures critical in the pathophysiology of 
+migraine. The notion that MM is more severe, longer in duration, and more 
+resistant to treatment than headaches occurring at other times during the 
+menstrual cycle may apply more to women seeking treatment for their headaches 
+than to migraineurs in the general population. Triptans have been shown to be 
+effective as both an abortive and short-term preventive treatment, and estradiol 
+has been shown to be an effective short-term preventive treatment. Ergotamines, 
+combinations of drugs such as sumatriptan-naproxen sodium, and rizatriptan with 
+dexamethasone show promise in the treatment of MM.
+
+DOI: 10.1007/s11916-009-0016-y
+PMID: 19126377 [Indexed for MEDLINE]
+
+
+40. Headache. 2018 Mar;58(3):479-484. doi: 10.1111/head.13252. Epub 2018 Jan 11.
+
+Common Primary and Secondary Causes of Headache in the Elderly.
+
+Sharma TL(1).
+
+Author information:
+(1)Neurological Institute Cleveland Clinic, Cleveland, OH, USA.
+
+OBJECTIVE/BACKGROUND: Headache in the elderly, defined as individuals aged 65 
+and older, although less prevalent than younger individuals, can present as a 
+diagnostic challenge, given the increase in potentially fatal diseases within 
+this population.
+METHODS: These individuals require a complete history, neurological examination, 
+and assessment of potential secondary causes of headaches.
+RESULTS: Secondary causes include temporal or giant cell arteritis, subdural 
+hematomas, central nervous system (CNS) tumors, strokes, and CNS infections. 
+Once secondary conditions are ruled out, then primary causes of headache are 
+considered such as tension-type headache, migraine, cluster headache, or hypnic 
+headache.
+CONCLUSION: This article reviews the distinguishing characteristics of the most 
+common types of headache in patients over the age of 65 years old, along with 
+potential diagnostic tests and treatment.
+
+© 2018 American Headache Society.
+
+DOI: 10.1111/head.13252
+PMID: 29322494 [Indexed for MEDLINE]
+
+
+41. J Head Trauma Rehabil. 2022 May-Jun 01;37(3):171-177. doi: 
+10.1097/HTR.0000000000000771. Epub 2022 Mar 15.
+
+Headache Diary Mobile Application for Monitoring and Characterizing 
+Posttraumatic Headaches.
+
+Liu K(1), Madrigal E, Chung JS, Broffman JI, Bennett N, Tsai A, Adamson MM, 
+Harris OA, Timmerman M.
+
+Author information:
+(1)Polytrauma Network Site and Headache Center of Excellence (Ms Madrigal and Dr 
+Timmerman), Polytrauma System of Care and Rehabilitation Services (Dr Chung), 
+Polytrauma Network Site (Dr Broffman), and Rehabilitation Service (Dr Adamson), 
+VA Palo Alto Health Care System, Palo Alto, California (Mr Liu, Dr Harris, and 
+Mss Bennett and Tsai); Palo Alto University, Palo Alto, California (Mr Liu); 
+University of Washington, Seattle (Ms Bennett); University of California Santa 
+Barbara (Ms Tsai); and Department of Neurosurgery (Dr Harris) and Orthopaedic 
+Surgery & Physical Medicine & Rehabilitation (Dr Timmerman), Stanford University 
+School of Medicine, Stanford, California (Dr Adamson).
+
+OBJECTIVE: This study analyzed the data collected using a headache diary mobile 
+application to characterize posttraumatic headaches (PTHs) in a sample of US 
+veterans. Specifically, we measured patient engagement with the mobile 
+application and compared our findings with previous literature regarding PTHs.
+SETTING: A Headache Center of Excellence (HCoE) in a Veterans Health 
+Administration facility.
+PARTICIPANTS: Forty-nine veterans currently being treated for ongoing 
+PTH-related complaints with English fluency, reliable access to the internet, 
+and a mobile phone.
+DESIGN: Observational study of PTH characteristics using the mobile application 
+over the course of 1 year.
+MEASURES: Main outcome measures were collected via a headache diary mobile 
+application developed for patients to track headache-associated symptoms, 
+headache location, triggers, type, intensity, and duration. Patients also 
+completed a baseline Headache Impact Test (HIT-6) survey.
+RESULTS: In total, 1569 entries were completed during the first year of 
+application deployment. On average, patients completed 2.5 entries per week and 
+used the application for 70 days. They frequently reported associated PTH 
+symptoms of photophobia (56.7%) and headaches triggered by emotional stress 
+(35.1%). Network analyses revealed patterns of co-occurrence in triggers of 
+headache pain, associated symptoms, and headache pain location. Headache pain 
+severity and impact ratings from the headache diary demonstrated convergent 
+validity with the established HIT-6 measure.
+CONCLUSIONS: Headache diary mobile applications are a promising tool for 
+monitoring and characterizing PTHs in veterans. Present results mirror past 
+studies of PTH characteristics. Mobile application headache diaries may be used 
+in both clinical and research settings to monitor headache symptoms and 
+communicate the functional impact of headaches in real time.
+
+Copyright © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/HTR.0000000000000771
+PMID: 35293366 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+42. Curr Pharm Des. 2022;28(6):445-453. doi: 10.2174/1381612827666210922114100.
+
+Headache in Multiple Sclerosis - Pharmacological Aspects.
+
+Gebhardt M(1), Kropp P(2), Hoffmann F(1), Zettl UK(3).
+
+Author information:
+(1)Krankenhaus Martha-Maria Halle-Dölau, Klinik für Neurologie, Röntgenstraße 1, 
+06120 Halle, Germany.
+(2)Institute of Medical Psychology and Medical Sociology, Medical Faculty, 
+University of Rostock, Gehlsheimer Straße 20, 18147, Rostock, Germany.
+(3)Department of Neurology, Neuroimmunological Section, University of Rostock, 
+Rostock, Germany.
+
+For decades, the headache was not considered a typical symptom of multiple 
+sclerosis (MS) and was construed as a "red flag" for important differential 
+diagnoses such as cerebral vasculitis. Meanwhile, several studies have 
+demonstrated an increased prevalence of headaches in MS compared to the general 
+population. This is due to the heterogeneity of headache genesis with frequent 
+occurrence of both primary and secondary headaches in MS. On the one hand, MS 
+and migraine are often comorbid. On the other hand, secondary headaches 
+frequently occur, especially in the course of MS relapses. These are often 
+migraine-like headaches caused by inflammation, which can improve as a result of 
+MS-specific therapy. Headaches are particularly common in the early stages of 
+chronic inflammatory CNS disease, where inflammatory activity is the greatest. 
+In addition, headaches can also occur as a side effect of disease-modifying 
+drugs (DMDs). Headache can occur with most DMDs and is most frequently described 
+with interferon-beta therapy. The aim of this work is to present the prevalence 
+of headaches and describe the heterogeneity of possible causes of headaches in 
+MS. In addition, important therapeutic aspects in the treatment of MS patients, 
+in general, will be presented as well as different approaches to the treatment 
+of headaches in MS depending on the etiological classification.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1381612827666210922114100
+PMID: 34551691 [Indexed for MEDLINE]
+
+
+43. Brain Behav. 2025 Jan;15(1):e70202. doi: 10.1002/brb3.70202.
+
+Primary Headache Attributed to External Compression or Traction to the Head: A 
+Narrative Review.
+
+Hensel O(1)(2), Kraya T(1)(3).
+
+Author information:
+(1)University Clinic and Outpatient Clinic for Neurology, 
+Martin-Luther-University Halle-Wittenberg, Halle/Saale, Germany.
+(2)University Clinic and Outpatient Clinic for Radiology, 
+Martin-Luther-University Halle-Wittenberg, Halle/Saale, Germany.
+(3)Department of Neurology, St. Georg Hospital, Leipzig, Germany.
+
+BACKGROUND: The aim of this review is to synthesize the existing knowledge 
+regarding headaches attributed to external physical stimuli, as classified by 
+the ICHD-3 (Group 4.6). Two forms can be distinguished in this group: (1) 
+headache attributed to external compression and (2) headache attributed to 
+external traction.
+METHODS: A comprehensive literature review was conducted using the Medline 
+(PubMed) database and other relevant academic sources. All English-language 
+articles were subjected to a relevance assessment.
+RESULTS: The prevalence of the two types of headache varies considerably, with a 
+higher incidence observed in women or in the presence of predisposing factors 
+(e.g., work with compulsory helmets or long hair). An external-compression 
+headache is typically described as a pressing sensation, whereas an 
+external-traction headache is characterized by a sensation of pulling. The 
+headaches typically persist for less than an hour after the stimulus has ceased, 
+and the intensity is typically reported as mild to moderate. Apart from avoiding 
+the trigger, which is not always possible, effective therapies have not been 
+established.
+CONCLUSION: Both types of headaches are relatively common, yet they remain 
+underrepresented in the scientific literature. Furthermore, there is a dearth of 
+comprehensive overviews. If the triggering factor cannot be eliminated, both 
+types of headaches can interfere with daily living and working.
+
+© 2024 The Author(s). Brain and Behavior published by Wiley Periodicals LLC.
+
+DOI: 10.1002/brb3.70202
+PMCID: PMC11685174
+PMID: 39740198 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+44. Headache. 2017 Feb;57(2):336-343. doi: 10.1111/head.12996. Epub 2016 Dec 2.
+
+Headache Attributed to Craniocervical Dystonia - A Little Known Headache.
+
+Bezerra ME(1), Rocha-Filho PA(2).
+
+Author information:
+(1)Hospital das Clínicas, Universidade Federal de Pernambuco (UFPE), Recife, 
+Brazil.
+(2)Department of Neuropsychiatry, Universidade Federal de Pernambuco (UFPE), 
+Recife, Brazil and Headache Clinic, Hospital Universitario Oswaldo Cruz, 
+Universidade de Pernambuco (UPE), Recife, Brazil.
+
+BACKGROUND: Craniocervical dystonia is a focal or segmental dystonia in its 
+distribution, classically known as spasmodic torticollis when in its pure 
+cervical presentation. Although craniocervical dystonia has been recognized as a 
+possible cause of headache since the publication of the second version of 
+International Classification of Headache Disorders, there are few studies about 
+this entity.
+METHOD: This was a narrative review.
+RESULTS: Craniocervical dystonia was associated with muscle pain in 67-89% of 
+the cases. Headaches of any kind affected approximately 60% of patients with 
+craniocervical dystonia, and were located mainly in the occipital and cervical 
+regions. Headache attributed to craniocervical dystonia specifically was rarely 
+found, and it was described in only one patient out of 80 in one study. 
+Treatment with botulinum neurotoxin is considered to be the first-line treatment 
+for focal dystonias, including craniocervical dystonia, and besides reducing 
+clinical severity, impairment, and pain scores among the patients with 
+craniocervical dystonia, there were also descriptions of improvements in 
+headaches attributed to craniocervical dystonia and other headaches associated 
+with this dystonia.
+CONCLUSIONS: Headache attributed to craniocervical dystonia has been poorly 
+studied. There is a need for more studies to evaluate its characteristics and 
+treatment.
+
+© 2016 American Headache Society.
+
+DOI: 10.1111/head.12996
+PMID: 27910093 [Indexed for MEDLINE]
+
+
+45. Neurol Sci. 2008 May;29 Suppl 1:S103-6. doi: 10.1007/s10072-008-0899-0.
+
+Headache in the emergency department. How to handle the problem?
+
+Grimaldi D(1), Cevoli S, Cortelli P.
+
+Author information:
+(1)Department of Neurological Science, Bologna University, Via U. Foscolo 7, 
+40123 Bologna, Italy.
+
+Patients presenting to the emergency department (ED) with a chief complaint of 
+headache are common and are frequently clinically challenging. The primary role 
+of ED physicians is to discriminate between the most common primary benign 
+headaches and secondary potentially life-threatening headaches. There are 
+several tools at the physician's disposal to corroborate the diagnosis 
+(anamnesis, examination, neuroimaging, lumbar puncture), but in the busy setting 
+of the ED they are often inadequately used with respect to published standards 
+and recommendations. In 2004 a multidisciplinary workgroup of the Emilia-Romagna 
+region proposed a consensus-based diagnostic algorithm structured in four 
+clinical scenarios aimed at reducing the variability exhibited by ED physicians 
+in management of non-traumatic headache, improving clinical decision-making and 
+optimising the use of limited resources.
+
+DOI: 10.1007/s10072-008-0899-0
+PMID: 18545909 [Indexed for MEDLINE]
+
+
+46. Neurol Sci. 2017 Jun;38(6):941-948. doi: 10.1007/s10072-017-2926-5. Epub 2017 
+Mar 24.
+
+The complex interrelations between two paroxysmal disorders: headache and 
+epilepsy.
+
+Cianchetti C(1), Avanzini G(2), Dainese F(3), Guidetti V(4).
+
+Author information:
+(1)Former Professor of Child and Adolescent Neurology and Psychiatry, University 
+of Cagliari, Cagliari, Italy. cianchet@unica.it.
+(2)Department of Neurophysiology and Epilepsy Unit, Besta Neurological 
+Institute, Milan, Italy.
+(3)Neurologic Unit, Epilepsy Center, SS.Giovanni e Paolo Hospital, Venice, 
+Italy.
+(4)Child and Adolescent Neuropsychiatry, Sapienza University, Rome, Italy.
+
+Comment in
+    Neurol Sci. 2017 Nov;38(11):2067-2068. doi: 10.1007/s10072-017-3061-z.
+
+The interrelations between headache/migraine and epileptic seizures are an 
+interesting topic, still lacking a systematization, which is the objective of 
+the present revision. We organize the general setting on: (a) a distinction 
+between pre-ictal, ictal, post-ictal and inter-ictal headaches, assuming "ictal" 
+as epileptic seizure, and (b) the kind of headache, if it is of migraine type or 
+not. Concerning pre-ictal migraine/headache, the necessity of its 
+differentiation from an epileptic headache presenting as an aura of a seizure is 
+stressed; this is connected with the indefiniteness of the term "migralepsy". 
+The term "migraine aura-triggered seizure" should be used only in front of a 
+proven triggering effect of migraine. Epileptic headache (called also "ictal 
+epileptic headache") is a well-characterized entity, in which different types of 
+head pain may occur and an ictal EEG is necessary for the diagnosis. It may 
+present as an isolated event ("isolated epileptic headache"), requiring a 
+differential diagnosis from other kinds of headache, or it may be 
+uninterruptedly followed by other epileptic manifestations being in this case 
+easily identifiable as an epileptic aura. Hemicrania epileptica is a very rare 
+variant of epileptic headache, characterized by the ipsilaterality of head pain 
+and EEG paroxysms. Ictal non-epileptic headache needs to be differentiated from 
+epileptic headache. Post-ictal headaches are a frequent association of headache 
+with seizures, particularly in patients suffering also from inter-ictal 
+headache-migraine. The reported systematization of the topic led us to suggest a 
+classification which is shown in Appendix.
+
+DOI: 10.1007/s10072-017-2926-5
+PMID: 28341968 [Indexed for MEDLINE]
+
+
+47. Curr Pain Headache Rep. 2007 Oct;11(5):396-400. doi: 10.1007/s11916-007-0223-3.
+
+Post-traumatic headache.
+
+Linder SL(1).
+
+Author information:
+(1)Dallas Pediatric Neurology Associates, 7777 Forest Lane, Suite A-307, Dallas, 
+TX 75230, USA. dpnasusanne@aol.com
+
+Post-traumatic headaches as well as post-traumatic syndrome can occur in 
+patients after mild, moderate, or severe traumatic brain injury. Most of the 
+patients' symptoms clear within the first 3 to 6 months; however, there are no 
+precise criteria for predicting the clinical outcome. The diagnostic criteria 
+for post-traumatic headaches were defined by the International Headache Society 
+in 2004 and are helpful for classification. Evaluation must be done on an 
+individual basis, and patients who do not clear their symptoms may need 
+neuroimaging. The headaches fall into the category of chronic tension-type 
+headache as well as headaches compatible with migraine and are treated in a 
+similar fashion. There is a small group of people who do not respond and have 
+long-term problems. These patients may benefit from a combination of 
+pharmacologic, nonpharmacologic, and neuropsychiatric treatment. Long-term 
+studies are needed to help clarify the history of these patients.
+
+DOI: 10.1007/s11916-007-0223-3
+PMID: 17894931 [Indexed for MEDLINE]
+
+
+48. Neurol Clin. 1998 Feb;16(1):107-23. doi: 10.1016/s0733-8619(05)70369-8.
+
+Drug-induced headache.
+
+Silberstein SD(1).
+
+Author information:
+(1)Department of Neurology, Thomas Jefferson University, Philadelphia, 
+Pennsylvania 19107, USA.
+
+Headaches are extremely common and have various causes. Drugs may initiate a new 
+type of headache or exacerbate a preexisting headache disorder. Medication 
+withdrawal or rebound headaches may also occur. This article reviews the 
+possible relationships between drugs and headaches.
+
+DOI: 10.1016/s0733-8619(05)70369-8
+PMID: 9421543 [Indexed for MEDLINE]
+
+
+49. J Gen Intern Med. 2021 Oct;36(10):3103-3112. doi: 10.1007/s11606-020-06539-x. 
+Epub 2021 Feb 1.
+
+Underuse of Behavioral Treatments for Headache: a Narrative Review Examining 
+Societal and Cultural Factors.
+
+Langenbahn D(1), Matsuzawa Y(1), Lee YSC(1), Fraser F(2), Penzien DB(3), Simon 
+NM(4), Lipton RB(5), Minen MT(6)(7).
+
+Author information:
+(1)Department of Rehabilitation Medicine, NYU Langone Health, New York, NY, USA.
+(2)Department of Physical Medicine & Rehabilitation, MetroHealth System, 
+Cleveland, OH, USA.
+(3)Departments of Psychiatry and Behavioral Medicine, Neurology, Wake Forest 
+University College of Medicine, Winston-Salem, NC, USA.
+(4)Department of Psychiatry, NYU Langone Health, New York, NY, USA.
+(5)Department of Neurology, Albert Einstein College of Medicine, New York, NY, 
+USA.
+(6)Department of Neurology, NYU Langone Health, New York, NY, USA. 
+MinenMD@gmail.com.
+(7)NYU Langone Health, 222 E 41st street, 9th floor, New York, NY, 10017, USA. 
+MinenMD@gmail.com.
+
+Migraine affects over 40 million Americans and is the world's second most 
+disabling condition. As the majority of medical care for migraine occurs in 
+primary care settings, not in neurology nor headache subspecialty practices, 
+healthcare system interventions should focus on primary care. Though there is 
+grade A evidence for behavioral treatment (e.g., biofeedback, cognitive 
+behavioral therapy (CBT), and relaxation techniques) for migraine, these 
+treatments are underutilized. Behavioral treatments may be a valuable 
+alternative to opioids, which remain widely used for migraine, despite the US 
+opioid epidemic and guidelines that recommend against them. Identifying and 
+removing barriers to the use of headache behavioral therapy could help reduce 
+the disability as well as the personal and social costs of migraine. These 
+techniques will have their greatest impact if offered in primary care settings 
+to the lower socioeconomic status groups at greatest risk for migraine. We 
+review the societal and cultural challenges that impose barriers to optimal use 
+of non-pharmacological treatment services. These barriers include insufficient 
+knowledge of migraine/headache behavioral treatments and insufficient 
+availability of clinicians trained in non-pharmacological treatment delivery; 
+limited access in underserved communities; financial burden; and stigma 
+associated with both headache and mental health diagnoses and treatment. For 
+each barrier, we discuss potential approaches to minimizing its effect and thus 
+enhancing non-pharmacological treatment utilization.Case ExampleA 25-year-old 
+graduate student with a prior history of headaches in college is attending 
+school in the evenings while working a full-time job. Now, his headaches have 
+significant nausea and photophobia. They are twice weekly and are disabling 
+enough that he is unable to complete homework assignments. He does not 
+understand why the headaches occur on Saturdays when he pushes through all week 
+to get through his examinations that take place on Friday evenings. He tried two 
+different migraine preventive medications, but neither led to the 50% reduction 
+in headache days his doctor had hoped for. His doctor had suggested cognitive 
+behavioral therapy (CBT) before initiating the medications, but he had been too 
+busy to attend the appointments, and the challenges in finding an in-network 
+provider proved difficult. Now with the worsening headaches, he opted for the 
+CBT and by the fifth week had already noted improvements in his headache 
+frequency and intensity.
+
+© 2021. Society of General Internal Medicine.
+
+DOI: 10.1007/s11606-020-06539-x
+PMCID: PMC7849617
+PMID: 33527189 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Langenbahn reports no disclosures. Dr. 
+Matsuzawa reports no disclosures. Dr. Lee reports no disclosures. Dr. Fraser 
+reports no disclosures. Dr. Penzien reports no disclosures. Dr. Simon reports 
+research grants from the American Foundation for Suicide Prevention, Department 
+of Defense, PCORI, Highland Street Foundation, NIH, and Janssen; speaking and 
+consulting with Vanda Pharmaceuticals Inc., MGH Psychiatry Academy, Axovant 
+Sciences, Springworks, Praxis Therapeutics, Aptinyx, Genomind, Wiley (Deputy 
+Editor, Depression and Anxiety); Equity Spouse: G1 Therapeutics; and royalties 
+from Wolters Kluwer. Dr. Lipton receives research support from the NIH, Migraine 
+Research Foundation and National Headache Foundation. He serves on the editorial 
+board of Neurology, senior advisor to Headache, and associate editor to 
+Cephalalgia. He has reviewed for the NIA and NINDS, holds stock options in 
+eNeura Therapeutics and Biohaven Holdings; serves as consultant, advisory board 
+member, or has received honoraria from American Academy of Neurology, Allergan, 
+American Headache Society, Amgen, Avanir, Biohaven, Biovision, Boston 
+Scientific, Dr. Reddy’s (Promius), Electrocore, Eli Lilly, eNeura Therapeutics, 
+Equinox, GlaxoSmithKline, Grifols, Lundbeck (Alder), Merck, Pernix, Pfizer, 
+Supernus, Teva, Trigemina, Vector, Vedanta. He receives royalties from Wolff’s 
+Headache 7th and 8th Edition, Oxford Press University, 2009, Wiley and Informa. 
+Dr. Minen reports no disclosures.
+
+
+50. Arq Neuropsiquiatr. 1997 Dec;55(4):841-8. doi: 10.1590/s0004-282x1997000500024.
+
+Cervicogenic headache. Josey's cases revisited.
+
+Vincent M(1), Luna RA.
+
+Author information:
+(1)Serviço de Neurologia, Hospital Universitário Clementino Fraga Filho, 
+Universidade Federal do Rio de Janeiro, Brasil. vincent@unisys.com.br
+
+Before Sjaastad coined the term cervicogenic headache (CR) 15 years ago, 
+neck-related headaches have been considered by different authors for many years. 
+Even after the publication of diagnostic criteria, dispute on the clinical 
+picture, differential diagnosis, pathophysiology and treatment of CR still 
+persists. A paper published in 1949 by Josey reports on 6 "illustrative" cases 
+of cervical-related headaches. Indeed, looked from a more recent perspective, 
+those cases could eventually correspond to CH. Important topics such as the 
+relatively high frequency, fixed unilaterality of the pain, relation to previous 
+trauma, irradiation from the back to the forehead, normal or slightly abnormal 
+roentgenograms, and the mechanical precipitation of attacks are some of the 
+topics considered by Josey. The female gender was not prevalent in Josey's 
+series. Traction and analgesics were basically the recommended treatment. CR is 
+probably a common disorder, an idea already considered by a clinician in 1949. 
+This syndrome was not adequately described before Sjaastad's group papers in the 
+80's.
+
+DOI: 10.1590/s0004-282x1997000500024
+PMID: 9629347 [Indexed for MEDLINE]
+
+
+51. Otolaryngol Clin North Am. 2003 Dec;36(6):1153-70. doi: 
+10.1016/s0030-6665(03)00123-3.
+
+Headache and facial pain in children and adolescents.
+
+Kondev L(1), Minster A.
+
+Author information:
+(1)Departments of Pediatrics and Neurology, Division of Pediatric Neurology, 
+Tufts University School of Medicine, New England Medical Center, 750 Washington 
+Street, Box 330, Boston, MA 02111, USA. lkondev@lifespan.org
+
+Headaches commonly affect children and adolescents. Proper diagnosis and 
+management is dependent on thorough history taking and a comprehensive physical 
+and neurological examination. Additional diagnostic testing is indicated in some 
+cases. The second edition of the headache classification system by the 
+International Headache Society has recently become available. The classification 
+system is primarily based on adults, but we discussed the subtle distinctions 
+made regarding children. In addition to the primary headache types of migraine, 
+tension-type, and cluster headaches, we discussed selected symptomatic 
+headaches. Emphasis was placed on migraine and tension-type headaches because 
+these are the most common pediatric headache types. We briefly discussed genetic 
+aspects of headaches. Genetic factors have been hypothesized for chronic tension 
+headache and other forms of migraine, but genetic linkage has only been 
+established for familial hemiplegic migraine. We reviewed the nonpharmacologic 
+and pharmacologic therapies, including abortive and prophylactic medications for 
+various age groups. Unlike headaches, facial neuralgias are rare in otherwise 
+healthy children. Facial pain may be neurological, vascular, or dental in 
+origin. We focused on trigeminal neuralgia, glossopharyngeal neuralgia, 
+occipital neuralgia, and Bell's palsy as neurological causes of facial pain in 
+children.
+
+DOI: 10.1016/s0030-6665(03)00123-3
+PMID: 15025014 [Indexed for MEDLINE]
+
+
+52. Pain. 1998 Oct;78(1):1-5. doi: 10.1016/S0304-3959(98)00116-X.
+
+Cervicogenic headache: a critical review of the current diagnostic criteria.
+
+Leone M(1), D'Amico D, Grazzi L, Attanasio A, Bussone G.
+
+Author information:
+(1)Headache Centre, Carlo Besta National Neurological Institute, via Celoria 11, 
+20133 Milan, Italy.
+
+Opinions are divided on the use of the term cervicogenic headache (CGH) in cases 
+with no evidence of cervical damage. According to Sjaastad et al. (1990), CGH is 
+diagnosed from three features: (1) unilateral headache triggered by head/neck 
+movements or posture; (2) unilateral headache triggered by pressure on the neck; 
+(3) unilateral headache spreading to the neck and the homolateral shoulder/arm. 
+Other characteristics are not essential for CGH diagnosis, including pain 
+improvement after greater occipital nerve (GON)/C2 block. However, other authors 
+give different definitions of CGH, and this may explain why reported frequencies 
+for this headache vary so widely. In this paper we critically review the major 
+diagnostic criteria of Sjaastad et al. for CGH in the light of clinical studies 
+conducted at our institute and other literature findings. In a study of 500 
+headaches we found only two patients with unilateral headache triggered by head/ 
+neck movements or posture, and no cases of neck pressure-induced headache. No 
+clear-cut criteria are given in the literature for differentiating CGH trigger 
+points from myofascial trigger points. In another study of 440 primary headache 
+patients we found that in the unilateral long-lasting headache group (64 
+migraines and 10 tension-type headaches), a pain involving the occiput/neck was 
+present in 30 migraine and seven tension headache patients; thus, according to 
+the CGH major criteria, 10% (30/307) of 'migraines' and 7% (7/96) of 'tension 
+headaches' could be diagnosed as CGH. However, one cannot exclude that the 
+association of unilateral pain with posterior irradiation is due to the high 
+prevalence of migraine, tension-type headache and chronic neck pain. The 
+relation between CGH and whip-lash injury has been put in doubt by a recent 
+study which found no difference in headache frequency between trauma and control 
+groups and reported no specific headache pattern in the trauma group. Other 
+reports suggest that, when it occurs, CGH usually disappears within a year of 
+whip-lash, throwing doubt on the appropriateness of surgery for post-traumatic 
+CGH. The lack of specificity of GON/C2 block as a treatment for CGH adds further 
+difficulties to the diagnosis of this headache. We conclude that, although neck 
+structures play a role in the pathophysiology of some headaches, clinical 
+patterns indicating a neck-headache relationship have still not been adequately 
+defined. We believe that further rigorous studies are needed to definitively 
+confirm the validity of CGH as a nosological entity.
+
+DOI: 10.1016/S0304-3959(98)00116-X
+PMID: 9822206 [Indexed for MEDLINE]
+
+
+53. Expert Rev Neurother. 2022 Oct;22(10):815-827. doi: 
+10.1080/14737175.2022.2152674. Epub 2022 Dec 7.
+
+Current perspectives on the recognition and diagnosis of low CSF pressure 
+headache syndromes.
+
+Giagkou N(1), Spanou I(1), Mitsikostas DD(1).
+
+Author information:
+(1)1 Neurology Department, Aeginition Hospital, Medical School, National and 
+Kapodistrian University of Athens, Athens, Greece.
+
+INTRODUCTION: Headaches occur when cerebrospinal fluid (CSF) pressure drops 
+following dural puncture or trauma or spontaneously. As the features of these 
+headaches and their accompanying symptoms might not be typical, low CSF pressure 
+headache syndromes, and spontaneous intracranial hypotension in particular, are 
+often misdiagnosed and underdiagnosed.
+AREAS COVERED: The aim of this narrative review is to summarize the most recent 
+evidence regarding the clinical presentation and the diagnosis of low CSF 
+pressure headache syndromes.
+EXPERT OPINION: The clinical spectrum low CSF pressure headache syndromes varies 
+significantly and key signs might be missing. Low CSF pressure headache 
+syndromes should be included in the differential diagnosis of any case of 
+refractory headache, even when the headache is not orthostatic, or there are 
+normal neuroimaging findings, and/or lumbar puncture opening pressure is within 
+normal limits. Future research should focus on controlled interventional studies 
+on the treatment of low CSF pressure headache syndromes, which are currently 
+lacking.
+
+DOI: 10.1080/14737175.2022.2152674
+PMID: 36453212 [Indexed for MEDLINE]
+
+
+54. Med J Aust. 2000 May 1;172(9):450-5. doi: 10.5694/j.1326-5377.2000.tb125700.x.
+
+Headache and face pain.
+
+Lance JW(1).
+
+Author information:
+(1)Institute of Neurological Sciences, Prince of Wales Hospital, Sydney, NSW.
+
+Comment in
+    Med J Aust. 2000 Oct 2;173(7):389, 391. doi: 
+10.5694/j.1326-5377.2000.tb125699.x.
+
+A systematic case history is the primary diagnostic tool for headache problems. 
+An acute ("thunderclap") headache or progressive subacute headache may have 
+sinister implications and warrants urgent investigation. Common recurrent 
+headaches (tension-type, migraine and cluster headaches) are not 
+life-threatening but can destroy the enjoyment of life. Specific medications are 
+available for acute treatment and prophylaxis for most types of recurrent 
+headache. General practitioners should be well informed about management, as 
+they are the most appropriate people to deal with most headache patients.
+
+DOI: 10.5694/j.1326-5377.2000.tb125700.x
+PMID: 10870541 [Indexed for MEDLINE]
+
+
+55. Headache. 2012 May;52 Suppl 1:50-4. doi: 10.1111/j.1526-4610.2012.02133.x.
+
+Advanced interventions for headache.
+
+Tepper SJ(1).
+
+Author information:
+(1)Headache Center, Cleveland Clinic, Cleveland, OH 44195, USA. 
+sjtepper@gmail.com
+
+Many headache patients present when medications fail, are inadequate, are 
+contraindicated, or are not tolerated. These are patients with severe 
+disability. Most have daily headaches, including chronic migraine, trigeminal 
+autonomic cephalalgias, or other primary headaches. This brief review addresses, 
+in broad strokes, some thoughts about alternatives beyond the usual daily oral 
+preventive therapies. Do not proceed to more invasive or elaborate approaches 
+until the big 3 are done: diagnosis is established, onabotulinumtoxinA 
+administered when appropriate, that is, if the patient has chronic migraine, and 
+wean is accomplished if the patient has medication overuse headache. Large 
+numbers of patients are helped without the need for more arcane and unproven 
+treatments by following these initial approaches. Simple nerve blocks can be 
+useful in the initial steps, but more invasive blocks and stimulators are not 
+recommended until the big 3 are completed. Wean of overused medications must be 
+absolute and may require an intravenous bridge over several days, either in an 
+infusion unit or inpatient in a medical model. Wean should be accompanied by 
+establishing onabotulinumtoxinA or daily prevention from the beginning. Consider 
+referral to a structured multidisciplinary headache program. This is for 
+patients who require an interdisciplinary approach and may be day-hospital or 
+inpatient. Invasive blocks and stimulators may be appropriate, and the latter 
+are currently being studied in controlled studies. The most promise, with the 
+best balance of efficacy vs adverse event prospects, may be occipital nerve 
+stimulators or sphenopalatine ganglion stimulators.
+
+© 2012 American Headache Society.
+
+DOI: 10.1111/j.1526-4610.2012.02133.x
+PMID: 22540208 [Indexed for MEDLINE]
+
+
+56. N Engl J Med. 1980 Feb 21;302(8):446-50. doi: 10.1056/NEJM198002213020806.
+
+Current concepts. Headache.
+
+Caviness VS Jr, O'Brien P.
+
+DOI: 10.1056/NEJM198002213020806
+PMID: 6986029 [Indexed for MEDLINE]
+
+
+57. Expert Opin Pharmacother. 2002 Oct;3(10):1433-42. doi: 
+10.1517/14656566.3.10.1433.
+
+Treatment of paediatric headache.
+
+Lewis DW(1), Scott D, Rendin V.
+
+Author information:
+(1)Department of Pediatrics, Division of Pediatric Neurology, Children's 
+Hospital of the King's Daughters, Eastern Virginia Medical School, Norfolk, 
+Virginia 23510, USA. dLewis@chkd.com
+
+Headaches are very common during childhood and become increasingly frequent 
+during adolescence. The diagnosis of primary headache disorders (e.g., migraine 
+and tension-type headache) rests principally on clinical criteria as set forth 
+by the International Headache Society. Treatment options include acute or 
+episodic measures, prophylactic agents and non-pharmacological or behavioural 
+interventions. From review of available evidence, the most efficacious acute 
+treatments of paediatric migraine include the non-steroidal anti-inflammatory 
+agent ibuprofen at 7.5 - 10 mg/kg/dose or nasal sumatriptan at doses of 5 or 20 
+mg. For those patients with headaches that occur with sufficient frequency and 
+severity to warrant daily prophylaxis, controlled data are limited. Agents which 
+are likely to be beneficial include amitriptyline, flunarizine (not available in 
+the US) and cyproheptadine. Clinical experience with the anti-epileptic agents 
+topiramate and valproate suggests an expanding role for the prevention of 
+paediatric migraine in the future.
+
+DOI: 10.1517/14656566.3.10.1433
+PMID: 12387689 [Indexed for MEDLINE]
+
+
+58. Neurol Clin. 2012 Feb;30(1):43-59, vii. doi: 10.1016/j.ncl.2011.09.008.
+
+Headache emergencies: diagnosis and management.
+
+Friedman BW(1), Lipton RB.
+
+Author information:
+(1)Department of Emergency Medicine, Albert Einstein College of Medicine, 
+Montefiore Medical Center, 111 East 210th Street, Bronx, New York 10467, USA. 
+bwfriedmanmd@gmail.com
+
+Headaches are a common reason for visiting a health care provider. Headaches are 
+at times symptomatic of an underlying process that requires prompt diagnosis and 
+urgent treatment to reduce threats to life or limb. In this article, the authors 
+review the 6 most common presentations for worrisome headache and discuss the 
+differential diagnosis. Careful attention to patients' history and physical 
+examination and a thoughtful approach to the differential diagnosis will guide 
+diagnostic work-up and management. Although benign causes of headache are much 
+more common than malignant secondary processes, thorough management of the acute 
+headache requires excluding malignant secondary processes.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ncl.2011.09.008
+PMID: 22284054 [Indexed for MEDLINE]
+
+
+59. Obstet Gynecol. 2022 May 1;139(5):944-972. doi: 10.1097/AOG.0000000000004766.
+
+Headaches in Pregnancy and Postpartum: ACOG Clinical Practice Guideline No. 3.
+
+[No authors listed]
+
+Erratum in
+    Obstet Gynecol. 2022 Aug 01;140(2):344. doi: 10.1097/AOG.0000000000004878.
+
+Comment in
+    Am Fam Physician. 2023 Jul;108(1):97-99.
+
+PURPOSE: To provide updated evidence-based recommendations for the evaluation 
+and treatment of primary and secondary headaches in pregnancy and postpartum.
+TARGET POPULATION: Pregnant and postpartum patients with a history of or 
+experiencing primary or new secondary headaches.
+METHODS: This guideline was developed using an a priori protocol in conjunction 
+with a writing team consisting of two specialists in obstetrics and gynecology 
+appointed by the ACOG Committee on Clinical Practice Guidelines-Obstetrics and 
+one external subject matter expert. ACOG medical librarians completed a 
+comprehensive literature search for primary literature within Cochrane Library, 
+Cochrane Collaboration Registry of Controlled Trials, EMBASE, PubMed, and 
+MEDLINE. Studies that moved forward to the full-text screening stage were 
+assessed by two authors from the writing team based on standardized inclusion 
+and exclusion criteria. Included studies underwent quality assessment, and a 
+modified GRADE (Grading of Recommendations Assessment, Development, and 
+Evaluation) evidence-to-decision framework was applied to interpret and 
+translate the evidence into recommendation statements.
+RECOMMENDATIONS: This Clinical Practice Guideline includes recommendations on 
+interventions to prevent primary headache in individuals who are pregnant or 
+attempting to become pregnant, postpartum, or breastfeeding; evaluation for 
+symptomatic patients presenting with primary and secondary headaches during 
+pregnancy; and treatment options for primary and secondary headaches during 
+pregnancy and lactation. Recommendations are classified by strength and evidence 
+quality. Ungraded Good Practice Points are included to provide guidance when a 
+formal recommendation could not be made because of inadequate or nonexistent 
+evidence.
+
+Copyright © 2022 by the American College of Obstetricians and Gynecologists. 
+Published by Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/AOG.0000000000004766
+PMID: 35576364 [Indexed for MEDLINE]
+
+
+60. Cephalalgia. 2010 May;30(5):634-7. doi: 10.1111/j.1468-2982.2009.01989.x. Epub 
+2010 Feb 11.
+
+Managing headache triggers: think 'coping' not 'avoidance'.
+
+Martin PR(1).
+
+Author information:
+(1)Division of Psychological Medicine, Monash University, Melbourne, Vic, 
+Australia.
+
+The standard clinical advice for individuals who suffer from recurrent headaches 
+is that the best way to prevent headaches is to avoid the triggers. This 
+editorial challenges that advice from a number of perspectives. First, there is 
+little empirical support for such advice. Second, cognate literatures in the 
+fields of chronic pain, stress and anxiety raise concerns about avoidance as a 
+strategy. Third, studies have demonstrated that short exposure to a headache 
+trigger results in increased sensitivity and prolonged exposure results in 
+decreased sensitivity. Conclusions include that one aetiological pathway to 
+developing a primary headache disorder may be via attempts to avoid triggers 
+resulting in increased sensitivity to triggers. Also, clinicians need to become 
+more flexible in the advice they give pertaining to triggers, namely they should 
+think 'coping with triggers' rather than avoiding all triggers, as avoidance 
+will sometimes be the preferred strategy, but often it will not be.
+
+DOI: 10.1111/j.1468-2982.2009.01989.x
+PMID: 19673895 [Indexed for MEDLINE]
+
+
+61. J Headache Pain. 2021 Jun 10;22(1):54. doi: 10.1186/s10194-021-01246-2.
+
+Editorial. Valuing headache's solution.
+
+Steiner TJ(1)(2), Tinelli M(3).
+
+Author information:
+(1)Department of Neuromedicine and Movement Science, Norwegian University of 
+Science and Technology, Edvard Griegs gate, Trondheim, Norway. 
+t.steiner@imperial.ac.uk.
+(2)Department of Brain Sciences, Imperial College London, London, UK. 
+t.steiner@imperial.ac.uk.
+(3)Care Policy and Evaluation Centre, The London School of Economics and 
+Political Science, London, UK.
+
+DOI: 10.1186/s10194-021-01246-2
+PMCID: PMC8191000
+PMID: 34112083 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no competing interests.
+
+
+62. J Am Acad Nurse Pract. 1991 Jan-Mar;3(1):3-10. doi: 
+10.1111/j.1745-7599.1991.tb01052.x.
+
+Headache diagnosis and treatment.
+
+Gallagher RM.
+
+DOI: 10.1111/j.1745-7599.1991.tb01052.x
+PMID: 2007059 [Indexed for MEDLINE]
+
+
+63. Headache. 2015 May;55(5):733-8. doi: 10.1111/head.12563. Epub 2015 Apr 22.
+
+Post-craniotomy headache: a clinical view with a focus on the persistent form.
+
+Rocha-Filho PA(1)(2).
+
+Author information:
+(1)Department of Neuropsychiatry, Universidade Federal de Pernambuco, Recife, 
+PE, Brazil.
+(2)Headache Clinic, Hospital Universitário Osvaldo Cruz, Universidade de 
+Pernambuco, Recife, PE, Brazil.
+
+BACKGROUND: Post-craniotomy headache is a frequent complication of neurosurgical 
+procedures and is often a challenge for neurosurgeons, neurologists, and 
+headache specialists.
+METHOD: This was a narrative review.
+RESULTS: Surgical trauma, adherence of the musculature to the dura mater, 
+peripheral nerve injury, development of neurinomas in the surgical scar, and 
+central sensitization may be involved in the genesis of such headaches. 
+Performing smaller craniotomies, replacement of the bone (craniotomy), 
+performing cranioplasty, and infiltration of the surgical site with local 
+anesthesia at the end of the surgical procedure are strategies used to prevent 
+such headaches. Among the most frequent characteristics of post-craniotomy 
+headaches are that they start on the first days after the operation, are located 
+on the same side as and at the site of the surgical scar, and improve with the 
+passage of time. Depression, anxiety, and temporomandibular disorders are 
+frequently associated with these headaches. Abortive treatment such as opioids, 
+ordinary analgesics, non-hormonal anti-inflammatory drugs, and triptans can be 
+administered. There have been reports of improvements using sodium divalproex, 
+verapamil, and local anesthetics.
+CONCLUSIONS: Post-craniotomy headaches can have significant repercussions on 
+patients' quality of life. There is a need for clinical trials evaluating 
+therapeutic options for treatment of this type of headache.
+
+© 2015 American Headache Society.
+
+DOI: 10.1111/head.12563
+PMID: 25903913 [Indexed for MEDLINE]
+
+
+64. Brain Dev. 2021 Mar;43(3):372-379. doi: 10.1016/j.braindev.2020.10.007. Epub 
+2020 Nov 10.
+
+Pediatric headache: Are the red flags misleading or prognostic?
+
+Yayıcı Köken Ö(1), Danış A(2), Yüksel D(2), Aksoy A(3), Öztoprak Ü(2), Aksoy 
+E(2).
+
+Author information:
+(1)Department of Pediatric Neurology, Ankara City Hospital, Children's Hospital, 
+Ankara, Turkey. Electronic address: ozlem.yayicikoken@saglik.gov.tr.
+(2)Deparment of Pediatric Neurology, SBU, Dr. Sami Ulus Research and Training 
+Hospital, Ankara, Turkey.
+(3)Deparment of Pediatric Neurology, Ondokuz Mayıs University, Faculty of 
+Medicine, Samsun, Turkey.
+
+BACKGROUND: Symptoms and findings called orange or red flags may indicate the 
+etiology of pediatric headaches and may point to a life-threatening situation 
+requiring urgent treatment and thus can alter patient management. These findings 
+can be either misleading or prognostic for clinicians. We aimed to identify the 
+etiology and prognostic value of orange/red flags in pediatric patients.
+METHODS: This study included 810 children with headaches who underwent 
+neuroimaging due to the existence of orange/red flags. Their hospital records 
+were examined to obtain demographical, clinical, laboratory data, and 
+re-classify the headaches and determine orange/red flags on admission.
+RESULTS: Secondary causes were identified in 17.0% (n: 138) of patients, 
+however, those who were diagnosed with a life-threatening headache that required 
+emergency treatment were 5.2% of all patients and 30.4% of the patients 
+diagnosed with a secondary headache. Those with secondary headaches and with 
+life threatening secondary headaches which required urgent treatment were 
+younger (p = 0,018, p = 0,022), had more emergency department visits 
+(p < 0,001), and acute onsets (p < 0,001). Red flags, like systemic symptoms 
+(p < 0,001), sudden onset (p = 0,023, p = 0.039), papilledema (p < 0,001), and 
+progressive headaches (p = 0,048, p = 0.006), were more common with secondary 
+headaches and its subgroup, while headache awakening from sleep (p = 0.009) and 
+family history of primary headache (P > 0,001) were more common in primary 
+headaches. No correlation existed between the number of red flags and etiology. 
+However, older age (p = 0,001) and a shorter duration between symptoms and 
+admission (p = 0,032), and the number of emergency service visits (p = 0,020) 
+increased with increasing red flags.
+CONCLUSIONS: Physicians always look for flags when they encounter patients with 
+headaches, which is a common symptom, so as not to overlook anything. However, 
+red flags do not always mean that the underlying cause requires emergency 
+treatment and the severity of the cause is not correlated with the number of 
+flags.
+
+Copyright © 2020 The Japanese Society of Child Neurology. Published by Elsevier 
+B.V. All rights reserved.
+
+DOI: 10.1016/j.braindev.2020.10.007
+PMID: 33187753 [Indexed for MEDLINE]
+
+
+65. Oral Maxillofac Surg Clin North Am. 2022 Feb;34(1):83-97. doi: 
+10.1016/j.coms.2021.08.010.
+
+An Update on Diagnosis and Pharmacologic Therapy for Headache in the Oral and 
+Maxillofacial Surgery Practice.
+
+Halpern LR(1), Gammal P(2), Adams DR(3).
+
+Author information:
+(1)Oral and Maxillofacial Surgery, University of Utah, School of Dentistry, 530 
+South Wakara Way, Salt Lake City, UT 84108, USA. Electronic address: 
+Leslie.halpern@hsc.utah.edu.
+(2)Department of Dentistry/Oral Surgery, Woodhull Hospital and Mental Health 
+Center, 760 Broadway, Brooklyn, NY 11206, USA.
+(3)Oral and Maxillofacial Surgery, University of Utah, School of Dentistry, 530 
+South Wakara Way, Salt Lake City, UT 84108, USA.
+
+Headaches are synonymous with neurovascular pain (cephalalgias), which comprise 
+a heterogeneous group of pain disorders that share a common anatomic region 
+(head and neck). Headaches are often a "universal" disease presentation that is 
+evaluated by the oral and maxillofacial surgeon. Pharmacologic therapy of 
+headaches is most often based on the severity of symptoms and the degree of 
+disability experienced by the patient. This article describes the epidemiology 
+of neurovascular headaches, their pathophysiologic mechanisms/presentation, the 
+workup of patients, and an up-to-date overview of pharmacologic approaches that 
+can be applied in the oral and maxillofacial surgical practice to treat this 
+patient population.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.coms.2021.08.010
+PMID: 34802617 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors have nothing to disclose.
+
+
+66. Curr Neurol Neurosci Rep. 2016 May;16(5):41. doi: 10.1007/s11910-016-0641-x.
+
+A Practical Approach to Autonomic Dysfunction in Patients with Headache.
+
+Ailani J(1).
+
+Author information:
+(1)Georgetown Headache Center, Department of Neurology, Medstar Georgetown 
+University Hospital, 3800 Reservoir Road NW, 7PHC, Washington, DC, 20007, USA. 
+Jessica.x.ailani@gunet.georgetown.edu.
+
+The presence of autonomic symptoms can make the diagnosis of headache 
+challenging. While commonly seen with the trigeminal autonomic cephalalgias, 
+autonomic dysfunction can also be present in patients with migraine, or with a 
+variety of secondary headaches. The pathophysiology of cranial autonomic 
+symptoms in headache is based between the trigeminal system and the 
+hypothalamus. This article will review the pathophysiology and presence of 
+autonomic dysfunction in headache and will provide techniques to help in 
+headache diagnosis in patients with autonomic dysfunction.
+
+DOI: 10.1007/s11910-016-0641-x
+PMID: 27021770 [Indexed for MEDLINE]
+
+
+67. Cephalalgia. 1997 Dec;17(8):801-16. doi: 10.1046/j.1468-2982.1997.1708801.x.
+
+Headache and the cervical spine: a critical review.
+
+Pöllmann W(1), Keidel M, Pfaffenrath V.
+
+Author information:
+(1)Marianne Strauss-Klinik, Berg, Germany.
+
+Headache related to the cervical spine is often misdiagnosed and treated 
+inadequately because of confusing and varying terminology. Primary headaches 
+such as tension-type headache and migraine are incorrectly categorized as 
+"cervicogenic" merely because of their occipital localization. Cervicogenic 
+headache as described by Sjaastad presents as a unilateral headache of 
+fluctuating intensity increased by movement of the head and typically radiates 
+from occipital to frontal regions. Definition, pathophysiology; differential 
+diagnoses and therapy of cervicogenic headache are demonstrated. Ipsilateral 
+blockades of the C2 root and/or greater occipital nerve allow a differentiation 
+between cervicogenic headache and primary headache syndromes such as migraine or 
+tension-type headache. Neither pharmacological nor surgical or chiropractic 
+procedures lead to a significant improvement or remission of cervicogenic 
+headache. Pains of various anatomical regions possibly join into a common 
+anatomical pathway, then present as cervicogenic headache, which should 
+therefore be understood as a homogeneous but also unspecific pattern of 
+reaction.
+
+DOI: 10.1046/j.1468-2982.1997.1708801.x
+PMID: 9453267 [Indexed for MEDLINE]
+
+
+68. Pediatr Ann. 2021 Dec;50(12):e479-e485. doi: 10.3928/19382359-20211112-01. Epub 
+2021 Dec 1.
+
+Headaches.
+
+Liu A.
+
+Headaches are common in the pediatric population and can cause significant 
+distress to the patient and their family. The ability of pediatricians to 
+appropriately diagnose and differentiate headaches is important to guide 
+management. This article reviews the epidemiology, classification, and treatment 
+of headaches, including migraines. [Pediatr Ann. 2021;50(12):e479-e485].
+
+DOI: 10.3928/19382359-20211112-01
+PMID: 34889138 [Indexed for MEDLINE]
+
+
+69. Cephalalgia. 1995 Dec;15(6):463-9. doi: 10.1046/j.1468-2982.1995.1506463.x.
+
+Cervicogenic headache: a personal view.
+
+Pearce JM.
+
+Comment in
+    Cephalalgia. 1996 May;16(3):206-8. doi: 10.1046/j.1468-2982.1996.1603206.x.
+
+Cervicogenic headache describes pain referred along the upper three cervical 
+roots and is a common source of headache in the over fifties. A review of 
+clinical features, anatomy, and investigations using neural blockade shows 
+several clinical pictures. Diseases of the cranio-vertebral junction, e.g. 
+syringomyelia, and tonsilar descent, can produce mechanical or hydrodynamic head 
+and neck pain. Pre-existent migraine and tension headache may be precipitated or 
+aggravated by cervical spondylosis, but the anatomical mechanism is unclear. 
+Headaches which arise from and are primarily caused by disorders in the cervical 
+spine are exemplified by spondylosis and acute whiplash injury, but are usually 
+transient. Evidence for a cervicogenic mechanism of chronic whiplash headache 
+is, however, lacking.
+
+DOI: 10.1046/j.1468-2982.1995.1506463.x
+PMID: 8706108 [Indexed for MEDLINE]
+
+
+70. Rev Med Suisse. 2022 Sep 28;18(797):1812-1815. doi: 
+10.53738/REVMED.2022.18.797.1812.
+
+[New developments in headache management in 2022].
+
+[Article in French; Abstract available in French from the publisher]
+
+Della Vedova L(#)(1), Hashemi P(#)(1), Meynard-Colomb A(2), Kleinschmidt A(3), 
+Arsever S(1).
+
+Author information:
+(1)Service de médecine de premier recours, Département de médecine de premier 
+recours, Hôpitaux universitaires de Genève, 12011 Genève 14.
+(2)Service de neurologie, Département des neurosciences cliniques, Hôpitaux 
+universitaires de Genève, 12011 Genève 14.
+(3)Institut universitaire de médecine de famille et de l'enfance, Faculté de 
+médecine, Université de Genève, 1211 Genève 4.
+(#)Contributed equally
+
+Headaches are one of the most common causes of consultation in primary care. Due 
+to their polymorphic character and sometimes severe etiologies, it is very 
+important to properly classify these symptoms and to look for possible 
+associated signs of severity. It is with this objective that the international 
+classification of headache delivered its 3rd version in 2018 with the ICHD-3. In 
+addition, revised and validated severity criteria were also published in 2018 
+under the name SNNOOP10. At the same time, the concept of green flags which 
+could allow to diagnose a primary headache without further investigations has 
+emerged. In terms of treatment, the development of CGRP neuropeptide antagonists 
+has allowed a major advance in the treatment of the severe forms of migraine. 
+Finally, integrative medicine is taking on a central role.
+
+Publisher: Les céphalées sont l’un des motifs de consultation les plus courants 
+en médecine de premier recours. En raison de leur caractère polymorphe et des 
+étiologies potentiellement graves, il est essentiel de bien les classifier et de 
+rechercher les signes de sévérité associés. C’est dans cet objectif que la 
+classification internationale des céphalées a livré sa troisième version en 2018 
+(ICHD-3). Des critères de sévérité révisés et validés ont également été publiés 
+en 2018 sous le nom de SNNOOP10. En parallèle, le concept de drapeaux verts, qui 
+permettrait de retenir un diagnostic de céphalées primaires sans autres examens, 
+a émergé. En termes de traitement, le développement d’antagonistes du 
+neuropeptide CGRP (Calcitonin Gene-Related Peptide) a permis une avancée majeure 
+dans le traitement des formes de migraine sévères. La médecine intégrative y 
+prend par ailleurs une place centrale.
+
+DOI: 10.53738/REVMED.2022.18.797.1812
+PMID: 36170136 [Indexed for MEDLINE]
+
+Conflict of interest statement: Les auteurs n’ont déclaré aucun conflit 
+d’intérêts en relation avec cet article.
+
+
+71. Biomed Pharmacother. 1995;49(10):435-45. doi: 10.1016/0753-3322(96)82687-4.
+
+Anatomy and physiology of headache.
+
+Bogduk N(1).
+
+Author information:
+(1)Faculty of Medicine and Health Sciences, University of Newcastle, Callaghan, 
+Australia.
+
+Headache is a vast field with many different varieties of headaches and 
+classifications. However, all headaches have a common anatomy and physiology. 
+All headaches are mediated by the trigeminocervical nucleus, and are initiated 
+by noxious stimulation of the endings of the nerves that synapse on this 
+nucleus, by irritation of the nerves themselves, or by disinhibition of the 
+nucleus. A mastery of the relevant anatomy and physiology of the 
+trigeminocervical nociceptive system serves to predict and summarise the many 
+varieties of headache systematically and with reference to their mechanisms.
+
+DOI: 10.1016/0753-3322(96)82687-4
+PMID: 8746069 [Indexed for MEDLINE]
+
+
+72. Psychother Psychosom. 1994;61(1-2):41-64. doi: 10.1159/000288870.
+
+Tension-type headache: psychosomatic clinical assessment and treatment.
+
+Biondi M(1), Portuesi G.
+
+Author information:
+(1)Terza Clinica Psichiatrica, Università La Sapienza, Roma, Italy.
+
+Tension-type headache (TTH) is an ill-defined nosographic entity. The 
+classification of headaches according to the Headache Classification Committee 
+of the International Headache Society is closer to clinical reality with respect 
+to the past classification. From an aetiopathological standpoint, hypotheses 
+trying to explain primary headache disorders in a unified way are interesting. 
+The treatment of this disorder requires a thorough diagnostic framing, which 
+should take into account its psychosomatic aspects, focusing on the individual 
+patient and his history. In fact, the many studies which aimed at characterising 
+the disorder from a psychological viewpoint are not able to provide 
+generalizable indications. In the same way, as it appears that none of the 
+currently available treatments (drugs, biofeedback and psychotherapy) 
+demonstrates clear superiority over the others, the choice should involve an 
+intervention targeted on those factors which are held to be most important in an 
+individual patient. Finally, as for acupuncture and other physical therapies, 
+although interesting results are reported, these treatments are difficult to 
+assess and should be reserved to particular cases.
+
+DOI: 10.1159/000288870
+PMID: 8121977 [Indexed for MEDLINE]
+
+
+73. Neurol Sci. 2006 May;27 Suppl 2:S149-52. doi: 10.1007/s10072-006-0591-1.
+
+Sleep-related breathing disorders and headache.
+
+Provini F(1), Vetrugno R, Lugaresi E, Montagna P.
+
+Author information:
+(1)Department of Neurological Sciences, University of Bologna, Via Ugo Foscolo 
+7, I-40123, Bologna, Italy. federica.provini@unibo.it
+
+Obtructive sleep apnoea syndrome (OSAS) is a common disorder in the general 
+population with an estimated prevalence in an adult population of 2% in women 
+and 4% in men. Although several studies have suggested that headaches, 
+particularly morning headaches, are more common in patients with OSAS than in 
+normal subjects, others have yielded contradictory findings. When the 
+sleep-related breathing disorder was treated with success, the headache 
+generally disappeared, supporting a causal role of the sleep disorder for 
+headache. Several hypotheses have been proposed to explain the relationship 
+between OSAS and the occurrence of headache, particularly on awakening. 
+Night-time fluctuations of oxygen saturation during the night with hypercapnia, 
+vasodilatation, increased intracranial pressure and impaired sleep quality are 
+all considered contributing factors. However the exact mechanisms of headache 
+pathogenesis and the relationship between OSAS, headache and morning headaches 
+in particular remain controversial.
+
+DOI: 10.1007/s10072-006-0591-1
+PMID: 16688620 [Indexed for MEDLINE]
+
+
+74. Med Clin North Am. 2016 Sep;100(5):1009-17. doi: 10.1016/j.mcna.2016.04.009.
+
+The Cost-Effective Evaluation of Uncomplicated Headache.
+
+Katz M(1).
+
+Author information:
+(1)Department of Medicine, University of Connecticut School of Medicine, 263 
+Farmington Avenue, Farmington, CT 06030, USA. Electronic address: 
+mkatz@uchc.edu.
+
+Headaches remain one of the most common reasons for patients to seek acute care. 
+It is important to assess whether the headache meets criteria for a primary 
+(uncomplicated) versus a secondary headache, due to an underlying condition. A 
+thorough history and physical examination are imperative when assessing the 
+nature of the headache and to rule out red-flag features, which are signs and 
+symptoms of dangerous causes. This will help determine if imaging studies are 
+warranted. Management of uncomplicated headache should include treatment of the 
+acute headache and an action plan for reducing the frequency and severity of 
+future headaches.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mcna.2016.04.009
+PMID: 27542421 [Indexed for MEDLINE]
+
+
+75. Semin Neurol. 2006 Apr;26(2):163-70. doi: 10.1055/s-2006-939916.
+
+When and how to investigate the patient with headache.
+
+Bartleson JD(1).
+
+Author information:
+(1)Department of Neurology, Mayo Clinic College of Medicine, 200 First Street 
+SW, Rochester, MN 55905, USA.
+
+The very common symptom of headache most often has a benign cause and can 
+usually be diagnosed following a thorough history and neurologic and focused 
+general physical examinations. Because the potential etiologies can threaten 
+life and neurological function, headaches provoke understandable concern on the 
+part of the patient and health care provider. Thoughtful testing can exclude the 
+worrisome underlying causes. This article reviews the neurological and general 
+symptoms and signs that should prompt diagnostic testing and the specific 
+diagnostic studies that are recommended. The worrisome factors include recent 
+head or neck injury; a new, worse, worsening, or abrupt-onset headache; headache 
+brought on by exertion or Valsalva maneuver/cough; new headache in the patient 
+over the age of 50; neurological symptoms and/or abnormal signs; systemic 
+symptoms and/or signs; and secondary risk factors such as a history of cancer or 
+human immunodeficiency virus infection. Less worrisome are headaches that wake 
+the patient from sleep at night, side-locked headaches, and prominent effect of 
+change in posture on the pain. The diagnostic investigations include 
+neuroimaging, cerebrospinal fluid examination, and blood testing in specific 
+situations.
+
+DOI: 10.1055/s-2006-939916
+PMID: 16628526 [Indexed for MEDLINE]
+
+
+76. Allergy Asthma Proc. 2004 Mar-Apr;25(2):95-6.
+
+New thoughts on sinus headache.
+
+Tepper SJ(1).
+
+Author information:
+(1)New England Center for Headache, 778 Long Ridge Rd., Stamford, CT 06902, USA.
+
+Sinus headache is not a recognized entity by allergy, otolaryngology, or 
+neurological organizations. Headache is a minor feature in the diagnosis of 
+acute rhinosinusitis and is not validated as a symptom in chronic sinusitis. 
+Sinus headaches are self-diagnosed due to weather triggers, bilateral and 
+frontomaxillary location, and the presence of vasomotor signs and symptoms, all 
+of which can accompany the migraine. Over 90% of self-diagnosed and 
+doctor-diagnosed sinus headaches meet the International Headache Society 
+criteria for migraines, and those migraines misdiagnosed as sinus headaches 
+respond to sumatriptan better than placebo because migraines respond to 
+triptans. Sinus headaches are usually severely disabling migraines, misdiagnosed 
+and mistreated, with 61% of patients receiving antibiotic prescriptions for 
+noninfectious causes, thus failing the patients and, in addition, contributing 
+to a serious public health problem.
+
+PMID: 15176492 [Indexed for MEDLINE]
+
+
+77. Clin J Pain. 1989;5(1):111-20. doi: 10.1097/00002508-198903000-00019.
+
+Drug abuse in headache patients.
+
+Elkind AH(1).
+
+Author information:
+(1)Elkind Headache Center, Mount Vernon, NY 10550.
+
+A significant percentage of chronic headache sufferers use excessive quantities 
+of substances for relief. Drug dependency is frequent in these patients. 
+Patients have an impaired lifestyle, sustain organ system damage, may suffer a 
+withdrawal syndrome, and continue to have headaches. Drug abuse must cease 
+before a satisfactory remission occurs. Particular attention is directed to 
+ergotamine, butalbital, analgesics, and caffeine. The mechanism of substance 
+abuse may be related to repeated use of substances that reinforce behavior and 
+stimulate brain reward systems. Treatment includes comprehensive diagnostic 
+workup, withdrawal of the agent, and use of headache preventives. 
+beta-Adrenergic blockers, tricyclic antidepressants, monoamine oxidase (MAO) 
+inhibitors, and nonsteroidal anti-inflammatory agents may be of value. Behavior 
+modification and dietary counseling are also helpful.
+
+DOI: 10.1097/00002508-198903000-00019
+PMID: 2520377 [Indexed for MEDLINE]
+
+
+78. Curr Neurol Neurosci Rep. 2002 Mar;2(2):122-8. doi: 10.1007/s11910-002-0020-7.
+
+Modular headache theory: a new approach.
+
+Young WB(1).
+
+Author information:
+(1)Jefferson Headache Center, Thomas Jefferson University Hospital, 111 South 
+11th Street, Suite 8130, Philadelphia, PA 19107, USA. 
+William.B.Young@mail.tju.edu
+
+Many people experience headaches that do not fulfill the International Headache 
+Society's criteria for a specific headache disorder, yet behave biologically 
+like that disorder. Others fulfill criteria for one headache disorder but have 
+features of another. To explain these observations, we propose that groups of 
+neurons, called modules, become activated to produce each symptom of a primary 
+headache disorder, and that each module is linked to other modules that together 
+produce an individual's headache. Headaches develop phenotypic stability through 
+a process referred to as learned stereotypy. This theory has implications for 
+the classification, research, and treatment of primary and secondary headache 
+patients.
+
+DOI: 10.1007/s11910-002-0020-7
+PMID: 11898478 [Indexed for MEDLINE]
+
+
+79. Zh Nevrol Psikhiatr Im S S Korsakova. 2024;124(11. Vyp. 2):81-87. doi: 
+10.17116/jnevro202412411281.
+
+[Nummular headache is a rare type of primary headache in children and adults].
+
+[Article in Russian; Abstract available in Russian from the publisher]
+
+Dunin DN(1), Morozova EA(1), Belousova MV(1), Morozov DV(1), Prusakov VF(1), 
+Bogolyubova VV(1).
+
+Author information:
+(1)Kazan State Medical Academy - Branch Campus of the Federal State Budgetary 
+Educational Institution of Further Professional Education «Russian Medical 
+Academy of Continuous Professional Education», Kazan, Russia.
+
+Nummular headache is a rather rare type, related to primary headaches according 
+to the International Classification of Headache Disorders - III. Many aspects of 
+nummular headache have not been studied, medical practitioners are unfamiliar 
+with the clinical features and approaches to therapy. Statistics of this type of 
+cephalgia in children is unknown. The article analyzes the literature data of 
+recent years related to this problem. The details of the clinical features are 
+considered using a case example.
+
+Publisher: Монетовидная головная боль по Международной классификации головных 
+болей — III достаточно редкий тип, относящийся к первичным головным болям. 
+Многие аспекты монетовидной цефалгии не изучены, практические врачи не знакомы с 
+особенностями клинической картины и подходами к терапии. Статистика этого 
+варианта цефалгии у детей неизвестна. В статье проанализированы литературные 
+данные последних лет, относящиеся к указанной проблеме. Рассмотрены детали 
+клинической картины на примере клинического случая.
+
+DOI: 10.17116/jnevro202412411281
+PMID: 39576165 [Indexed for MEDLINE]
+
+
+80. Med Clin North Am. 2003 May;87(3):589-607. doi: 10.1016/s0025-7125(03)00009-9.
+
+Headache case studies for the primary care physician.
+
+Evans RW(1).
+
+Author information:
+(1)Department of Neurology, Park Plaza Hotel, Houston, TX, USA. rwevans@pol.net
+
+In a given year, over 5% of persons in the United States seek medical care for 
+headaches, most often seeing their primary care physician. The five cases here 
+review diagnosis and treatment of migraine and other primary headaches, 
+medication rebound headaches, and headaches in the elderly including temporal 
+arteritis. Although headaches (along with dizziness and back pain) may be one of 
+the least preferred diseases internists see, the increasing number of effective 
+treatments may favorably change this opinion and result in better care for their 
+patients.
+
+DOI: 10.1016/s0025-7125(03)00009-9
+PMID: 12812405 [Indexed for MEDLINE]
+
+
+81. Curr Pain Headache Rep. 2003 Oct;7(5):384-6. doi: 10.1007/s11916-003-0038-9.
+
+Cervicogenic headache after whiplash injury.
+
+Drottning M(1).
+
+Author information:
+(1)University of Oslo, Department of Neurosurgery, Ullevaal University Hospital, 
+0407 Oslo, Norway. monica.d@online.no
+
+Cervicogenic headache (CEH) with pain radiating from the neck to the forehead is 
+a common finding after whiplash injury. In most whiplash studies, the whiplash 
+headaches are not defined. Post-whiplash CEH typically is a moderate headache 
+with a benign, but often prolonged course. It probably is unilateral and 
+bilateral. Reduced neck mobility does not seem to be as common after whiplash as 
+in chronic CEH in general. Post-whiplash CEH is accompanied by great disability 
+and high use of medication. Although the natural course seems favorable for 
+unilateral CEH during the first postinjury years, some patients will need 
+specific treatment for their headaches. There is a lack of controlled studies to 
+guide practitioners to choose investigations and treatment for chronic CEH.
+
+DOI: 10.1007/s11916-003-0038-9
+PMID: 12946292 [Indexed for MEDLINE]
+
+
+82. Otolaryngol Clin North Am. 2003 Dec;36(6):1095-107, vi. doi: 
+10.1016/s0030-6665(03)00128-2.
+
+Acute, subacute, and chronic headache.
+
+Spierings EL(1).
+
+Author information:
+(1)Department of Neurology, Brigham and Women's Hospital, Harvard Medical 
+School, 75 Francis Street, Boston, MA 02115, USA.
+
+Headaches are perhaps the most common ailment, affecting up to 80% of the 
+population. They can be classified as acute, subacute, or chronic, depending on 
+the time they have been present, either intermittently or continuously. This 
+article describes the most common types of headaches, their causes, and various 
+treatments available.
+
+DOI: 10.1016/s0030-6665(03)00128-2
+PMID: 15025009 [Indexed for MEDLINE]
+
+
+83. Cephalalgia. 2008 Jul;28 Suppl 1:28-31. doi: 10.1111/j.1468-2982.2008.01615.x.
+
+Whiplash headache is transitory worsening of a pre-existing primary headache.
+
+Stovner LJ(1), Obelieniene D.
+
+Author information:
+(1)Norwegian National Headache Centre, Department of Neuroscience, Norwegian 
+University of Science and Technology, and St Olavs Hospital, Trondheim, Norway. 
+lars.stovner@ntnu.no
+
+Acute and chronic whiplash headache are new diagnostic entities in the ICHD-2 
+(5.3, 5.4). In a prospective cohort study, 210 rear-end collision victims were 
+identified consecutively from police records and asked about head and neck pain 
+in questionnaires after 2 weeks, 3 months and 1 year. The results were compared 
+with those of matched controls who were also followed for 1 year. Of 210 
+accident victims, 75 developed headache within 7 days. Of these, 37 had also 
+neck pain and complied with the criteria for acute whiplash headache. These 37 
+had the same headache diagnoses, headache features, accompanying symptoms and 
+long-term prognosis as the 38 without initial neck pain who therefore did not 
+comply with the acute whiplash headache diagnosis. Previous headache was a major 
+risk factor for headache both in the acute and chronic stage. Compared with the 
+non-traumatized controls, headache in the whiplash group had the same 
+prevalence, the same diagnoses and characteristic features, and the same 
+prognosis. Both acute and chronic whiplash headache lack specificity compared 
+with the headache in a control group, and have the same long-term prognosis, 
+indicating that such headaches are primary headaches, probably elicited by the 
+stress of the situation.
+
+DOI: 10.1111/j.1468-2982.2008.01615.x
+PMID: 18494992 [Indexed for MEDLINE]
+
+
+84. Headache. 2014 Oct;54(9):1534-40. doi: 10.1111/head.12432. Epub 2014 Aug 25.
+
+Ictal epileptic headache: a review of current literature and differentiation 
+from migralepsy and other epilepsies.
+
+Saitowitz Z(1), Flamini R, Berenson F.
+
+Author information:
+(1)Atlanta Headache Specialists, Atlanta, GA, USA.
+
+Comment in
+    Headache. 2015 Apr;55(4):582. doi: 10.1111/head.12539.
+    Headache. 2015 Apr;55(4):580-1. doi: 10.1111/head.12542.
+
+Ictal headaches are increasingly becoming the focus of research as more data 
+demonstrate headaches existing as a sole manifestation of an epileptic event. 
+Due to the difficulty in diagnosing the event as an epileptic phenomenon as 
+opposed to a migraine, the condition is often misdiagnosed. This paper seeks to 
+review the current published literature on ictal epileptic headaches as well as 
+provide differentiation between ictal headaches and similarly presenting 
+conditions. In doing so, we hope to improve the diagnosis of ictal headaches and 
+thus improve patient care. We review two case studies that exemplify the 
+potential of multiple conditions with comparable symptoms to ictal headaches, 
+and discuss how to differentiate the variable diagnoses. As of the writing of 
+this paper, there is no universally agreed upon set of features of ictal 
+headaches; however, reviewing the current literature, there do seem to be 
+several features that should be noted when treating patients. More research on 
+the pathophysiology of ictal epileptic headaches needs to be done before the 
+condition can be fully understood.
+
+© 2014 American Headache Society.
+
+DOI: 10.1111/head.12432
+PMID: 25155245 [Indexed for MEDLINE]
+
+
+85. Can J Neurol Sci. 2022 Nov;49(6):781-790. doi: 10.1017/cjn.2021.215. Epub 2021 
+Sep 13.
+
+Cannabinoid Use in a Tertiary Headache Clinic: A Cross-Sectional Survey.
+
+Melinyshyn AN(1), Amoozegar F(2)(3).
+
+Author information:
+(1)Neurologist and Headache Specialist, London, ON, Canada.
+(2)Department of Clinical Neurosciences, Cumming School of Medicine, University 
+of Calgary, Calgary, AB, Canada.
+(3)Hotchkiss Brain Institute, University of Calgary, Calgary, AB, Canada.
+
+OBJECTIVE: This study seeks to determine the prevalence and nature of cannabis 
+use in patients with headache in a tertiary headache clinic and to explore 
+patients' empiric experience in using cannabinoids therapeutically.
+BACKGROUND: Many patients with headache report cannabinoid use as an effective 
+abortive and/or preventive therapy. Mounting evidence implicates cannabinoids in 
+pain mechanisms pertaining to migraine and other headache types.
+METHODS: A cross-sectional study surveyed 200 patients presenting with any 
+headache disorder to a tertiary headache clinic in Calgary, Alberta. Descriptive 
+analyses were applied to capture information about headache diagnoses and the 
+frequency, doses and methods of cannabinoid delivery employed, as well as 
+patients' perceptions of therapeutic benefit and selected negative side effects.
+RESULTS: Active cannabinoid users comprised 34.0% of respondents. Approximately 
+40% of respondents using cannabinoids engaged in very frequent use (≥300 
+days/year). Of cannabinoid modalities, liquid concentrates were most popular 
+(39.2%), followed by smoked cannabis (33.3%). Patients endorsed cannabinoid use 
+for both prevention and acute therapy of headaches, often concurrently. Sixty 
+percent of respondents felt cannabinoids reduced headache severity, while 29.2% 
+perceived efficacy in aborting headaches. Nearly 5% of respondents volunteered 
+that they had encountered a serious problem such as an argument, fight, 
+accident, or work issue as a result of their cannabis use. Approximately 35.4% 
+of users had attempted to reduce their use.
+CONCLUSION: This survey shows that over one-third of patients with headache 
+disorders in a tertiary headache clinic use cannabis as a treatment for their 
+headaches. Of these, about 25% and 60% perceive improvements in headache 
+frequency and severity, respectively. The results of this survey will aid 
+neurologists and headache specialists in understanding the landscape of 
+cannabinoid use in a more severely affected population and inform 
+future-controlled studies of cannabinoids in headache patients.
+
+DOI: 10.1017/cjn.2021.215
+PMID: 34511153 [Indexed for MEDLINE]
+
+
+86. Neurol Sci. 2021 Oct;42(10):4163-4174. doi: 10.1007/s10072-021-05080-x. Epub 
+2021 Feb 4.
+
+Headache Gauge: a real-life calendar-based tool for headache monitoring.
+
+Gil-Gouveia R(1)(2), Marques IB(3), Parreira EP(3), Martins IP(4)(5), Oliveira 
+AG(6).
+
+Author information:
+(1)Hospital da Luz Headache Center, Hospital da Luz, Lisboa, Avenida Lusíada n 
+100, 1500-650, Lisbon, Portugal. rgilgouveia@gmail.com.
+(2)Headache Outpatient Clinic, Hospital de Santa Maria, Lisbon, Portugal. 
+rgilgouveia@gmail.com.
+(3)Hospital da Luz Headache Center, Hospital da Luz, Lisboa, Avenida Lusíada n 
+100, 1500-650, Lisbon, Portugal.
+(4)Headache Outpatient Clinic, Hospital de Santa Maria, Lisbon, Portugal.
+(5)Lisbon Faculty of Medicine, University of Lisbon, Lisbon, Portugal.
+(6)Pharmacy Department, Universidade Federal do Rio Grande do Norte, Natal, 
+Brazil.
+
+BACKGROUND: This study aimed to validate a semi-quantitative composite score 
+tool, "Headache Gauge" (HG), to monitor the treatment effect in primary 
+headaches in everyday clinic practice, adjustable to any chosen timeframe.
+METHOD: A cohort validation study of HG was performed in primary headache 
+patients, recovering their clinical data and patient-related outcome measures 
+(PROMs) for headache (HIT-6, MIDAS, HURT), work impact (WPAIQ), quality-of-life 
+(SF-12), and mood (STAI, ZUNG). HG score distribution, its relation to clinical 
+variables, its internal consistency, and its convergent validity were 
+determined.
+RESULTS: HG was plotted in 233 patients: 90.1% females, age average 37 years, 
+86% with migraine, 27% with chronic headaches, and 28% with medication overuse. 
+HG ranged from 0.21 to 58.3 in this sample, higher in chronic headaches (HG 16) 
+and medication overuse (HG 15). HG presented good concurrent validity, 
+significantly correlating with HIT-6 (p < 0.0001), SF-12 (p = 0.001), WPAIQ 
+(p < 0.0001), MIDAS (p < 0.0001), and HURT (p < 0.0001). Good sensitivity to 
+change (p < 0.001) and moderate test-retest reliability (p = 0.001) were 
+calculated after reassessment of 147 patients (63.1% of the initial sample).
+CONCLUSIONS: Headache Gauge is a clinical data-based outcome measure that 
+conceptually translates the percentage of lost time to headache in any given 
+timeframe. It relates to headache impact, therefore bearing the potential to be 
+relevant in real-life clinical monitoring.
+
+© 2021. Fondazione Società Italiana di Neurologia.
+
+DOI: 10.1007/s10072-021-05080-x
+PMID: 33538913 [Indexed for MEDLINE]
+
+
+87. Curr Neurol Neurosci Rep. 2015;15(2):516. doi: 10.1007/s11910-014-0516-y.
+
+Indomethacin-responsive headaches.
+
+VanderPluym J(1).
+
+Author information:
+(1)Department of Pediatric Neurology, University of Alberta, 3-574A ECHA 
+11405-87 Avenue, Edmonton, AB, T6G 1C9, Canada, 
+juliana.vanderpluym@albertahealthservices.ca.
+
+Indomethacin-responsive headaches are a heterogeneous group of primary headache 
+disorders distinguished by their swift and often absolute response to 
+indomethacin. The epidemiology of these conditions is incompletely defined. 
+Traditionally, indomethacin-responsive headaches include a subset of trigeminal 
+autonomic cephalalgias (paroxysmal hemicrania and hemicrania continua), 
+Valsalva-induced headaches (cough headache, exercise headache, and sex 
+headache), primary stabbing headache, and hypnic headache. These headache 
+syndromes differ in extent of response to indomethacin, clinical features, and 
+differential diagnoses. Neuroimaging is recommended to investigate for various 
+organic causes that may mimic these headaches. Case reports of other primary 
+headache disorders that also respond to indomethacin, such as cluster headache, 
+nummular headache, and ophthalmoplegic migraine, have been described. These 
+"novel" indomethacin-responsive headaches beg the question of what headache 
+characteristics are required to qualify a headache as an indomethacin-responsive 
+headache. Furthermore, they challenge the concept of using a therapeutic 
+intervention as a diagnostic criterion.
+
+DOI: 10.1007/s11910-014-0516-y
+PMID: 25467407 [Indexed for MEDLINE]
+
+
+88. Schmerz. 2004 Oct;18(5):392-7. doi: 10.1007/s00482-004-0354-y.
+
+[Symptomatic headache. Essential differential diagnosis].
+
+[Article in German]
+
+Förderreuther S(1).
+
+Author information:
+(1)Neurologische Klinik, Ludwig-Maximilians-Universität München. 
+Steffi.Foerderreuther@med.uni-muenchen.de
+
+A patient is suspected of suffering from a potentially life threatening headache 
+according to the following typical warning signs: sudden onset headache, worst 
+headache, neurological findings, fever, neck stiffness, epileptic seizures and 
+deterioration of vigilance. It is far more dangerous not to recognize 
+potentially life threatening headaches like subarachnoid bleeding, meningitis, 
+encephalitis, arterial dissection or epidural hematoma than to over diagnose it. 
+Immediate and specific neurological and radiological investigations (CT, MRI, 
+CSF) are necessary in each patient presenting with those findings. The morbidity 
+and mortality of those patients mainly depend on the beginning of the therapy. 
+This article focuses on the diagnosis of potentially life threatening headache 
+disorders.
+
+DOI: 10.1007/s00482-004-0354-y
+PMID: 15316763 [Indexed for MEDLINE]
+
+
+89. Med Clin North Am. 1978 May;62(3):495-505. doi: 10.1016/s0025-7125(16)31788-6.
+
+Tension headache.
+
+Ziegler DK.
+
+Headache is an extremely common symptom, and many headaches undoubtedly have a 
+relationship to stressful situations. The clear definition, however, of a 
+"tension headache" complex and its differentiation from migraine in some 
+patients is difficult. The problems are in the identification of a specific 
+headache pattern induced by stress or "tension" and the relationship of the 
+symptom to involuntary contraction of neck and scalp muscles. Treatment consists 
+of analgesics and occasionally mild tranquilizers. Psychotherapy consists of 
+reassurance and often other supportive measures, including modification of life 
+styles. Various feedback techniques have been reported of value, but their 
+superiority to suggestion and hypnosis is still problematic.
+
+DOI: 10.1016/s0025-7125(16)31788-6
+PMID: 661420 [Indexed for MEDLINE]
+
+
+90. Cephalalgia. 2001 Oct;21(8):842-9. doi: 10.1046/j.1468-2982.2001.218254.x.
+
+Modular headache theory.
+
+Young WB(1), Peres MF, Rozen TD.
+
+Author information:
+(1)Jefferson Headache Center, Thomas Jefferson University Hospital, 
+Philadelphia, Pennsylvania 19107, USA. William.B.Young@mail.tju.edu
+
+Comment in
+    Cephalalgia. 2001 Oct;21(8):796-7. doi: 10.1046/j.0333-1024.2001.00257.x.
+
+Many people experience headaches that do not fulfil the International Headache 
+Society's criteria for a specific headache disorder yet behave biologically like 
+that disorder. Others fulfil criteria for one headache disorder and yet have 
+features of another disorder. To explain these observations, we propose that 
+groups of neurones called modules become activated to produce each symptom of a 
+primary headache disorder, and that each module is linked to other modules that 
+together produce an individual's headache. This theory has implications for the 
+classification, research and treatment of primary and secondary headache 
+patients.
+
+DOI: 10.1046/j.1468-2982.2001.218254.x
+PMID: 11737011 [Indexed for MEDLINE]
+
+
+91. Clin Pharm. 1984 Mar-Apr;3(2):139-52.
+
+Classification, mechanisms, and management of headache.
+
+Repschlaeger BJ, McPherson MA.
+
+Classification, epidemiology, pathophysiology, and therapy of migraine, cluster, 
+and muscle-contraction (tension) headaches are reviewed. Migraine headache is 
+related to vasomotor changes and is often preceded or accompanied by neurologic 
+symptoms, nausea, and vomiting. Ergot alkaloids are used in acute migraine 
+episodes; products containing caffeine are sometimes used for synergy. Other 
+agents including antiemetic and sedative drugs and a combination product 
+containing isometheptene mucate , dichloralphenazone , and acetaminophen have 
+been used. Methysergide is the drug of choice for migraine prophylaxis. Of all 
+patients with cluster headache, 90% experience episodes that occur in series 
+separated by intervals as short as one week or as long as 25 years, and the 
+remaining 10% have chronic headache. Pain is unilateral, nausea and vomiting are 
+rare, and there is no aura. Pathophysiology is thought to be similar to that of 
+migraine. Supportive treatment includes drug therapy to improve sleep and 
+avoidance of alcohol and vasodilating agents. Aerosol ergot preparations may be 
+effective for treatment of acute episodes . Prednisone has been used both as an 
+abortive agent and for prophylaxis, while ergotamine, methysergide, and lithium 
+have been tried prophylactically. Chronic tension headache is a constant, tight, 
+pressing, or bandlike sensation in the frontal, temporal, or occipital area that 
+occurs daily. The deep, steady ache differs from the throbbing sensation of 
+vascular headache. Constant overcontraction of scalp muscles may be a cause. 
+Heat, massage, and stretching are used to alleviate excess muscle contraction. 
+Tension headache has been treated with analgesics, nonsteroidal 
+anti-inflammatory agents, muscle relaxants, and amitriptyline. Drug treatment of 
+headache must be based on headache type and tailored to individual response. 
+Bio-feedback may be useful in some patients when combined with drugs.
+
+PMID: 6373100 [Indexed for MEDLINE]
+
+
+92. Semin Neurol. 2011 Sep;31(4):385-91. doi: 10.1055/s-0031-1293537. Epub 2011 Nov 
+23.
+
+Early postpartum headache: case discussions.
+
+Cardona L(1), Klein AM.
+
+Author information:
+(1)Brigham and Women's Hospital, Faulkner Hospital, Boston, Massachusetts 02130, 
+USA. lcardona@partners.org
+
+Headaches are a common complaint for most women during their lifetime, including 
+gestation and puerperium. Tension-type headaches and migraine flare-ups are the 
+most common headache complications after delivery, but the differential 
+diagnosis of postpartum headache is broad. The clinician must distinguish common 
+headache syndromes from dangerous causes of postpartum headache. We will focus 
+on early postpartum headaches in the form of case discussions that will include 
+clinical presentation, diagnostic criteria, and treatment.
+
+© Thieme Medical Publishers.
+
+DOI: 10.1055/s-0031-1293537
+PMID: 22113510 [Indexed for MEDLINE]
+
+
+93. Expert Rev Neurother. 2010 Mar;10(3):389-411. doi: 10.1586/ern.10.16.
+
+Animal models of headache: from bedside to bench and back to bedside.
+
+Andreou AP(1), Summ O, Charbit AR, Romero-Reyes M, Goadsby PJ.
+
+Author information:
+(1)Headache Group - Department of Neurology, University of California, San 
+Francisco, San Francisco, CA 94115, USA.
+
+In recent years bench-based studies have greatly enhanced our understanding of 
+headache pathophysiology, while facilitating the development of new headache 
+medicines. At present, established animal models of headache utilize activation 
+of pain-producing cranial structures, which for a complex syndrome, such as 
+migraine, leaves many dimensions of the syndrome unstudied. The focus on 
+modeling the central nociceptive mechanisms and the complexity of sensory 
+phenomena that accompany migraine may offer new approaches for the development 
+of new therapeutics. Given the complexity of the primary headaches, multiple 
+approaches and techniques need to be employed. As an example, recently a model 
+for trigeminal autonomic cephalalgias has been tested successfully, while by 
+contrast, a satisfactory model of tension-type headache has been elusive. 
+Moreover, although useful in many regards, migraine models are yet to provide a 
+more complete picture of the disorder.
+
+DOI: 10.1586/ern.10.16
+PMID: 20187862 [Indexed for MEDLINE]
+
+
+94. Pediatr Ann. 2018 Feb 1;47(2):e48-e49. doi: 10.3928/19382359-20180125-01.
+
+Headaches in Children.
+
+Sivaswamy L, Kamat D.
+
+Comment in
+    Pediatr Ann. 2018 Feb 1;47(2):e41. doi: 10.3928/19382359-20180125-02.
+
+DOI: 10.3928/19382359-20180125-01
+PMID: 29446793 [Indexed for MEDLINE]
+
+
+95. Headache. 2016 Nov;56(10):1685-1697. doi: 10.1111/head.12998. Epub 2016 Oct 31.
+
+"WHICH Headache to Investigate, WHEN, and HOW?".
+
+Ravishankar K(1).
+
+Author information:
+(1)Consultant In-Charge, The Headache and Migraine Clinic, Jaslok Hospital and 
+Research Centre, Lilavati Hospital and Research Centre, Mumbai, India.
+
+PREMISE: Headache is a common problem in medical practice. The International 
+Classification of Headache Disorders (ICHD-3 beta)1 divides all headaches into 
+two broad categories. Most headaches seen in practice belong to the category of 
+primary headaches, where there is no underlying structural cause identifiable. 
+Less than 10% headaches in practice belong to the category of secondary 
+headaches where there is an underlying condition, that can sometimes be ominous 
+and life-threatening.
+PROBLEM: Fear of missing a treatable serious secondary headache disorder is the 
+most important reason why we need to investigate headache patients. There is no 
+dilemma in investigating the patient when the clinical presentation is 
+straightforward but when the headache presents differently or with 'red flags,' 
+it can sometimes be quite challenging to order the right investigation and 
+rapidly arrive at the right diagnosis.
+POTENTIAL SOLUTIONS: This article looks at some of the elusive headache 
+scenarios and outlines an approach that addresses the issue of 'appropriate' 
+investigation in the headache patient. With advancing technology and increasing 
+expertise, the author feels it is time now to do away with the practice of 
+ordering an exhaustive battery of tests in all headache patients. With 
+experience, clinicians can learn to choose tests judiciously and order specific 
+tests based on a working diagnosis. As the title suggests, knowing 'WHEN to 
+order WHAT test in WHICH headache patient? ' forms the theme of this article.
+
+© 2016 American Headache Society.
+
+DOI: 10.1111/head.12998
+PMID: 27796030 [Indexed for MEDLINE]
+
+
+96. Curr Pain Headache Rep. 2008 Oct;12(5):357-60. doi: 10.1007/s11916-008-0060-z.
+
+Classification of pediatric headache.
+
+Winner P(1).
+
+Author information:
+(1)Palm Beach Headache Center, Premiere Research Institute at Palm Beach 
+Neurology; Nova Southeastern University, 4631 N. Congress Avenue, West Palm 
+Beach, FL 33407, USA. eneuro@aol.com
+
+The high incidence and prevalence of headaches in the pediatric population has a 
+significant impact on patients and their families. Migraine, the most common 
+headache disorder for which pediatric patients see a physician, remains 
+underdiagnosed. Recent studies have revealed the increasing incidence of 
+migraine and chronic migraine in the pediatric population. This article presents 
+limitations of the present diagnostic criteria for migraine, and the proposed 
+modifications to these criteria may assist the clinician with early recognition. 
+Further research in pediatric headaches is needed to help reveal additional 
+pathophysiologic mechanisms and improve diagnostic criteria.
+
+DOI: 10.1007/s11916-008-0060-z
+PMID: 18765141 [Indexed for MEDLINE]
+
+
+97. Semin Neurol. 2015 Dec;35(6):667-74. doi: 10.1055/s-0035-1564300. Epub 2015 Nov 
+23.
+
+Approach to the Workup and Management of Headache in the Emergency Department 
+and Inpatient Settings.
+
+Levin M(1).
+
+Author information:
+(1)Division of Headache Medicine, Department of Neurology, University of 
+California, San Francisco, California.
+
+The challenge of headache management in the hospital can be divided into the 
+diagnostic and management issues encountered in the emergency department, and 
+the issues involved in the inpatient management of chronic refractory headaches. 
+The two endeavors are different but linked because of overlapping diagnostic and 
+treatment options. In addition, the problem of the intractable acute headache 
+encountered in the emergency department can evolve into inpatient care of the 
+same patient who has failed to respond to acute treatment. Here the author 
+presents an approach to the patient with severe acute headache in the emergency 
+department and explores the options available for managing intractable headaches 
+in the inpatient setting.
+
+Thieme Medical Publishers 333 Seventh Avenue, New York, NY 10001, USA.
+
+DOI: 10.1055/s-0035-1564300
+PMID: 26595867 [Indexed for MEDLINE]
+
+
+98. Mayo Clin Proc. 2005 Jul;80(7):908-16. doi: 10.4065/80.7.908.
+
+Sinus headache: a neurology, otolaryngology, allergy, and primary care consensus 
+on diagnosis and treatment.
+
+Cady RK(1), Dodick DW, Levine HL, Schreiber CP, Eross EJ, Setzen M, Blumenthal 
+HJ, Lumry WR, Berman GD, Durham PL.
+
+Author information:
+(1)Headache Care Center, Primary Care Network, Inc, 3805 S Kansas Expressway, 
+Springfield, MO 65807, USA. rcady@primarycarenet.org
+
+Comment in
+    Otolaryngol Head Neck Surg. 2006 Sep;135(3):489-90. doi: 
+10.1016/j.otohns.2006.07.001.
+
+Sinus headache is a widely accepted clinical diagnosis, although many medical 
+specialists consider it an uncommon cause of recurrent headaches. The 
+inappropriate diagnosis of sinus headache can lead to unnecessary diagnostic 
+studies, surgical interventions, and medical treatments. Both the International 
+Headache Society and the American Academy of Otolaryngology-Head and Neck 
+Surgery have attempted to define conditions that lead to headaches of rhinogenic 
+origin but have done so from different perspectives and in isolation of each 
+other. An interdisciplinary ad hoc committee convened to discuss the role of 
+sinus disease as a cause of headache and to review recent epidemiological 
+studies that suggest sinus headache (headache of rhinogenic origin) and migraine 
+are frequently confused with one another. This committee reviewed available 
+scientific evidence from multiple disciplines and concluded that considerable 
+research and clinical study are required to further understand and delineate the 
+role of nasal pathology and autonomic activation in migraine and headaches of 
+rhinogenic origin. However, this group agreed that greater diagnostic and 
+therapeutic attention needs to be given to patients with sinus headaches.
+
+DOI: 10.4065/80.7.908
+PMID: 16007896 [Indexed for MEDLINE]
+
+
+99. Wien Med Wochenschr. 1994;144(5-6):93-9.
+
+[Headache: classification/nomenclature].
+
+[Article in German]
+
+Barolin GS(1).
+
+Author information:
+(1)Ludwig-Boltzmann-Institut für Neuro-Rehabilitation und -Prophylaxe, 
+Landes-Nervenkrankenhauses Valduna, Rankweil.
+
+Our multidimensional classification of headache uses on the one hand the 
+phenomenological main criteria. Id est: attack-featured headaches versus the 
+more permanent headaches. On the other hand the main etiological factors have to 
+be traced: heredity, vasomotor-dysfunction, disturbances of cervical spine, 
+metabolic disturbances, psychodynamics. As the majority of 90% chronical 
+headaches have a multifactorial etiology, these factors have to be taken into 
+consideration one by one. Usually more than one is to be found. Such 
+differential diagnosis forms already a clear way into differentiated therapy. 
+Our classification is conform to patient and to daily medical practice, easy to 
+execute and, last not least, has a statistically proven small inter-examiner 
+variation. The nowadays discussed IHS-classification we see contrarely to ours 
+and to the demands of a good classification. Same counts for the classification 
+that is put on by the ICD-9. First is to big, second is to small to be useful. 
+Moreover, both show quite a number of clearly definable faults, which are 
+opposite to clinical reality.
+
+PMID: 8053218 [Indexed for MEDLINE]
+
+
+100. Practitioner. 1980 Jul;224(1345):705-9.
+
+Headache.
+
+Millac PA.
+
+PMID: 7433390 [Indexed for MEDLINE]

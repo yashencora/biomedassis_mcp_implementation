@@ -1,0 +1,3909 @@
+1. Eur J Pharmacol. 2020 Dec 15;889:173644. doi: 10.1016/j.ejphar.2020.173644. Epub 
+2020 Oct 11.
+
+Treatment for COVID-19: An overview.
+
+Stasi C(1), Fallani S(2), Voller F(2), Silvestri C(2).
+
+Author information:
+(1)Epidemiology Unit, Tuscany Regional Health Agency, Florence, Italy; 
+Department of Experimental and Clinical Medicine, Careggi University Hospital, 
+Florence, Italy. Electronic address: cristina.stasi@gmail.com.
+(2)Epidemiology Unit, Tuscany Regional Health Agency, Florence, Italy.
+
+Coronavirus disease 2019 (COVID-19) is an infectious disease caused by 
+coronavirus-2 (SARS-CoV-2) that causes a severe acute respiratory syndrome, a 
+characteristic hyperinflammatory response, vascular damage, microangiopathy, 
+angiogenesis and widespread thrombosis. Four stages of COVID-19 have been 
+identified: the first stage is characterised by upper respiratory tract 
+infection; the second by the onset of dyspnoea and pneumonia; the third by a 
+worsening clinical scenario dominated by a cytokine storm and the consequent 
+hyperinflammatory state; and the fourth by death or recovery. Currently, no 
+treatment can act specifically against the SARS-CoV-2 infection. Based on the 
+pathological features and different clinical phases of COVID-19, particularly in 
+patients with moderate to severe COVID-19, the classes of drugs used are 
+antiviral agents, inflammation inhibitors/antirheumatic drugs, low molecular 
+weight heparins, plasma, and hyperimmune immunoglobulins. During this emergency 
+period of the COVID-19 outbreak, clinical researchers are using and testing a 
+variety of possible treatments. Based on these premises, this review aims to 
+discuss the most updated pharmacological treatments to effectively act against 
+the SARS-CoV-2 infection and support researchers and clinicians in relation to 
+any current and future developments in curing COVID-19 patients.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ejphar.2020.173644
+PMCID: PMC7548059
+PMID: 33053381 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+2. Nat Rev Microbiol. 2021 Mar;19(3):141-154. doi: 10.1038/s41579-020-00459-7. Epub 
+2020 Oct 6.
+
+Characteristics of SARS-CoV-2 and COVID-19.
+
+Hu B(#)(1), Guo H(#)(1)(2), Zhou P(1), Shi ZL(3).
+
+Author information:
+(1)CAS Key Laboratory of Special Pathogens and Biosafety, Wuhan Institute of 
+Virology, Chinese Academy of Sciences, Wuhan, People's Republic of China.
+(2)University of Chinese Academy of Sciences, Beijing, People's Republic of 
+China.
+(3)CAS Key Laboratory of Special Pathogens and Biosafety, Wuhan Institute of 
+Virology, Chinese Academy of Sciences, Wuhan, People's Republic of China. 
+zlshi@wh.iov.cn.
+(#)Contributed equally
+
+Erratum in
+    Nat Rev Microbiol. 2022 May;20(5):315. doi: 10.1038/s41579-022-00711-2.
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a highly 
+transmissible and pathogenic coronavirus that emerged in late 2019 and has 
+caused a pandemic of acute respiratory disease, named 'coronavirus disease 2019' 
+(COVID-19), which threatens human health and public safety. In this Review, we 
+describe the basic virology of SARS-CoV-2, including genomic characteristics and 
+receptor use, highlighting its key difference from previously known 
+coronaviruses. We summarize current knowledge of clinical, epidemiological and 
+pathological features of COVID-19, as well as recent progress in animal models 
+and antiviral treatment approaches for SARS-CoV-2 infection. We also discuss the 
+potential wildlife hosts and zoonotic origin of this emerging virus in detail.
+
+DOI: 10.1038/s41579-020-00459-7
+PMCID: PMC7537588
+PMID: 33024307 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+3. Nat Immunol. 2022 Feb;23(2):194-202. doi: 10.1038/s41590-021-01104-y. Epub 2022 
+Feb 1.
+
+Pathological sequelae of long-haul COVID.
+
+Mehandru S(1)(2), Merad M(3)(4).
+
+Author information:
+(1)Precision Immunology Institute, Icahn School of Medicine at Mount Sinai, New 
+York, NY, USA. saurabh.mehandru@mssm.edu.
+(2)Henry D. Janowitz Division of Gastroenterology, Department of Medicine, Icahn 
+School of Medicine at Mount Sinai, New York, NY, USA. saurabh.mehandru@mssm.edu.
+(3)Precision Immunology Institute, Icahn School of Medicine at Mount Sinai, New 
+York, NY, USA. miriam.merad@mssm.edu.
+(4)Department of Oncological Sciences, Icahn School of Medicine at Mount Sinai, 
+New York, NY, USA. miriam.merad@mssm.edu.
+
+The world continues to contend with successive waves of coronavirus disease 2019 
+(COVID-19), fueled by the emergence of viral variants. At the same time, 
+persistent, prolonged and often debilitating sequelae are increasingly 
+recognized in convalescent individuals, named 'post-COVID-19 syndrome' or 
+'long-haul COVID'. Clinical symptomatology includes fatigue, malaise, dyspnea, 
+defects in memory and concentration and a variety of neuropsychiatric syndromes 
+as the major manifestations, and several organ systems can be involved. The 
+underlying pathophysiological mechanisms are poorly understood at present. This 
+Review details organ-specific sequelae of post-COVID-19 syndromes and examines 
+the underlying pathophysiological mechanisms available so far, elaborating on 
+persistent inflammation, induced autoimmunity and putative viral reservoirs. 
+Finally, we propose diagnostic strategies to better understand this 
+heterogeneous disorder that continues to afflict millions of people worldwide.
+
+© 2022. Springer Nature America, Inc.
+
+DOI: 10.1038/s41590-021-01104-y
+PMCID: PMC9127978
+PMID: 35105985 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests M.M. and S.M. declare no 
+conflicts of interest relating to this work.
+
+
+4. Int J Mol Sci. 2022 Feb 2;23(3):1716. doi: 10.3390/ijms23031716.
+
+SARS-CoV-2-Specific Immune Response and the Pathogenesis of COVID-19.
+
+Gusev E(1), Sarapultsev A(1)(2), Solomatina L(1), Chereshnev V(1).
+
+Author information:
+(1)Laboratory of Immunology of Inflammation, Institute of Immunology and 
+Physiology, Ural Branch of the Russian Academy of Science, 620049 Ekaterinburg, 
+Russia.
+(2)Russian-Chinese Education and Research Center of System Pathology, South Ural 
+State University, 454080 Chelyabinsk, Russia.
+
+The review aims to consolidate research findings on the molecular mechanisms and 
+virulence and pathogenicity characteristics of coronavirus disease (COVID-19) 
+causative agent, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), 
+and their relevance to four typical stages in the development of acute viral 
+infection. These four stages are invasion; primary blockade of antiviral innate 
+immunity; engagement of the virus's protection mechanisms against the factors of 
+adaptive immunity; and acute, long-term complications of COVID-19. The invasion 
+stage entails the recognition of the spike protein (S) of SARS-CoV-2 target cell 
+receptors, namely, the main receptor (angiotensin-converting enzyme 2, ACE2), 
+its coreceptors, and potential alternative receptors. The presence of a diverse 
+repertoire of receptors allows SARS-CoV-2 to infect various types of cells, 
+including those not expressing ACE2. During the second stage, the majority of 
+the polyfunctional structural, non-structural, and extra proteins SARS-CoV-2 
+synthesizes in infected cells are involved in the primary blockage of antiviral 
+innate immunity. A high degree of redundancy and systemic action characterizing 
+these pathogenic factors allows SARS-CoV-2 to overcome antiviral mechanisms at 
+the initial stages of invasion. The third stage includes passive and active 
+protection of the virus from factors of adaptive immunity, overcoming of the 
+barrier function at the focus of inflammation, and generalization of SARS-CoV-2 
+in the body. The fourth stage is associated with the deployment of variants of 
+acute and long-term complications of COVID-19. SARS-CoV-2's ability to induce 
+autoimmune and autoinflammatory pathways of tissue invasion and development of 
+both immunosuppressive and hyperergic mechanisms of systemic inflammation is 
+critical at this stage of infection.
+
+DOI: 10.3390/ijms23031716
+PMCID: PMC8835786
+PMID: 35163638 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results.
+
+
+5. J Gene Med. 2021 Feb;23(2):e3303. doi: 10.1002/jgm.3303. Epub 2021 Jan 6.
+
+COVID-19: Virology, biology and novel laboratory diagnosis.
+
+Mohamadian M(1)(2), Chiti H(3), Shoghli A(4), Biglari S(5), Parsamanesh N(3), 
+Esmaeilzadeh A(6)(7).
+
+Author information:
+(1)Department of Molecular Medicine, Birjand University of Medical Sciences, 
+Birjand, Iran.
+(2)Cellular and Molecular Research Center, Birjand University of Medical 
+Sciences, Birjand, Iran.
+(3)Zanjan Metabolic Diseases Research Center, Zanjan University of Medical 
+Sciences, Zanjan, Iran.
+(4)Social Determinants of Health Research Center, Zanjan University of Medical 
+Sciences, Zanjan, Iran.
+(5)School of Medicine, Zanjan University of Medical Sciences, Zanjan, Iran.
+(6)Department of Immunology, Zanjan University of Medical Science, Zanjan, Iran.
+(7)Cancer Gene Therapy Research Center, Zanjan University of Medical Science, 
+Zanjan, Iran.
+
+BACKGROUND: At the end of December 2019, a novel coronavirus tentatively named 
+SARS-CoV-2 in Wuhan, a central city in China, was announced by the World Health 
+Organization. SARS-CoV-2 is an RNA virus that has become a major public health 
+concern after the outbreak of the Middle East Respiratory Syndrome-CoV 
+(MERS-CoV) and Severe Acute Respiratory Syndrome-CoV (SARS-CoV) in 2002 and 
+2012, respectively. As of 29 October 2020, the total number of COVID-19 cases 
+had reached over 44 million worldwide, with more than 1.17 million confirmed 
+deaths.
+DISCUSSION: SARS-CoV-2 infected patients usually present with severe viral 
+pneumonia. Similar to SARS-CoV, the virus enters respiratory tract cells via the 
+angiotensin-converting enzyme receptor 2. The structural proteins play an 
+essential role in budding the virus particles released from different host 
+cells. To date, an approved vaccine or treatment option of a preventive 
+character to avoid severe courses of COVID-19 is still not available.
+CONCLUSIONS: In the present study, we provide a brief review of the general 
+biological features of CoVs and explain the pathogenesis, clinical symptoms and 
+diagnostic approaches regarding monitoring future infectivity and prevent 
+emerging COVID-19 infections.
+
+© 2020 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/jgm.3303
+PMCID: PMC7883242
+PMID: 33305456 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.
+
+
+6. Curr Med Sci. 2021 Dec;41(6):1037-1051. doi: 10.1007/s11596-021-2395-1. Epub 
+2021 Jul 9.
+
+A Comprehensive Review of COVID-19 Virology, Vaccines, Variants, and 
+Therapeutics.
+
+Forchette L(#)(1), Sebastian W(#)(1), Liu T(2).
+
+Author information:
+(1)Department of Biomedical Sciences, West Virginia School of Osteopathic 
+Medicine, 400 Lee Street North, Lewisburg, West Virginia, 24901, USA.
+(2)Department of Biomedical Sciences, West Virginia School of Osteopathic 
+Medicine, 400 Lee Street North, Lewisburg, West Virginia, 24901, USA. 
+tliu@osteo.wvsom.edu.
+(#)Contributed equally
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causative 
+pathogen of the coronavirus disease 2019 (COVID-19), has caused more than 179 
+million infections and 3.8 million deaths worldwide. Throughout the past year, 
+multiple vaccines have already been developed and used, while some others are in 
+the process of being developed. However, the emergence of new mutant strains of 
+SARS-CoV-2 that have demonstrated immune-evading characteristics and an increase 
+in infective capabilities leads to potential ineffectiveness of the vaccines 
+against these variants. The purpose of this review article is to highlight the 
+current understanding of the immunological mechanisms of the virus and vaccines, 
+as well as to investigate some key variants and mutations of the virus driving 
+the current pandemic and their impacts on current management guidelines. We also 
+discussed new technologies being developed for the prevention, treatment, and 
+detection of SARS-CoV-2. In this paper, we thoroughly reviewed and provided 
+crucial information on SARS-CoV-2 virology, vaccines and drugs being used and 
+developed for its prevention and treatment, as well as important variant 
+strains. Our review paper will be beneficial to health care professionals and 
+researchers so they can have a better understanding of the basic sciences, 
+prevention, and clinical treatment of COVID-19 during the pandemic. This paper 
+consists of the most updated information that has been available as of June 21, 
+2021.
+
+© 2021. The Author(s).
+
+DOI: 10.1007/s11596-021-2395-1
+PMCID: PMC8267225
+PMID: 34241776 [Indexed for MEDLINE]
+
+
+7. J Med Virol. 2021 May;93(5):2735-2739. doi: 10.1002/jmv.26826. Epub 2021 Feb 9.
+
+Role of Toll-like receptors in the pathogenesis of COVID-19.
+
+Khanmohammadi S(1)(2), Rezaei N(1)(2)(3).
+
+Author information:
+(1)Research Center for Immunodeficiencies, Children's Medical Center, Tehran 
+University of Medical Sciences, Tehran, Iran.
+(2)Network of Immunity in Infection, Malignancy and Autoimmunity (NIIMA), 
+Universal Scientific Education and Research Network (USERN), Tehran, Iran.
+(3)Department of Immunology, School of Medicine, Tehran University of Medical 
+Sciences, Tehran, Iran.
+
+Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome 
+coronavirus 2 (SARS-CoV-2), has led to a pandemic since March 2020. The exact 
+pathogenesis of SARS-CoV-2 and the role of each component of the innate and 
+adaptive immune system is still unknown. However, available data from other 
+coronavirus families, such as SARS-CoV and the Middle East respiratory 
+syndrome and also new findings could be useful for a better understanding of 
+SARS-CoV-2. Toll-like receptors (TLR) play an important role in recognition of 
+viral particles and activation of the innate immune system. Activation of TLR 
+pathways leads to secretion of pro-inflammatory cytokines, such as 
+interleukin-1 (IL-1), IL-6, and tumor necrosis factor-α, as well as type 1 
+interferon. Different TLRs, like TLR2, TLR3, TLR4, TLR6, TLR7, TLR8, and TLR9 
+are potentially important in COVID-19 infection. It is also worth mentioning 
+that we should bear in mind both the beneficial and harmful effects of TLR in 
+confronting COVID-19 infection. TLRs could be a potential target in controlling 
+the infection in the early stages of disease and production of vaccine against 
+SARS-CoV-2.
+
+© 2021 Wiley Periodicals LLC.
+
+DOI: 10.1002/jmv.26826
+PMCID: PMC8014260
+PMID: 33506952 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there are no conflict 
+of interests.
+
+
+8. Horm Mol Biol Clin Investig. 2021 Feb 23;42(1):69-75. doi: 
+10.1515/hmbci-2020-0069.
+
+COVID-19 and neurology perspective.
+
+Singh S(1), Ahirwar AK(2), Asia P(2), Gopal N(2), Kaim K(3), Ahirwar P(4).
+
+Author information:
+(1)All India Institute of Medical Sciences, Nagpur, Maharashtra, India.
+(2)Department of Biochemistry, All India Institute of Medical Sciences, Nagpur, 
+Maharashtra, India.
+(3)Department of Ophthalmology, Indira Gandhi ESI Hospital, New Delhi, India.
+(4)Department of Radio-diagnosis, Index Medical College, Hospital and Research 
+Centre, Indore, Madhya Pradesh, India.
+
+COVID-19 caused by SARS CoV2 (The novel corona virus) has already taken lives of 
+many people across the globe even more than anyone could have imagined. This 
+outbreak occurred in China and since then it is expanding its devastating 
+effects by leaps and bounds. Initially it appeared to be an outbreak of 
+pneumonia but soon it was found to be much more than that and the infectivity 
+was found to be very high. This is the reason that it has taken whole globe in 
+its trap and become a pandemic in such a short span of time. Death is occurring 
+because it is a new virus and human body has no specific antibodies for it. 
+Presently there is no approved vaccine so everyone is susceptible but people 
+with co-morbidities appear to be in more risk and the best way for protection is 
+social distancing and increasing one's natural immunity by taking healthy diet 
+and exercise. When a person is infected the clinical presentation ranges from 
+asymptomatic to severe ARDS, sudden onset of anosmia, headache, cough may be the 
+initial symptoms. This review is focused on immunopathology and effect of 
+COVID-19 on neurological disorders and also the neurological manifestations and 
+the treatment.
+
+© 2021 Walter de Gruyter GmbH, Berlin/Boston.
+
+DOI: 10.1515/hmbci-2020-0069
+PMID: 33617700 [Indexed for MEDLINE]
+
+
+9. J Biomed Sci. 2021 Jan 12;28(1):9. doi: 10.1186/s12929-020-00703-5.
+
+Insights to SARS-CoV-2 life cycle, pathophysiology, and rationalized treatments 
+that target COVID-19 clinical complications.
+
+Trougakos IP(1), Stamatelopoulos K(2), Terpos E(2), Tsitsilonis OE(3), Aivalioti 
+E(2), Paraskevis D(4), Kastritis E(2), Pavlakis GN(5), Dimopoulos MA(6).
+
+Author information:
+(1)Department of Cell Biology and Biophysics, Faculty of Biology, National and 
+Kapodistrian University of Athens, 15784, Athens, Greece. 
+itrougakos@biol.uoa.gr.
+(2)Department of Clinical Therapeutics, School of Medicine, National and 
+Kapodistrian University of Athens, 11528, Athens, Greece.
+(3)Department of Animal and Human Physiology, Faculty of Biology, National and 
+Kapodistrian University of Athens, 15784, Athens, Greece.
+(4)Department of Hygiene, Epidemiology and Medical Statistics, School of 
+Medicine, National and Kapodistrian University of Athens, 11527, Athens, Greece.
+(5)Human Retrovirus Section, National Cancer Institute, Frederick, MD, 21702, 
+USA.
+(6)Department of Clinical Therapeutics, School of Medicine, National and 
+Kapodistrian University of Athens, 11528, Athens, Greece. mdimop@med.uoa.gr.
+
+BACKGROUND: Gaining further insights into SARS-CoV-2 routes of infection and the 
+underlying pathobiology of COVID-19 will support the design of rational 
+treatments targeting the life cycle of the virus and/or the adverse effects 
+(e.g., multi-organ collapse) that are triggered by COVID-19-mediated adult 
+respiratory distress syndrome (ARDS) and/or other pathologies.
+MAIN BODY: COVID-19 is a two-phase disease being marked by (phase 1) increased 
+virus transmission and infection rates due to the wide expression of the main 
+infection-related ACE2, TMPRSS2 and CTSB/L human genes in tissues of the 
+respiratory and gastrointestinal tract, as well as by (phase 2) host- and 
+probably sex- and/or age-specific uncontrolled inflammatory immune responses 
+which drive hyper-cytokinemia, aggressive inflammation and (due to broad 
+organotropism of SARS-CoV-2) collateral tissue damage and systemic failure 
+likely because of imbalanced ACE/ANGII/AT1R and ACE2/ANG(1-7)/MASR axes 
+signaling.
+CONCLUSION: Here we discuss SARS-CoV-2 life cycle and a number of approaches 
+aiming to suppress viral infection rates or propagation; increase virus antigen 
+presentation in order to activate a robust and durable adaptive immune response 
+from the host, and/or mitigate the ARDS-related "cytokine storm" and collateral 
+tissue damage that triggers the severe life-threatening complications of 
+COVID-19.
+
+DOI: 10.1186/s12929-020-00703-5
+PMCID: PMC7801873
+PMID: 33435929 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests for this article.
+
+
+10. Emerg Microbes Infect. 2021 Dec;10(1):507-535. doi: 
+10.1080/22221751.2021.1898291.
+
+Lessons learned 1 year after SARS-CoV-2 emergence leading to COVID-19 pandemic.
+
+To KK(1)(2)(3)(4), Sridhar S(1)(2)(3)(4), Chiu KH(4), Hung DL(4), Li X(4), Hung 
+IF(5), Tam AR(5), Chung TW(4), Chan JF(1)(2)(3)(4), Zhang AJ(1)(2)(3), Cheng 
+VC(4), Yuen KY(1)(2)(3)(4).
+
+Author information:
+(1)State Key Laboratory of Emerging Infectious Diseases, The University of Hong 
+Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic of 
+China.
+(2)Department of Microbiology, Li Ka Shing Faculty of Medicine, The University 
+of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's 
+Republic of China.
+(3)Carol Yu Centre for Infection, Li Ka Shing Faculty of Medicine, The 
+University of Hong Kong, Pokfulam, Hong Kong Special Administrative Region, 
+People's Republic of China.
+(4)Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special 
+Administrative Region, People's Republic of China.
+(5)Department of Medicine, Li Ka Shing Faculty of Medicine, The University of 
+Hong Kong, Pokfulam, Hong Kong Special Administrative Region, People's Republic 
+of China.
+
+Without modern medical management and vaccines, the severity of the Coronavirus 
+Disease 2019 (COVID-19) pandemic caused by severe acute respiratory syndrome 
+(SARS) coronavirus 2 (SARS-CoV-2) might approach the magnitude of 1894-plague 
+(12 million deaths) and 1918-A(H1N1) influenza (50 million deaths) pandemics. 
+The COVID-19 pandemic was heralded by the 2003 SARS epidemic which led to the 
+discovery of human and civet SARS-CoV-1, bat SARS-related-CoVs, Middle East 
+respiratory syndrome (MERS)-related bat CoV HKU4 and HKU5, and other novel 
+animal coronaviruses. The suspected animal-to-human jumping of 4 
+betacoronaviruses including the human coronaviruses OC43(1890), 
+SARS-CoV-1(2003), MERS-CoV(2012), and SARS-CoV-2(2019) indicates their 
+significant pandemic potential. The presence of a large reservoir of 
+coronaviruses in bats and other wild mammals, culture of mixing and selling them 
+in urban markets with suboptimal hygiene, habit of eating exotic mammals in 
+highly populated areas, and the rapid and frequent air travels from these areas 
+are perfect ingredients for brewing rapidly exploding epidemics. The possibility 
+of emergence of a hypothetical SARS-CoV-3 or other novel viruses from animals or 
+laboratories, and therefore needs for global preparedness should not be ignored. 
+We reviewed representative publications on the epidemiology, virology, clinical 
+manifestations, pathology, laboratory diagnostics, treatment, vaccination, and 
+infection control of COVID-19 as of 20 January 2021, which is 1 year after 
+person-to-person transmission of SARS-CoV-2 was announced. The difficulties of 
+mass testing, labour-intensive contact tracing, importance of compliance to 
+universal masking, low efficacy of antiviral treatment for severe disease, 
+possibilities of vaccine or antiviral-resistant virus variants and SARS-CoV-2 
+becoming another common cold coronavirus are discussed.
+
+DOI: 10.1080/22221751.2021.1898291
+PMCID: PMC8006950
+PMID: 33666147 [Indexed for MEDLINE]
+
+Conflict of interest statement: JFWC has received travel grants from Pfizer 
+Corporation Hong Kong and Astellas Pharma Hong Kong Corporation Limited, and was 
+an invited speaker for Gilead Sciences Hong Kong Limited and Luminex 
+Corporation. The other authors declared no conflict of interests. The funding 
+sources had no role in study design, data collection, analysis or interpretation 
+or writing of the report. The corresponding authors had full access to all the 
+data in the study and had final responsibility for the decision to submit for 
+publication.
+
+
+11. Virology. 2020 Dec;551:1-9. doi: 10.1016/j.virol.2020.08.011. Epub 2020 Sep 24.
+
+The novel coronavirus Disease-2019 (COVID-19): Mechanism of action, detection 
+and recent therapeutic strategies.
+
+Seyed Hosseini E(1), Riahi Kashani N(2), Nikzad H(3), Azadbakht J(4), Hassani 
+Bafrani H(5), Haddad Kashani H(6).
+
+Author information:
+(1)Anatomical Sciences Research Center, Basic Sciences Research Institute, 
+Kashan University of Medical Sciences, Kashan, Iran; Gametogenesis Research 
+Center, Kashan University of Medical Sciences, Kashan, Iran. Electronic address: 
+elaheir.66@gmail.com.
+(2)Anatomical Sciences Research Center, Basic Sciences Research Institute, 
+Kashan University of Medical Sciences, Kashan, Iran; Gametogenesis Research 
+Center, Kashan University of Medical Sciences, Kashan, Iran. Electronic address: 
+riahir@yahoo.com.
+(3)Anatomical Sciences Research Center, Basic Sciences Research Institute, 
+Kashan University of Medical Sciences, Kashan, Iran; Gametogenesis Research 
+Center, Kashan University of Medical Sciences, Kashan, Iran. Electronic address: 
+nikzad.kaums@gmail.com.
+(4)Department of Radiology, Faculty of Medicin, Kashan University of Medical 
+Sciences, Kashan, Iran. Electronic address: javidazadbakht2@gmail.com.
+(5)Anatomical Sciences Research Center, Basic Sciences Research Institute, 
+Kashan University of Medical Sciences, Kashan, Iran; Gametogenesis Research 
+Center, Kashan University of Medical Sciences, Kashan, Iran. Electronic address: 
+hassanibafrani.h@gmail.com.
+(6)Anatomical Sciences Research Center, Basic Sciences Research Institute, 
+Kashan University of Medical Sciences, Kashan, Iran; Gametogenesis Research 
+Center, Kashan University of Medical Sciences, Kashan, Iran. Electronic address: 
+hamedir2010@gmail.com.
+
+Novel coronavirus SARS-CoV-2, designated as COVID-19 by the World Health 
+Organization (WHO) on the February 11, 2020, is one of the highly pathogenic 
+β-coronaviruses which infects human. Early diagnosis of COVID-19 is the most 
+critical step to treat infection. The diagnostic tools are generally molecular 
+methods, serology and viral culture. Recently CRISPR-based method has been 
+investigated to diagnose and treat coronavirus infection. The emergence of 
+2019-nCoV during the influenza season, has led to the extensive use of 
+antibiotics and neuraminidase enzyme inhibitors, taken orally and intravenously. 
+Currently, antiviral inhibitors of SARS and MERS spike proteins, neuraminidase 
+inhibitors, anti-inflammatory drugs and EK1 peptide are the available 
+therapeutic options for SARS-CoV-2 infected individuals. In addition, 
+Chloroquine, which was previously used for malarial and autoimmune disease, has 
+shown efficacy in the 2019-nCoV infection treatment. In severe hypoxaemia, a 
+combination of antibiotics, α-interferon, lopinavir and mechanical ventilation 
+can effectively mitigate the symptoms. Comprehensive knowledge on the innate and 
+adaptive immune responses, will make it possible to propose potent antiviral 
+drugs with their effective therapeutic measures for the prevention of viral 
+infection. This therapeutic strategy will help patients worldwide to protect 
+themselves against severe and fatal viral infections, that potentially can 
+evolve and develop drug resistance, and to reduce mortality rates.
+
+Copyright © 2020. Published by Elsevier Inc.
+
+DOI: 10.1016/j.virol.2020.08.011
+PMCID: PMC7513802
+PMID: 33010669 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declared that they have no competing 
+interests.
+
+
+12. Semin Respir Crit Care Med. 2021 Dec;42(6):839-858. doi: 10.1055/s-0041-1740110. 
+Epub 2021 Dec 16.
+
+COVID-19 in Immunocompromised Patients: A Systematic Review.
+
+Stainer A(1)(2), Amati F(1)(2), Suigo G(2), Simonetta E(3)(4), Gramegna A(3)(4), 
+Voza A(1)(5), Aliberti S(1)(2).
+
+Author information:
+(1)Department of Biomedical Sciences, Humanitas University, Pieve Emanuele, 
+Milan, Italy.
+(2)Respiratory Unit, IRCCS Humanitas Research Hospital, Rozzano, Milan, Italy.
+(3)Department of Pathophysiology and Transplantation, University of Milan, 
+Milan, Italy.
+(4)Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico, Respiratory 
+Department, Milan, Italy.
+(5)Emergency Medicine Unit, IRCCS Humanitas Research Hospital, Rozzano, Milan, 
+Italy.
+
+Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) was first 
+identified as a novel coronavirus in Wuhan, Hubei province, central China, in 
+December 2019, and is responsible for the 2019-to-present pandemic. According to 
+the most recent data released by the World Health Organization, more than 200 
+million people have been infected by SARS-CoV-2 so far, and more than 4 million 
+people died worldwide. Although our knowledge on SARS-CoV-2 and COVID-19 is 
+constantly growing, data on COVID-19 in immunocompromised patients are still 
+limited. The aim of the present systematic review is to describe clinical 
+picture, disease severity, proposed treatment regimen, and response to 
+vaccination in patients with different types and severity of immunosuppression.
+
+Thieme. All rights reserved.
+
+DOI: 10.1055/s-0041-1740110
+PMID: 34918325 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors report no conflicts of 
+interest in this work.
+
+
+13. Biochimie. 2020 Dec;179:85-100. doi: 10.1016/j.biochi.2020.09.018. Epub 2020 Sep 
+22.
+
+The emergence of COVID-19 as a global pandemic: Understanding the epidemiology, 
+immune response and potential therapeutic targets of SARS-CoV-2.
+
+Muralidar S(1), Ambi SV(2), Sekaran S(3), Krishnan UM(4).
+
+Author information:
+(1)School of Chemical and Biotechnology, SASTRA Deemed-to-be-University, 
+Thanjavur, 613401, Tamil Nadu, India.
+(2)School of Chemical and Biotechnology, SASTRA Deemed-to-be-University, 
+Thanjavur, 613401, Tamil Nadu, India. Electronic address: 
+senthilvisagaambi@scbt.sastra.edu.
+(3)School of Chemical and Biotechnology, SASTRA Deemed-to-be-University, 
+Thanjavur, 613401, Tamil Nadu, India; Centre for Nanotechnology & Advanced 
+Biomaterials (CeNTAB), School of Chemical and Biotechnology, SASTRA 
+Deemed-to-be-University, Thanjavur, 613401, Tamil Nadu, India.
+(4)School of Chemical and Biotechnology, SASTRA Deemed-to-be-University, 
+Thanjavur, 613401, Tamil Nadu, India; Centre for Nanotechnology & Advanced 
+Biomaterials (CeNTAB), School of Chemical and Biotechnology, SASTRA 
+Deemed-to-be-University, Thanjavur, 613401, Tamil Nadu, India; School of Arts, 
+Science & Technology (SASH), SASTRA Deemed-to-be-University, Thanjavur, 613401, 
+Tamil Nadu, India.
+
+An acute respiratory disease caused by a severe acute respiratory syndrome 
+coronavirus 2 (SARS-CoV-2) that surfaced in China in late 2019, continues to 
+spread rapidly across the globe causing serious concerns. The coronavirus 
+disease 2019 (COVID-19) is declared as a public health emergency worldwide by 
+the World Health Organization (WHO). Increasing evidences have demonstrated 
+human-to-human transmission that primarily affects the upper respiratory tract 
+followed by lower respiratory tract damage leading to severe pneumonia. Based on 
+the current status, the elderly population and people with prior co-morbidities 
+are highly susceptible to serious health effects including cytokine 
+up-regulation and acute respiratory distress syndrome (ARDS). Currently, 
+COVID-19 research is still in the preliminary stage necessitating rigorous 
+studies. There is no specific drug or vaccine targeting SARS-CoV-2 currently and 
+only symptomatic treatment is being administered, but several antivirals are 
+under active investigation. In this review, we have summarized the epidemiology, 
+entry mechanism, immune response, and therapeutic implications, possible drug 
+targets, their ongoing clinical trials, and put forward vital questions to offer 
+new directions to the COVID-19 research.
+
+Copyright © 2020 Elsevier B.V. and Société Française de Biochimie et Biologie 
+Moléculaire (SFBBM). All rights reserved.
+
+DOI: 10.1016/j.biochi.2020.09.018
+PMCID: PMC7505773
+PMID: 32971147 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare no conflict of interest.
+
+
+14. ChemMedChem. 2021 Aug 5;16(15):2288-2314. doi: 10.1002/cmdc.202100079. Epub 2021 
+Jun 22.
+
+Science's Response to CoVID-19.
+
+Long MJC(1), Aye Y(2).
+
+Author information:
+(1)University of Lausanne, 1015, Lausanne, Switzerland.
+(2)Swiss Federal Institute of Technology in Lausanne (EPFL), 1015, Lausanne, 
+Switzerland.
+
+CoVID-19 is a multi-symptomatic disease which has made a global impact due to 
+its ability to spread rapidly, and its relatively high mortality rate. Beyond 
+the heroic efforts to develop vaccines, which we do not discuss herein, the 
+response of scientists and clinicians to this complex problem has reflected the 
+need to detect CoVID-19 rapidly, to diagnose patients likely to show adverse 
+symptoms, and to treat severe and critical CoVID-19. Here we aim to encapsulate 
+these varied and sometimes conflicting approaches and the resulting data in 
+terms of chemistry and biology. In the process we highlight emerging concepts, 
+and potential future applications that may arise out of this immense effort.
+
+© 2021 Wiley-VCH GmbH.
+
+DOI: 10.1002/cmdc.202100079
+PMCID: PMC8250914
+PMID: 33811458 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+15. Semin Respir Crit Care Med. 2021 Dec;42(6):737-746. doi: 10.1055/s-0041-1741371. 
+Epub 2021 Dec 16.
+
+COVID-19 in Children: Update on Diagnosis and Management.
+
+Esposito S(1), Abate L(1), Laudisio SR(1), Ciuni A(2), Cella S(2), Sverzellati 
+N(2), Principi N(3).
+
+Author information:
+(1)Department of Medicine and Surgery, University of Parma, Paediatric Clinic, 
+Pietro Barilla Children's Hospital, Parma, Italy.
+(2)Unit of Paediatric Radiology, Department of Medicine and Surgery, University 
+of Parma, Pietro Barilla Children's Hospital, Parma, Italy.
+(3)Università degli Studi di Milano, Milan, Italy.
+
+In December 2019, a new infectious disease called coronavirus disease 2019 
+(COVID-19) attributed to the new virus named severe scute respiratory syndrome 
+coronavirus 2 (SARS-CoV-2) was detected. The gold standard for the diagnosis of 
+SARS-CoV-2 infection is the viral identification in nasopharyngeal swab by 
+real-time polymerase chain reaction. Few data on the role of imaging are 
+available in the pediatric population. Similarly, considering that symptomatic 
+therapy is adequate in most of the pediatric patients with COVID-19, few 
+pediatric pharmacological studies are available. The main aim of this review is 
+to describe and discuss the scientific literature on various imaging approaches 
+and therapeutic management in children and adolescents affected by COVID-19. 
+Clinical manifestations of COVID-19 are less severe in children than in adults 
+and as a consequence the radiologic findings are less marked. If imaging is 
+needed, chest radiography is the first imaging modality of choice in the 
+presence of moderate-to-severe symptoms. Regarding therapy, acetaminophen or 
+ibuprofen are appropriate for the vast majority of pediatric patients. Other 
+drugs should be prescribed following an appropriate individualized approach. Due 
+to the characteristics of COVID-19 in pediatric age, the importance of 
+strengthening the network between hospital and territorial pediatrics for an 
+appropriate diagnosis and therapeutic management represents a priority.
+
+Thieme. All rights reserved.
+
+DOI: 10.1055/s-0041-1741371
+PMID: 34918317 [Indexed for MEDLINE]
+
+Conflict of interest statement: None declared.
+
+
+16. Hong Kong Med J. 2021 Apr;27(2):157-159. doi: 10.12809/hkmj209056. Epub 2021 Apr 
+9.
+
+COVID-19-associated pancreatic dysfunction.
+
+Abdel-Moneim A(1).
+
+Author information:
+(1)Molecular Physiology Division, Faculty of Science, Beni-Suef University, 
+Beni-Suef, Egypt.
+
+DOI: 10.12809/hkmj209056
+PMID: 33843611 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author has disclosed no conflicts of 
+interest.
+
+
+17. J Biol Rhythms. 2021 Feb;36(1):3. doi: 10.1177/0748730421993352. Epub 2021 Feb 
+5.
+
+Chronobiology in response to COVID-19.
+
+Cermakian N, Harrington ME.
+
+DOI: 10.1177/0748730421993352
+PMID: 33543668 [Indexed for MEDLINE]
+
+
+18. Brief Bioinform. 2022 Jan 17;23(1):bbab485. doi: 10.1093/bib/bbab485.
+
+Multiomics integration-based molecular characterizations of COVID-19.
+
+Li CX(1)(2), Gao J(1)(3)(4), Zhang Z(5), Chen L(5), Li X(2)(4)(6)(7), Zhou M(5), 
+Wheelock ÅM(1).
+
+Author information:
+(1)Respiratory Medicine Unit, Department of Medicine & Centre for Molecular 
+Medicine, Karolinska Institutet, Stockholm, Sweden.
+(2)The First Hospital of Lanzhou University, Lanzhou, China.
+(3)Heart and Lung Centre, Department of Pulmonary Medicine, University of 
+Helsinki and Helsinki University Hospital, Helsinki, Finland.
+(4)The First School of Clinical Medicine, Lanzhou University, Lanzhou, China.
+(5)School of Biomedical Engineering, School of Ophthalmology & Optometry and Eye 
+Hospital, Wenzhou Medical University, Wenzhou, China.
+(6)Department of General Surgery, The First Hospital of Lanzhou University, 
+Lanzhou, China.
+(7)Key Laboratory of Biotherapy and Regenerative Medicine of Gansu Province, The 
+First Hospital of Lanzhou University, Lanzhou, China.
+
+The coronavirus disease 2019 (COVID-19) pandemic, caused by the severe acute 
+respiratory syndrome coronavirus 2 (SARS-CoV-2), rapidly became a global health 
+challenge, leading to unprecedented social and economic consequences. The 
+mechanisms behind the pathogenesis of SARS-CoV-2 are both unique and complex. 
+Omics-scale studies are emerging rapidly and offer a tremendous potential to 
+unravel the puzzle of SARS-CoV-2 pathobiology, as well as moving forward with 
+diagnostics, potential drug targets, risk stratification, therapeutic responses, 
+vaccine development and therapeutic innovation. This review summarizes various 
+aspects of understanding multiomics integration-based molecular 
+characterizations of COVID-19, which to date include the integration of 
+transcriptomics, proteomics, genomics, lipidomics, immunomics and metabolomics 
+to explore virus targets and developing suitable therapeutic solutions through 
+systems biology tools. Furthermore, this review also covers an abridgment of 
+omics investigations related to disease pathogenesis and virulence, the role of 
+host genetic variation and a broad array of immune and inflammatory phenotypes 
+contributing to understanding COVID-19 traits. Insights into this review, which 
+combines existing strategies and multiomics integration profiling, may help 
+further advance our knowledge of COVID-19.
+
+© The Author(s) 2021. Published by Oxford University Press.
+
+DOI: 10.1093/bib/bbab485
+PMCID: PMC8769889
+PMID: 34864875 [Indexed for MEDLINE]
+
+
+19. Viruses. 2021 Oct 18;13(10):2098. doi: 10.3390/v13102098.
+
+COVID-19 in 2021.
+
+Lundstrom K(1), Aljabali AAA(2).
+
+Author information:
+(1)PanTherapeutics, 1095 Lutry, Switzerland.
+(2)Department of Pharmaceutics and Pharmaceutical Technology, Faculty of 
+Pharmacy, Yarmouk University, Irbid 21163, Jordan.
+
+The Special Issue on Vaccines and Therapeutics against Coronaviruses, which was 
+launched in early 2021, has attracted the scientific community at large, and 
+more than 20 manuscripts have been accepted for publication.[...].
+
+DOI: 10.3390/v13102098
+PMCID: PMC8539425
+PMID: 34696528 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+20. Int Immunopharmacol. 2021 Jan;90:107247. doi: 10.1016/j.intimp.2020.107247. Epub 
+2020 Dec 2.
+
+COVID-19 and cancer: From basic mechanisms to vaccine development using 
+nanotechnology.
+
+Han HJ(1), Nwagwu C(2), Anyim O(3), Ekweremadu C(4), Kim S(5).
+
+Author information:
+(1)University College London, Department of Neonatology, United Kingdom. 
+Electronic address: uclqhjh@ucl.ac.uk.
+(2)Department of Pharmaceutics, University of Nigeria Nsukka, Nigeria. 
+Electronic address: chinekwu.nwobi@unn.edu.ng.
+(3)Department of Internal Medicine, University of Nigeria Teaching Hospital 
+Ituku-Ozalla, Enugu, Nigeria.
+(4)Department of Pharmaceutics and Pharmaceutical Technology Enugu State 
+University of Science and Technology, Nigeria. Electronic address: 
+Chinedu.ekweremadu.17@alumni.ucl.ac.uk.
+(5)Basildon and Thurrock University Hospital, United Kingdom. Electronic 
+address: san.kim@btuh.nhs.uk.
+
+Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome 
+coronavirus 2 (SARS-CoV-2), is a global pandemic which has induced unprecedented 
+ramifications, severely affecting our society due to the long incubation time, 
+unpredictably high prevalence and lack of effective vaccines. One of the 
+interesting notions is that there is an association between COVID-19 and cancer. 
+Cancer patients seem to exhibit exacerbated conditions and a higher mortality 
+rate when exposed to the virus. Therefore, vaccines are the promising solution 
+to minimise the problem amongst cancer patients threatened by the new viral 
+strains. However, there are still limitations to be considered, including the 
+efficacy of COVID vaccines for immunocompromised individuals, possible 
+interactions between the vaccine and cancer, and personalised medicine. Not only 
+to eradicate the pandemic, but also to make it more effective for 
+immunocompromised patients who are suffering from cancer, a successful vaccine 
+platform is required through the implementation of nanotechnology which can also 
+enable scalable manufacturing and worldwide distribution along with its faster 
+and precise delivery. In this review, we summarise the current understanding of 
+COVID-19 with clinical perspectives, highlighting the association between 
+COVID-19 and cancer, followed by a vaccine development for this association 
+using nanotechnology. We suggest different administration methods for the 
+COVID-19 vaccine formulation options. This study will contribute to paving the 
+way towards the prevention and treatment of COVID-19, especially for the 
+immunocompromised individuals.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.intimp.2020.107247
+PMCID: PMC7709613
+PMID: 33307513 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declared that there is no conflict 
+of interest.
+
+
+21. Anaesth Crit Care Pain Med. 2021 Feb;40(1):100802. doi: 
+10.1016/j.accpm.2021.100802. Epub 2021 Jan 14.
+
+COVID-19 Pandemic: the story is not over yet.
+
+Piarroux R(1), Gaudart J(2), Rebaudet S(3).
+
+Author information:
+(1)Assistance Publique - Hôpitaux de Paris, Paris, France; IPLESP, Sorbonne 
+Université, 27 rue Chaligny 75571 Paris Cedex 12, France. Electronic address: 
+renaud.piarroux@aphp.fr.
+(2)Aix Marseille Univ, INSERM, IRD, AP-HM, SESSTIM, UMR1252, La Timone, BioSTIC, 
+27, Boulevard Jean Moulin, 13005, Marseille, France.
+(3)Aix Marseille Univ, INSERM, IRD, AP-HM, SESSTIM, UMR1252, La Timone, BioSTIC, 
+27, Boulevard Jean Moulin, 13005, Marseille, France; Hôpital Européen, 6, rue 
+Désirée Clary, 13003 Marseille, France.
+
+DOI: 10.1016/j.accpm.2021.100802
+PMCID: PMC7808731
+PMID: 33454391 [Indexed for MEDLINE]
+
+
+22. FEBS J. 2021 Sep;288(17):4996-5009. doi: 10.1111/febs.16094. Epub 2021 Jul 19.
+
+COVID-19 vaccines: what do we know so far?
+
+Dhillon P(1), Altmann D(2), Male V(3).
+
+Author information:
+(1)The FEBS Journal Editorial Office, Cambridge, UK.
+(2)Department of Immunology and Inflammation, Faculty of Medicine, Imperial 
+College London, Hammersmith Hospital, London, UK.
+(3)Department of Metabolism, Digestion and Reproduction, Imperial College 
+London, Chelsea and Westminster Hospital, London, UK.
+
+When the novel coronavirus was described in late 2019, it could not have been 
+imagined that within a year, more than 100 vaccine candidates would be in 
+preclinical development and several would be in clinical trials and even 
+approved for use. The scale of the COVID-19 outbreak pushed the scientific 
+community, working in collaboration with pharmaceutical companies, public health 
+bodies, policymakers, funders and governments, to develop vaccines against 
+SARS-CoV-2 at record-breaking speed. As well as driving major amendments to the 
+usual timeframe for bringing a vaccine to fruition, the pandemic has accelerated 
+the development of next-generation technologies for vaccinology, giving rise to 
+two frontrunner RNA vaccines. Although none of the critical safety and efficacy 
+steps have been skipped within the compressed schedules, and the technologies 
+underpinning the novel vaccines have been refined by scientists over many years, 
+a significant proportion of the global population is sceptical of the benefits 
+of COVID-19 vaccines and wary of potential risks. In this interview-based 
+article, we give an overview of how the vaccines were developed and how they 
+work to generate a robust immune response against COVID-19, as well as 
+addressing common questions relating to safety and efficacy.
+
+© 2021 Federation of European Biochemical Societies.
+
+DOI: 10.1111/febs.16094
+PMCID: PMC8420457
+PMID: 34288409 [Indexed for MEDLINE]
+
+Conflict of interest statement: Danny Altmann receives remuneration as a 
+Consultant to Oxford Immunotec Ltd. The authors have no other conflicts of 
+interest to declare.
+
+
+23. J Diabetes Investig. 2021 Jul;12(7):1125-1127. doi: 10.1111/jdi.13605.
+
+The COVID-19 world - Are we there yet?
+
+Hamamoto Y(1)(2).
+
+Author information:
+(1)Yutaka Seino Distinguished Center for Diabetes Research, Kansai Electric 
+Power Medical Research Institute, Kobe, Japan.
+(2)Center for Diabetes, Endocrinology and Metabolism, Kansai Electric Power 
+Hospital, Osaka, Japan.
+
+The spreading of SARS-CoV-2 virus infection is still of great concern as well as 
+clinical and social interest. The key to conquer this pandemic would be 
+establishment of herd immunity by vaccination and of treatment, and I have 
+discussed issues we are facing now.
+
+© 2021 The Authors. Journal of Diabetes Investigation published by Asian 
+Association for the Study of Diabetes (AASD) and John Wiley & Sons Australia, 
+Ltd.
+
+DOI: 10.1111/jdi.13605
+PMCID: PMC8242779
+PMID: 34056843 [Indexed for MEDLINE]
+
+Conflict of interest statement: Y Hamamoto received speaker fees from Novo 
+Nordisk Pharma Ltd and received a research grant from Sumitomo‐Dainippon Pharma 
+Co., Ltd and Nippon Boehringer Ingelheim.
+
+
+24. Int J Mol Med. 2021 Jan;47(1):3-22. doi: 10.3892/ijmm.2020.4794. Epub 2020 Nov 
+20.
+
+Approaches towards fighting the COVID‑19 pandemic (Review).
+
+Tsai SC(1), Lu CC(2), Bau DT(3), Chiu YJ(4), Yen YT(5), Hsu YM(1), Fu CW(6), Kuo 
+SC(7), Lo YS(8), Chiu HY(9), Juan YN(8), Tsai FJ(10), Yang JS(8).
+
+Author information:
+(1)Department of Biological Science and Technology, China Medical University, 
+Taichung 40402, Taiwan, R.O.C.
+(2)Department of Sport Performance, National Taiwan University of Sport, 
+Taichung 40402, Taiwan, R.O.C.
+(3)Graduate Institute of Biomedical Sciences, China Medical University, Taichung 
+40402, Taiwan, R.O.C.
+(4)Division of Plastic and Reconstructive Surgery, Department of Surgery, Taipei 
+Veteran General Hospital, Taipei 11217, Taiwan, R.O.C.
+(5)Drug Development Center, Institute of New Drug Development, China Medical 
+University, Taichung 40402, Taiwan, R.O.C.
+(6)Biomedical Technology and Device Research Laboratories, Industrial Technology 
+Research Institute, Hsinchu 310401, Taiwan, R.O.C.
+(7)School of Pharmacy, China Medical University, Taichung 40402, Taiwan, R.O.C.
+(8)Department of Medical Research, China Medical University Hospital, China 
+Medical University, Taichung 40447, Taiwan, R.O.C.
+(9)Department of Pharmacy, Buddhist Tzu Chi General Hospital, Hualien 97002, 
+Taiwan, R.O.C.
+(10)School of Chinese Medicine, College of Chinese Medicine, China Medical 
+University, Taichung 40402, Taiwan, R.O.C.
+
+The coronavirus disease 2019 (COVID‑19) outbreak, which has caused >46 millions 
+confirmed infections and >1.2 million coronavirus related deaths, is one of the 
+most devastating worldwide crises in recent years. Infection with COVID‑19 
+results in a fever, dry cough, general fatigue, respiratory symptoms, diarrhoea 
+and a sore throat, similar to those of acute respiratory distress syndrome. The 
+causative agent of COVID‑19, SARS‑CoV‑2, is a novel coronavirus strain. To date, 
+remdesivir has been granted emergency use authorization for use in the 
+management of infection. Additionally, several efficient diagnostic tools are 
+being actively developed, and novel drugs and vaccines are being evaluated for 
+their efficacy as therapeutic agents against COVID‑19, or in the prevention of 
+infection. The present review highlights the prevalent clinical manifestations 
+of COVID‑19, characterizes the SARS‑CoV‑2 viral genome sequence and life cycle, 
+highlights the optimal methods for preventing viral transmission, and discusses 
+possible molecular pharmacological mechanisms and approaches in the development 
+of anti‑SARS‑CoV‑2 therapeutic agents. In addition, the use of traditional 
+Chinese medicines for management of COVID‑19 is discussed. It is expected that 
+novel anti‑viral agents, vaccines or an effective combination therapy for 
+treatment/management of SARS‑CoV‑2 infection and spread therapy will be 
+developed and implemented in 2021, and we would like to extend our best regards 
+to the frontline health workers across the world in their fight against 
+COVID‑19.
+
+DOI: 10.3892/ijmm.2020.4794
+PMCID: PMC7723515
+PMID: 33236131 [Indexed for MEDLINE]
+
+
+25. Epidemiol Infect. 2024 Oct 7;152:e120. doi: 10.1017/S0950268824001110.
+
+Will COVID-19 become mild, like a cold?
+
+Shaw Stewart PD(1).
+
+Author information:
+(1)Independent scientist.
+
+Several recent studies conclude that an increase in the pathogenicity of 
+SARS-CoV-2 cannot be ruled out. However, it should be noted that SARS-CoV-2 is a 
+'direct' respiratory virus - meaning it is usually spread by the respiratory 
+route but does not routinely pass through the lymphatics like measles and 
+smallpox. Providing its tropism does not change, it will be unique if its 
+pathogenicity does not decrease until it becomes similar to common cold viruses. 
+Ewald noted in the 1980s that respiratory viruses may evolve mildness because 
+their spread benefits from the mobility of their hosts. This review examines 
+factors that usually lower respiratory viruses' severity, including heat 
+sensitivity (which limits replication in the warmer lungs) and changes to the 
+virus's surface proteins. Other factors may, however, increase pathogenicity, 
+such as replication in the lymphatic system and spreading via solid surfaces or 
+faecal matter. Furthermore, human activities and political events could increase 
+the harmfulness of SARS-CoV-2, including the following: large-scale testing, 
+especially when the results are delayed; transmission in settings where people 
+are close together and not free to move around; poor hygiene facilities; and 
+social, political, or cultural influences that encourage sick individuals to 
+remain active, including crises such as wars. If we can avoid these 
+eventualities, SARS-CoV-2 is likely to evolve to be milder, although the 
+timescale is uncertain. Observations of influenza-like pandemics suggest it may 
+take around two decades for COVID-19 to become as mild as seasonal colds.
+
+DOI: 10.1017/S0950268824001110
+PMCID: PMC11488471
+PMID: 39370682 [Indexed for MEDLINE]
+
+
+26. Viruses. 2021 Mar 5;13(3):413. doi: 10.3390/v13030413.
+
+Pharmacogenetics Approach for the Improvement of COVID-19 Treatment.
+
+Fricke-Galindo I(1), Falfán-Valencia R(1).
+
+Author information:
+(1)HLA Laboratory, Instituto Nacional de Enfermedades Respiratorias Ismael Cosío 
+Villegas, Mexico City 14080, Mexico.
+
+The treatment of coronavirus disease 2019 (COVID-19) has been a challenge. The 
+efficacy of several drugs has been evaluated and variability in drug response 
+has been observed. Pharmacogenetics could explain this variation and improve 
+patients' outcomes with this complex disease; nevertheless, several 
+disease-related issues must be carefully reviewed in the pharmacogenetic study 
+of COVID-19 treatment. We aimed to describe the pharmacogenetic variants 
+reported for drugs used for COVID-19 treatment (remdesivir, oseltamivir, 
+lopinavir, ritonavir, azithromycin, chloroquine, hydroxychloroquine, ivermectin, 
+and dexamethasone). In addition, other factors relevant to the design of 
+pharmacogenetic studies were mentioned. Variants in CYP3A4, CYP3A5, CYP2C8, 
+CY2D6, ABCB1, ABCC2, and SLCO1B1, among other variants, could be included in 
+pharmacogenetic studies of COVID-19 treatment. Besides, nongenetic factors such 
+as drug-drug interactions and inflammation should be considered in the search 
+for personalized therapy of COVID-19.
+
+DOI: 10.3390/v13030413
+PMCID: PMC7998786
+PMID: 33807592 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+27. Front Cell Infect Microbiol. 2020 Nov 10;10:560616. doi: 
+10.3389/fcimb.2020.560616. eCollection 2020.
+
+An Update on Molecular Diagnostics for COVID-19.
+
+Islam KU(1), Iqbal J(1).
+
+Author information:
+(1)Multidisciplinary Center for Advanced Research and Studies, Jamia Millia 
+Islamia, New Delhi, India.
+
+A novel strain of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) 
+disease (COVID-19) has been recently identified as an infectious disease 
+affecting the respiratory system of humans. This disease is caused by SARS-CoV-2 
+that was identified in Chinese patients having severe pneumonia and flu-like 
+symptoms. COVID-19 is a contagious disease that spreads rapidly via droplet 
+particles arising through sneezing and coughing action of an infected person. 
+The reports of asymptomatic carriers changed the scenario of symptom 
+based-diagnosis in COVID-19 and intensified the need for proper diagnosis of the 
+majority of the population to combat the rapid transmission of virus. The 
+diagnosis of positive cases is necessary to ensure prompt care to affected 
+people and also to curb further spread of infection in the population. 
+Collecting samples at the right time and from the exact anatomical site is 
+crucial for proper molecular diagnosis. After the complete genome sequence was 
+available, China formulated RT-PCR as a primary diagnostic procedure for 
+detecting SARS-CoV-2. Many in-house and commercial diagnostic kits have been 
+developed or are under development that have a potential to lower the burden of 
+diagnosis on the primary diagnostic techniques like RT-PCR. Serological based 
+diagnosis is another broad category of testing that can detect different serum 
+antibodies like IgG, IgM, and IgA in an infected patient. PCR-based diagnostic 
+procedures that are commonly used for pathogen detection need sophisticated 
+machines and assistance of a technical expert. Despite their reliable accuracy, 
+they are not cost-effective tests, which a common man can afford, so it becomes 
+imperative to look for other diagnostic approaches, which could be cost 
+effective, rapid, and sensitive with consistent accuracy. To make such 
+diagnostics available to the common man, many techniques can be exploited among, 
+which are Point of Care (POC), also known as bed side testing, which is 
+developing as a portable and promising tool in pathogen diagnosis. Other lateral 
+flow assay (LFA)-based techniques like SHERLOCK, CRISPR-Cas12a (AIOD-CRISPR), 
+and FNCAS9 editor-limited uniform detection assay (FELUDA), etc. have shown 
+promising results in rapid detection of pathogens. Diagnosis holds a critical 
+importance in the pandemic situation when there is no potential drug for the 
+pathogen available in the market. This review sums up the different diagnostic 
+approaches designed or proposed to combat the crisis of widespread diagnosis due 
+to the sudden outbreak of a novel pathogen, SARS-CoV-2 in 2019.
+
+Copyright © 2020 Islam and Iqbal.
+
+DOI: 10.3389/fcimb.2020.560616
+PMCID: PMC7683783
+PMID: 33244462 [Indexed for MEDLINE]
+
+
+28. Molecules. 2021 Jun 9;26(12):3526. doi: 10.3390/molecules26123526.
+
+A Multidisciplinary Approach to Coronavirus Disease (COVID-19).
+
+Gediz Erturk A(1), Sahin A(2), Bati Ay E(3), Pelit E(4), Bagdatli E(1), Kulu 
+I(5), Gul M(6), Mesci S(7), Eryilmaz S(8), Oba Ilter S(9), Yildirim T(10).
+
+Author information:
+(1)Department of Chemistry, Faculty of Arts and Sciences, Ordu University, 
+Altınordu, Ordu 52200, Turkey.
+(2)Department of Basic Medical Sciences-Physiology, Faculty of Medicine, Uşak 
+University, 1-EylulUşak 64000, Turkey.
+(3)Department of Plant and Animal Production, Suluova Vocational School, Amasya 
+University, Suluova, Amasya 05100, Turkey.
+(4)Department of Chemistry, Faculty of Arts and Sciences, Kırklareli University, 
+Kırklareli 39000, Turkey.
+(5)Department of Chemistry, Faculty of Basic Sciences, Gebze Technical 
+University, Kocaeli 41400, Turkey.
+(6)Department of Chemistry, Faculty of Arts and Sciences, Amasya University, 
+Ipekkoy, Amasya 05100, Turkey.
+(7)Scientific Technical Application and Research Center, Hitit University, Çorum 
+19030, Turkey.
+(8)Department of Physics, Faculty of Arts and Sciences, Amasya University, 
+Ipekkoy, Amasya 05100, Turkey.
+(9)Food Processing Department, Suluova Vocational School, Amasya University, 
+Suluova, Amasya 05100, Turkey.
+(10)Department of Biology, Faculty of Arts and Sciences, Amasya University, 
+Ipekkoy, Amasya 05100, Turkey.
+
+Since December 2019, humanity has faced an important global threat. Many studies 
+have been published on the origin, structure, and mechanism of action of the 
+SARS-CoV-2 virus and the treatment of its disease. The priority of scientists 
+all over the world has been to direct their time to research this subject. In 
+this review, we highlight chemical studies and therapeutic approaches to 
+overcome COVID-19 with seven different sections. These sections are the 
+structure and mechanism of action of SARS-CoV-2, immunotherapy and vaccine, 
+computer-aided drug design, repurposing therapeutics for COVID-19, synthesis of 
+new molecular structures against COVID-19, food safety/security and functional 
+food components, and potential natural products against COVID-19. In this work, 
+we aimed to screen all the newly synthesized compounds, repurposing chemicals 
+covering antiviral, anti-inflammatory, antibacterial, antiparasitic, anticancer, 
+antipsychotic, and antihistamine compounds against COVID-19. We also highlight 
+computer-aided approaches to develop an anti-COVID-19 molecule. We explain that 
+some phytochemicals and dietary supplements have been identified as antiviral 
+bioproducts, which have almost been successfully tested against COVID-19. In 
+addition, we present immunotherapy types, targets, immunotherapy and 
+inflammation/mutations of the virus, immune response, and vaccine issues.
+
+DOI: 10.3390/molecules26123526
+PMCID: PMC8228528
+PMID: 34207756 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interests.
+
+
+29. Trends Microbiol. 2021 Oct;29(10):919-929. doi: 10.1016/j.tim.2021.05.002. Epub 
+2021 May 11.
+
+Catch Me if You Can: Superspreading of COVID-19.
+
+Lakdawala SS(1), Menachery VD(2).
+
+Author information:
+(1)Department of Microbiology and Molecular Genetics, Center for Vaccine 
+Research, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.
+(2)Department of Microbiology and Immunology, Institute for Human Infection and 
+Immunity, World Reference Center for Emerging Viruses and Arboviruses, 
+University of Texas Medical Branch at Galveston, Galveston, TX, USA. Electronic 
+address: Vimenach@utmb.edu.
+
+While significant insights have been gained concerning COVID-19, superspreading 
+of coronaviruses remains a mystery. The vast majority of cases have been linked 
+to a relatively small portion of infected individuals. Yet, the genetic sequence 
+of the virus, severity of disease, and underlying host parameters, such as age, 
+sex, and health conditions, are not clearly driving the superspreading 
+phenomenon. In this commentary we discuss what is known and what is not known 
+about coronavirus superspreader transmission and explore whether characteristics 
+of the virion, the donor, or the environment contribute to this phenomenon.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tim.2021.05.002
+PMCID: PMC8112283
+PMID: 34059436 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests There are no interests 
+to declare.
+
+
+30. Rheum Dis Clin North Am. 2025 Feb;51(1):139-156. doi: 10.1016/j.rdc.2024.09.003.
+
+SARS-CoV-2 Infection and COVID-19 in Children.
+
+Waghmare A(1), Hijano DR(2).
+
+Author information:
+(1)Department of Pediatrics, University of Washington, Fred Hutchinson Cancer 
+Research Center Vaccine, 1100 Fairview Avenue North, Seattle, WA 98109, USA; 
+Department of Infectious Diseases, Division Seattle Children's Hospital, 
+Seattle, WA, USA.
+(2)St. Jude Children's Research Hospital, 262 Danny Thomas Place Mail Stop 230, 
+Memphis, TN 38105, USA. Electronic address: Diego.Hijano@STJUDE.ORG.
+
+Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) infection is common 
+in children, and clinical manifestations can vary depending on age, underlying 
+disease, and vaccination status. Most children will have asymptomatic or mild 
+infection, but certain baseline characteristics can increase the risk of 
+moderate to severe disease. The following article will provide an overview of 
+the clinical manifestations of coronavirus disease 2019 in children, including 
+the post-infectious phenomenon called multisystem inflammatory syndrome in 
+children. Currently available treatment and prophylaxis strategies will be 
+outlined, with the caveat that new therapeutics and clinical efficacy data are 
+constantly on the horizon.
+
+Copyright © 2024 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.rdc.2024.09.003
+PMID: 39550102 [Indexed for MEDLINE]
+
+
+31. Science. 2021 Dec 24;374(6575):1561-1562. doi: 10.1126/science.abl8487. Epub 
+2021 Dec 23.
+
+COVID-19 vaccine breakthrough infections.
+
+Gupta RK(1)(2)(3), Topol EJ(4).
+
+Author information:
+(1)Cambridge Institute of Therapeutic Immunology and Infectious Disease 
+(CITIID), Cambridge, UK.
+(2)Department of Medicine, University of Cambridge, Cambridge, UK.
+(3)Africa Health Research Institute, KwaZulu-Natal, South Africa.
+(4)Scripps Research, La Jolla, Califonia, USA.
+
+Vaccine efficacy wanes over time but can be fully restored with a booster dose.
+
+DOI: 10.1126/science.abl8487
+PMID: 34941414 [Indexed for MEDLINE]
+
+
+32. Nat Rev Genet. 2021 Jul;22(7):415-426. doi: 10.1038/s41576-021-00360-w. Epub 
+2021 May 4.
+
+Testing at scale during the COVID-19 pandemic.
+
+Mercer TR(1)(2)(3), Salit M(4)(5).
+
+Author information:
+(1)Australian Institute for Bioengineering and Nanotechnology, University of 
+Queensland, Brisbane, QLD, Australia. t.mercer@uq.edu.au.
+(2)Garvan Institute of Medical Research, Sydney, NSW, Australia. 
+t.mercer@uq.edu.au.
+(3)St Vincent's Clinical School, University of New South Wales, Sydney, NSW, 
+Australia. t.mercer@uq.edu.au.
+(4)Departments of Pathology and Bioengineering, Stanford University, Stanford, 
+CA, USA.
+(5)Joint Initiative for Metrology in Biology, SLAC National Accelerator 
+Laboratory, Menlo Park, CA, USA.
+
+Assembly and publication of the severe acute respiratory syndrome coronavirus 2 
+(SARS-CoV-2) genome in January 2020 enabled the immediate development of tests 
+to detect the new virus. This began the largest global testing programme in 
+history, in which hundreds of millions of individuals have been tested to date. 
+The unprecedented scale of testing has driven innovation in the strategies, 
+technologies and concepts that govern testing in public health. This Review 
+describes the changing role of testing during the COVID-19 pandemic, including 
+the use of genomic surveillance to track SARS-CoV-2 transmission around the 
+world, the use of contact tracing to contain disease outbreaks and testing for 
+the presence of the virus circulating in the environment. Despite these efforts, 
+widespread community transmission has become entrenched in many countries and 
+has required the testing of populations to identify and isolate infected 
+individuals, many of whom are asymptomatic. The diagnostic and epidemiological 
+principles that underpin such population-scale testing are also considered, as 
+are the high-throughput and point-of-care technologies that make testing 
+feasible on a massive scale.
+
+DOI: 10.1038/s41576-021-00360-w
+PMCID: PMC8094986
+PMID: 33948037 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+33. Int J Nanomedicine. 2021 Jan 26;16:623-649. doi: 10.2147/IJN.S296383. 
+eCollection 2021.
+
+Application of Nanotechnology in the COVID-19 Pandemic.
+
+Yang D(1).
+
+Author information:
+(1)Department of Physiology, College of Medicine, Gachon University, Incheon, 
+21999, South Korea.
+
+COVID-19, caused by SARS-CoV-2 infection, has been prevalent worldwide for 
+almost a year. In early 2000, there was an outbreak of SARS-CoV, and in early 
+2010, a similar dissemination of infection by MERS-CoV occurred. However, no 
+clear explanation for the spread of SARS-CoV-2 and a massive increase in the 
+number of infections has yet been proposed. The best solution to overcome this 
+pandemic is the development of suitable and effective vaccines and therapeutics. 
+Fortunately, for SARS-CoV-2, the genome sequence and protein structure have been 
+published in a short period, making research and development for prevention and 
+treatment relatively easy. In addition, intranasal drug delivery has proven to 
+be an effective method of administration for treating viral lung diseases. In 
+recent years, nanotechnology-based drug delivery systems have been applied to 
+intranasal drug delivery to overcome various limitations that occur during 
+mucosal administration, and advances have been made to the stage where effective 
+drug delivery is possible. This review describes the accumulated knowledge of 
+the previous SARS-CoV and MERS-CoV infections and aims to help understand the 
+newly emerged SARS-CoV-2 infection. Furthermore, it elucidates the achievements 
+in developing COVID-19 vaccines and therapeutics to date through existing 
+approaches. Finally, the applicable nanotechnology approach is described in 
+detail, and vaccines and therapeutic drugs developed based on nanomedicine, 
+which are currently undergoing clinical trials, have presented the potential to 
+become innovative alternatives for overcoming COVID-19.
+
+© 2021 Yang.
+
+DOI: 10.2147/IJN.S296383
+PMCID: PMC7847377
+PMID: 33531805 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares that they have no conflicts 
+of interest for this work.
+
+
+34. Medwave. 2021 May 25;21(4):e8198. doi: 10.5867/medwave.2021.04.8198.
+
+What we know and dont know on SARS-CoV-2 and COVID-19.
+
+[Article in English, Spanish; Abstract available in Spanish from the publisher]
+
+Silva-Ayarza I(1), Bachelet VC(2).
+
+Author information:
+(1)Escuela de Medicina, Universidad de Santiago de Chile (USACH), Santiago, 
+Chile; Departamento de Infectología, Hospital Barros Luco, Santiago, Chile. 
+Adress: Escuela de Medicina, Universidad de Santiago de Chile, Avenida 
+Libertador Bernardo O'Higgins 3363, Estación Central, Santiago, Chile. Email: 
+ignacio.silva.a@usach.cl. ORCID: 0000-0002-6996-3695.
+(2)Escuela de Medicina, Universidad de Santiago de Chile (USACH), Santiago, 
+Chile. ORCID: 0000-0002-5715-9755.
+
+Coronavirus disease 2019 (COVID-19), caused by the SARS-CoV-2 virus discovered 
+in December 2019 in Wuhan, China, has had an enormous impact on public health 
+worldwide due to its rapid spread and pandemic behavior, challenges in its 
+control and mitigation, and few therapeutic alternatives. In this review, we 
+summarize the pathophysiological mechanisms, clinical presentation, and 
+diagnostic techniques. In addition, the main lineages and the different 
+strategies for disease prevention are reviewed, with emphasis on the development 
+of vaccines and their different platforms. Finally, some of the currently 
+available therapeutic strategies are summarized. Throughout the article, we 
+point out the current knowns and unknowns at the time of writing this article.
+
+Publisher: La enfermedad por coronavirus 2019 (COVID-19), causada por el virus 
+SARS-CoV-2 descubierto en diciembre de 2019 en Wuhan, China, ha tenido un gran 
+impacto en la salud pública a nivel mundial, por su rápida diseminación con 
+comportamiento pandémico, su difícil control y escasas alternativas 
+terapéuticas. En esta revisión, se resumen los mecanismos fisiopatológicos de la 
+enfermedad, así como su presentación clínica y técnicas diagnósticas. Además, se 
+revisan los linajes más importantes y las distintas estrategias de prevención de 
+la enfermedad, con énfasis en el desarrollo de vacunas y sus diferentes 
+plataformas. Por último, se resumen algunas de las estrategias terapéuticas 
+disponibles en la actualidad.
+
+DOI: 10.5867/medwave.2021.04.8198
+PMID: 34213514 [Indexed for MEDLINE]
+
+
+35. J Immunoassay Immunochem. 2021 Sep 3;42(5):493-512. doi: 
+10.1080/15321819.2021.1904414. Epub 2021 Mar 31.
+
+An overview of Covid-19 pandemic: immunology and pharmacology.
+
+Arif A(1), Ansari S(1), Ahsan H(2), Mahmood R(1), Khan FH(1).
+
+Author information:
+(1)Department of Biochemistry, Faculty of Life Sciences, Aligarh Muslim 
+University, Aligarh India.
+(2)Faculty of Dentistry, Department of Biochemistry, Jamia Millia Islamia, New 
+Delhi India.
+
+In this review, we present an elaborate account of coronavirus in context to 
+Covid-19 focusing on its origin, genome, life cycle, and immunology with a basic 
+understanding of the disease and its cause. Further, the transmission, 
+prevention and advances in therapeutics have also been discussed anticipating 
+the possible outcomes in the near future. Moreover, the recently emerged 
+unconventional approaches to this viral disease like drug repurposing, plasma 
+therapy, nasal spray, and other preventive measures worldwide are studied for a 
+long-term impact and relevance. Hence, this account on coronavirus and the 
+ongoing pandemic serves a purpose of spreading awareness and to pass on relevant 
+knowledge for a better chance to combat such unfortunate health crisis in 
+future.
+
+DOI: 10.1080/15321819.2021.1904414
+PMID: 33788668 [Indexed for MEDLINE]
+
+
+36. J Neurol Sci. 2021 Feb 15;421:117316. doi: 10.1016/j.jns.2021.117316. Epub 2021 
+Jan 10.
+
+Cerebrospinal fluid in COVID-19: A systematic review of the literature.
+
+Lewis A(1), Frontera J(2), Placantonakis DG(3), Lighter J(4), Galetta S(5), 
+Balcer L(6), Melmed KR(2).
+
+Author information:
+(1)Department of Neurology, NYU Langone Medical Center, New York, NY 10016, USA; 
+Department of Neurosurgery, NYU Langone Medical Center, New York, NY 10016, USA. 
+Electronic address: Ariane.Kansas.Lewis@gmail.com.
+(2)Department of Neurology, NYU Langone Medical Center, New York, NY 10016, USA; 
+Department of Neurosurgery, NYU Langone Medical Center, New York, NY 10016, USA.
+(3)Department of Neurosurgery, NYU Langone Medical Center, New York, NY 10016, 
+USA.
+(4)Department of Pediatrics, NYU Langone Medical Center, New York, NY 10016, 
+USA.
+(5)Department of Neurology, NYU Langone Medical Center, New York, NY 10016, USA; 
+Department of Ophthalmology, NYU Langone Medical Center, New York, NY 10016, 
+USA.
+(6)Department of Neurology, NYU Langone Medical Center, New York, NY 10016, USA; 
+Department of Ophthalmology, NYU Langone Medical Center, New York, NY 10016, 
+USA; Department of Population Health, NYU Langone Medical Center, New York, NY 
+10016, USA.
+
+Comment in
+    Indian J Pediatr. 2023 Jan;90(1):101. doi: 10.1007/s12098-022-04404-9.
+
+OBJECTIVE: We sought to review the literature on cerebrospinal fluid (CSF) 
+testing in patients with COVID-19 for evidence of viral neuroinvasion by 
+SARS-CoV-2.
+METHODS: We performed a systematic review of Medline and Embase between December 
+1, 2019 and November 18, 2020 to identify case reports or series of patients who 
+had COVID-19 diagnosed based on positive SARS-CoV-2 polymerase chain reaction 
+(PCR) or serologic testing and had CSF testing due to a neurologic symptom.
+RESULTS: We identified 242 relevant documents which included 430 patients with 
+COVID-19 who had acute neurological symptoms prompting CSF testing. Of those, 
+321 (75%) patients had symptoms that localized to the central nervous system 
+(CNS). Of 304 patients whose CSF was tested for SARS-CoV-2 PCR, there were 17 
+(6%) whose test was positive, all of whom had symptoms that localized to the 
+central nervous system (CNS). The majority (13/17, 76%) of these patients were 
+admitted to the hospital because of neurological symptoms. Of 58 patients whose 
+CSF was tested for SARS-CoV-2 antibody, 7 (12%) had positive antibodies with 
+evidence of intrathecal synthesis, all of whom had symptoms that localized to 
+the CNS. Of 132 patients who had oligoclonal bands evaluated, 3 (2%) had 
+evidence of intrathecal antibody synthesis. Of 77 patients tested for autoimmune 
+antibodies in the CSF, 4 (5%) had positive findings.
+CONCLUSION: Detection of SARS-CoV-2 in CSF via PCR or evaluation for intrathecal 
+antibody synthesis appears to be rare. Most neurological complications 
+associated with SARS- CoV-2 are unlikely to be related to direct viral 
+neuroinvasion.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jns.2021.117316
+PMCID: PMC7833669
+PMID: 33561753 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.
+
+
+37. Rheumatol Int. 2021 Aug;41(8):1375-1386. doi: 10.1007/s00296-021-04873-9. Epub 
+2021 Apr 26.
+
+Sex hormones, autoimmunity and gender disparity in COVID-19.
+
+Raza HA(1), Sen P(2), Bhatti OA(1), Gupta L(3).
+
+Author information:
+(1)Medical College, Aga Khan University Hospital, Stadium Road, Karachi, 
+Pakistan.
+(2)Maulana Azad Medical College, 2-Bahadur Shah Zafar marg, New Delhi, India.
+(3)Department of Clinical Immunology and Rheumatology, Sanjay Gandhi 
+Postgraduate Institute of Medical Sciences, Lucknow, 226014, India. 
+drlatikagupta@gmail.com.
+
+The Coronavirus disease 2019 (COVID-19) pandemic has majorly contributed to 
+massive and widespread mortality. Epidemiological data strongly indicates a 
+sex-based disparity in COVID-19 clinical outcomes, with women having lower 
+infection and hospitalisation rates, coupled with better prognosis and lesser 
+mortality. This disparity may be explained by several mechanisms including 
+differences in innate and adaptive immune responses, genetic factors, and an 
+interplay between sex hormones and immune effectors, as well as gender-specific 
+behaviour differences. These pathways, particularly the immunological divergence 
+in response to viral infection, could potentially influence not only COVID-19 
+pathogenesis and disease course, but also the response to antiviral drugs and 
+vaccines. Furthermore, factors that confer a protective advantage against 
+COVID-19 may be exploited to develop therapeutic strategies to improve clinical 
+outcomes in COVID-19.
+
+DOI: 10.1007/s00296-021-04873-9
+PMCID: PMC8075025
+PMID: 33903964 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest.
+
+
+38. Hum Vaccin Immunother. 2020 Dec 1;16(12):2891-2904. doi: 
+10.1080/21645515.2020.1788310. Epub 2020 Jul 23.
+
+COVID-19 - Recent advancements in identifying novel vaccine candidates and 
+current status of upcoming SARS-CoV-2 vaccines.
+
+Iqbal Yatoo M(1), Hamid Z(2), Parray OR(1), Wani AH(1), Ul Haq A(1), Saxena 
+A(3), Patel SK(4), Pathak M(4), Tiwari R(5), Malik YS(6), Sah R(7), Rabaan 
+AA(8), Rodriguez Morales AJ(9)(10), Dhama K(4).
+
+Author information:
+(1)Division of Veterinary Clinical Complex, Faculty of Veterinary Sciences and 
+Animal Husbandry, Sher-E-Kashmir University of Agricultural Sciences and 
+Technology of Kashmir , Srinagar, India.
+(2)Department of Biotechnology, University of Kashmir , Srinagar, India.
+(3)Division of Biotechnology, ICAR-Indian Veterinary Research Institute , 
+Bareilly, India.
+(4)Division of Pathology, ICAR-Indian Veterinary Research Institute , Bareilly, 
+India.
+(5)Department of Veterinary Microbiology and Immunology, College of Veterinary 
+Sciences, UP Pandit Deen Dayal Upadhayay Pashu Chikitsa Vigyan Vishwavidyalay 
+Evum Go-Anusandhan Sansthan , Mathura, India.
+(6)Division of Biological Standardization, ICAR-Indian Veterinary Research 
+Institute , Bareilly, India.
+(7)Department of Microbiology, Tribhuvan University Teaching Hospital, Institute 
+of Medicine , Kathmandu, Nepal.
+(8)Molecular Diagnostic Laboratory, Johns Hopkins Aramco Healthcare , Dhahran, 
+Saudi Arabia.
+(9)Public Health and Infection Research Group, Faculty of Health Sciences, 
+Universidad Tecnologica de Pereira , Pereira, Colombia.
+(10)Grupo de Investigacion Biomedicina, Faculty of Medicine, Fundacion 
+Universitaria Autonoma de las Americas , Risaralda, Colombia.
+
+The COVID-19 pandemic caused by SARS-CoV-2 has spread rapidly. To date, 
+countries have relied on the prevention of the disease through isolation, 
+quarantine, and clinical care of affected individuals. However, studies on the 
+roles of asymptomatic and mildly infected subjects in disease transmission, use 
+of antiviral drugs, and vaccination of the general population will be very 
+important for mitigating the effects of the eventual return of this pandemic. 
+Initial investigations are ongoing to evaluate antigenic structures of 
+SARS-CoV-2 and the immunogenicity of vaccine candidates. There also is a need to 
+comprehensively compile the details of previous studies on SARS-related vaccines 
+that can be extrapolated to identify potent vaccine targets for developing 
+COVID-19 vaccines. This review aims to analyze previous studies, current status, 
+and future possibilities for producing SARS-CoV-2 vaccines.
+
+DOI: 10.1080/21645515.2020.1788310
+PMCID: PMC8641591
+PMID: 32703064 [Indexed for MEDLINE]
+
+
+39. Indian J Pathol Microbiol. 2021 Apr-Jun;64(2):229-230. doi: 
+10.4103/ijpm.ijpm_177_21.
+
+Post-COVID era: Time to ponder.
+
+Agrawal R(1).
+
+Author information:
+(1)MD; FIC Path; MIAC, DHA, Professor, Department of Pathology, Rohilkhand 
+Medical College and Hospital, Bareilly, Uttar Pradesh, India.
+
+DOI: 10.4103/ijpm.ijpm_177_21
+PMID: 33851612 [Indexed for MEDLINE]
+
+
+40. FEBS J. 2021 Sep;288(17):4992-4995. doi: 10.1111/febs.16167.
+
+Spotlight on COVID-19: eighteen months on.
+
+Zacchigna S(1), Marcello A(2), Banks L(3).
+
+Author information:
+(1)Laboratory of Cardiovascular Biology, The International Centre for Genetic 
+Engineering and Biotechnology, Trieste, Italy.
+(2)Laboratory of Molecular Virology, The International Centre for Genetic 
+Engineering and Biotechnology, Trieste, Italy.
+(3)Laboratory of Tumour Virology, The International Centre for Genetic 
+Engineering and Biotechnology, Trieste, Italy.
+
+In this Editorial, we highlight the contents of The FEBS Journal's second 
+Special Issue focussed on COVID-19. The issue covers a variety of aspects 
+related to COVID-19, ranging from the most recent improvements in therapies and 
+the significant impact of rapidly developed COVID-19 vaccines to the emergence 
+of variants of SARS-CoV-2, the role of the immune system in the various stages 
+of the disease and the impact of the disease in different organs. We hope that 
+this collection of articles will give readers an informative and critical 
+perspective on recent advances in understanding and treating COVID-19.
+
+© 2021 Federation of European Biochemical Societies.
+
+DOI: 10.1111/febs.16167
+PMCID: PMC8646732
+PMID: 34490732 [Indexed for MEDLINE]
+
+
+41. Dermatol Ther. 2020 Sep;33(5):e13525. doi: 10.1111/dth.13525. Epub 2020 May 22.
+
+Comprehensive overview of COVID-19 based on current evidence.
+
+Kang Y(1), Xu S(2).
+
+Author information:
+(1)China Pharmaceutical University & Jiangsu Key Laboratory of Oncogenesis and 
+Intervention, Nanjing, Jiangsu, China.
+(2)Jiangsu Cancer Hospital & Jiangsu Institute of Cancer Research & The 
+Affiliated Cancer Hospital of Nanjing Medical University, Nanjing, Jiangsu, 
+China.
+
+In December 2019, twenty-seven pneumonia patients with unknown causes originated 
+in South China seafood market in Wuhan. The virus infection spread rapidly and 
+swept through China in less than a month. Subsequently, the virus was proven a 
+novel coronavirus and named SARS-CoV-2. The outbreak of novel coronavirus has 
+been determined as a Public Health Emergency of International Concern (PHEIC) by 
+WHO on January 31, 2020. Similar to other coronaviruses like the Middle East 
+Respiratory Syndrome (MERS) CoV and Severe Acute Respiratory Syndrome (SARS) 
+CoV, the novel coronavirus was reported to spread via respiratory droplets and 
+close contact from human to human, which means the virus is highly infectious 
+and dangerous. Unfortunately, till now the virus has spread to over 200 
+countries/territories/areas around the world and the Coronavirus Disease 2019 
+(COVID-19) outbreak is continuing to grow. Currently, information sharing and 
+transparency are essential for risk assessment and epidemic control in all 
+endemic areas. In this article, we compared SARS-CoV-2 with SARS-CoV and 
+influenza virus, discussed current researching progress of COVID-19, including 
+clinical characteristics, pathological changes, treatment measures, and so on.
+
+© 2020 Wiley Periodicals LLC.
+
+DOI: 10.1111/dth.13525
+PMCID: PMC7267400
+PMID: 32378801 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors disclose no conflict of interest.
+
+
+42. Curr Opin Pulm Med. 2021 May 1;27(3):155-162. doi: 10.1097/MCP.0000000000000768.
+
+COVID-19 new diagnostics development: novel detection methods for SARS-CoV-2 
+infection and considerations for their translation to routine use.
+
+Huggett JF(1)(2), Moran-Gilad J(3), Lee JE(4).
+
+Author information:
+(1)National Measurement Laboratory (NML) at LGC, Queens Rd, Teddington.
+(2)School of Biosciences & Medicine, Faculty of Health & Medical Science, 
+University of Surrey, Guildford, UK.
+(3)Department of Health Systems Management, School of Public Health, Faculty of 
+Health Sciences, Ben Gurion University of the Negev, Beer Sheva, Israel.
+(4)Division of Policy and Strategy, Korea Research Institute of Standards and 
+Science, Daejeon, Republic of Korea.
+
+PURPOSE OF REVIEW: COVID-19 has put the in-vitro-diagnostic community under an 
+unprecedented spotlight, with a global requirement for accurate SARS-CoV-2 
+tests. This review will outline technological responses to this need and the 
+analytical considerations required for their translation to routine use.
+RECENT FINDINGS: SARS-CoV-2 diagnostic solutions directly detect the virus or 
+measure host-derived surrogate markers of infection. With pressure upon supply 
+chains for the 'traditional' molecular approaches, a wide variety of analytical 
+tools spanning the molecular, serology, imaging and chemistry space are being 
+developed, including high throughput solutions and simplified near-patient 
+formats.
+SUMMARY: The unique genetic nature of SARS-CoV-2 means high analytical 
+specificity is achievable by most diagnostic formats. However, clinical 
+sensitivity assessment is complicated by wide discrepancies in analytical range 
+and challenges associated with standardising these differences. When coupled 
+with the acute nature of SARS-CoV-2 infection, reported precise metrics of test 
+performance must be questioned. The response to SARS-CoV-2 has delivered 
+considerable diagnostic innovation, but for a technology to be maximised, it 
+must be demonstrably reproducible and fit for purpose. If novel diagnostic 
+solutions for SARS-CoV-2 are to succeed, equally innovative mechanisms are 
+needed to ensure widespread clinical and surveillance application, enabling 
+agreed standards and metrics to ensure comparability.
+
+Copyright © 2021 The Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MCP.0000000000000768
+PMID: 33654014 [Indexed for MEDLINE]
+
+
+43. Front Biosci (Elite Ed). 2021 Dec 20;13(2):272-290. doi: 10.52586/E884.
+
+COVID-19: morphology and mechanism of the SARS-CoV-2, global outbreak, 
+medication, vaccines and future of the virus.
+
+Bhattacharyya P(1), Das S(1), Aich S(2), Sarkar J(1).
+
+Author information:
+(1)Department of Botany, Dinabandhu Andrews College, Garia, Kolkata, 700084 West 
+Bengal, India.
+(2)Department of Botany, Vivekananda College, Thakurpukur, Kolkata, 700063 West 
+Bengal, India.
+
+Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) is a lethal virus 
+that was detected back on 31st December 2019 in Wuhan, Hubei province in China, 
+and since then this virus has been spreading across the globe causing a global 
+outbreak and has left the world fighting against the virus. The disease caused 
+by the SARS-CoV-2 was named COVID-19 and this was declared a pandemic disease by 
+the World Health Organization on 11th March 2020. Several nations are trying to 
+develop a vaccine that can save millions of lives. This review outlines the 
+morphological features of the virus describing the outer and inner structures of 
+the virus along with the entry mechanism of the virus into the host body and the 
+infection process. Detailed reports of global outbreak along with preventive 
+measures have also been included, with special emphasis on China, the United 
+States of America, India, Italy, and South Korea. Broad-spectrum antiviral drugs 
+being used at various health care centres around the world, namely Remdesivir, 
+Camostat & Nafamostat, Famotidine, Chloroquine & Hydroxychloroquine, 
+Lopinavir/ritonavir, Ivermectin, and Tocilizumab & Sarilumab have also been 
+included. World Health Organization guidelines on preventive measures and use of 
+soaps, alcohol-based hand-rubs and wearing face masks have also been described. 
+The vaccines that are in one of the phases of human trials, namely Oxford 
+University's vaccine, the United States-based Moderna's vaccine, India's Covaxin 
+and the Russian vaccine, have also been incorporated in the review article.
+
+© 2021 The Author(s). Published by BRI.
+
+DOI: 10.52586/E884
+PMID: 34937314 [Indexed for MEDLINE]
+
+
+44. Acta Med Indones. 2021 Jan;53(1):96-104.
+
+Impact of COVID-19 on the Gut: A Review of the Manifestations, Pathology, 
+Management, and Challenges.
+
+Suryana KD(1), Simadibrata M, Renaldi K.
+
+Author information:
+(1)Department of Internal Medicine, Faculty of Medicine, Universitas Indonesia/ 
+Dr. Cipto Mangunkusumo General Hospital National Hospital, Jakarta. 
+kresna_suryana@yahoo.com.
+
+SARS-CoV-2 is a virus that can enter its hosts through the Angiotensin 
+Converting Enzyme-2 (ACE2) receptor. ACE2 is mainly expressed in cells of the 
+gastrointestinal tract, such as the esophageal epithelium and enterocytes from 
+the ileum-colon. Coronavirus Disease 2019 (COVID-19) has varying clinical 
+symptoms and presents differently in individuals, ranging from asymptomatic 
+carriers to moderate clinical spectrum with mild pneumonia clinical features, 
+and to a severe clinical presentation with dyspnea and hypoxia, leading to death 
+due to respiratory or multi-organ failure. COVID-19 infection can also manifest 
+themselves in the form of gastrointestinal symptoms such as diarrhea, vomiting, 
+nausea, and abdominal pain. Severe complications of gastrointestinal COVID-19 
+infections include hemorrhage or perforation of the gastrointestinal tract and 
+severe inflammation, which can adversely affect the intestinal immune system, 
+and therefore the systemic immune system of the host. Furthermore, COVID-19 has 
+also shown to affect microbiota homeostasis in the digestive tract. To date, no 
+clear explanation is available regarding the pathophysiology of gastrointestinal 
+SARS-CoV-2 infection, fecal RNA detection, and the possibility of fecal-oral 
+transmission of SARS-CoV-2. This review aims to discuss the effects of 
+SARS-CoV-2 infection on the digestive tract, microbiota, and lung, and the 
+possibility of fecal-oral transmission in COVID-19.
+
+PMID: 33818412 [Indexed for MEDLINE]
+
+
+45. J Immunoassay Immunochem. 2021 Jul 4;42(4):335-346. doi: 
+10.1080/15321819.2021.1895214. Epub 2021 Mar 9.
+
+Road toward universal COVID-19 testing method - A review.
+
+Abdul Bari AB(1), Samuel PJ(2).
+
+Author information:
+(1)Physiology, Chettinad Hospital and Research Institute, Chengalpattu, India.
+(2)Physiology, Vels Medical College, Thiruvallur, India.
+
+Patients infected with novel coronavirus exhibit a wide range of symptoms from 
+common cold to pneumonia. Furthermore, several cases have been reported as 
+asymptomatic across the globe. Since there are no conclusive clinical 
+manifestations, clinicians have to rely more on laboratory diagnostic methods 
+for confirmation of coronavirus disease. Hematological and biochemical tests are 
+found to be of more prognostic value. Genetic assays by means of rRT-PCR 
+technique is time-consuming but seems to be a more sensitive and specific test 
+among the available testing methods for diagnosis of the coronavirus disease. 
+Radiological imaging of the CT chest of the confirmed positive patients taken 
+during the initial few days doesn't show any significant changes. However, from 
+the second week onward a ground glass lesion pattern is observed. The 
+immunological tests which are being used as a rapid testing method are found to 
+be more false test negative. Hence, based on the effectiveness of various 
+testing methods, it can be concluded that either rRT-PCR or mass antibody 
+testing has to be done, and it has to be compared with CT chest in order to 
+avoid false negatives across the globe which may help in the prevention of 
+community spread of the disease.
+
+DOI: 10.1080/15321819.2021.1895214
+PMID: 33689569 [Indexed for MEDLINE]
+
+
+46. Nat Commun. 2021 Jan 7;12(1):356. doi: 10.1038/s41467-020-20742-8.
+
+Optimal COVID-19 quarantine and testing strategies.
+
+Wells CR(1), Townsend JP(2)(3)(4)(5), Pandey A(1), Moghadas SM(6), Krieger 
+G(7)(8), Singer B(9), McDonald RH(10), Fitzpatrick MC(1)(11), Galvani AP(1)(12).
+
+Author information:
+(1)Center for Infectious Disease Modeling and Analysis (CIDMA), Yale School of 
+Public Health, New Haven, CT, 06520, USA.
+(2)Department of Biostatistics, Yale School of Public Health, New Haven, CT, 
+06510, USA. Jeffrey.Townsend@Yale.edu.
+(3)Department of Ecology and Evolutionary Biology, Yale University, New Haven, 
+CT, 06525, USA. Jeffrey.Townsend@Yale.edu.
+(4)Program in Computational Biology and Bioinformatics, Yale University, New 
+Haven, CT, 06511, USA. Jeffrey.Townsend@Yale.edu.
+(5)Program in Microbiology, Yale University, New Haven, CT, 06511, USA. 
+Jeffrey.Townsend@Yale.edu.
+(6)Agent-Based Modelling Laboratory, York University, Toronto, ON, M3J 1P3, 
+Canada.
+(7)NewFields E&E, Boulder, CO, 80301, USA.
+(8)Skaggs School of Pharmacy and Pharmaceutical Science, University of Colorado 
+Anschutz Medical Campus, Aurora, CO, 80045, USA.
+(9)Emerging Pathogens Institute, University of Florida, P.O. Box 100009, 
+Gainesville, FL, 32610, USA.
+(10)Group Health, Safety and Environment; BHP, Melbourne, VIC, 3000, Australia.
+(11)Center for Vaccine Development and Global Health, University of Maryland 
+School of Medicine, Baltimore, MA, 21201, US.
+(12)Department of Ecology and Evolutionary Biology, Yale University, New Haven, 
+CT, 06525, USA.
+
+Update of
+    medRxiv. 2020 Nov 30:2020.10.27.20211631. doi: 10.1101/2020.10.27.20211631.
+
+For COVID-19, it is vital to understand if quarantines shorter than 14 days can 
+be equally effective with judiciously deployed testing. Here, we develop a 
+mathematical model that quantifies the probability of post-quarantine 
+transmission incorporating testing into travel quarantine, quarantine of traced 
+contacts with an unknown time of infection, and quarantine of cases with a known 
+time of exposure. We find that testing on exit (or entry and exit) can reduce 
+the duration of a 14-day quarantine by 50%, while testing on entry shortens 
+quarantine by at most one day. In a real-world test of our theory applied to 
+offshore oil rig employees, 47 positives were obtained with testing on entry and 
+exit to quarantine, of which 16 had tested negative at entry; preventing an 
+expected nine offshore transmission events that each could have led to 
+outbreaks. We show that appropriately timed testing can make shorter quarantines 
+effective.
+
+DOI: 10.1038/s41467-020-20742-8
+PMCID: PMC7788536
+PMID: 33414470 [Indexed for MEDLINE]
+
+Conflict of interest statement: J.P.T., S.M.M., G.K., B.S., R.M., and A.P.G. 
+declare the following competing interests: received funding from the oil and gas 
+company who collected the data. C.R.W., A.P., and M.C.F. declare no competing 
+interest.
+
+
+47. Viruses. 2021 Jun 29;13(7):1269. doi: 10.3390/v13071269.
+
+COVID-19 Pandemic: Influence of Schools, Age Groups, and Virus Variants in 
+Italy.
+
+Sebastiani G(1)(2)(3), Palù G(4).
+
+Author information:
+(1)Istituto per le Applicazioni del Calcolo Mauro Picone, Consiglio Nazionale 
+delle Ricerche, Via dei Taurini 19, 00185 Rome, Italy.
+(2)Mathematics Department "Guido Castelnuovo", Sapienza University of Rome, 
+Piazzale Aldo Moro 5, 00185 Rome, Italy.
+(3)Department of Mathematics and Statistics, University of Tromsø, H. Hansens 
+veg 18, 9019 Tromsø, Norway.
+(4)Department of Molecular Medicine, University of Padova, 35121 Padova, Italy.
+
+The estimated smooth curve of the percentage of subjects positive to SARS-CoV-2 
+started decreasing in Italy at the beginning of January 2021, due to the 
+government containment measures undertaken from Christmas until 7 January. 
+Approximately two weeks after releasing the measures, the curve stopped to 
+decrease and remained approximately constant for four weeks to increase again in 
+the middle of February. This epidemic phase had a public health care impact 
+since, from the beginning of the fourth week of February, the curve of the 
+intensive care unit's occupancy started to grow. This wave of infection was 
+characterized by the presence of new virus variants, with a higher than 80% 
+dominance of the so-called "English" variant, since 15 April. School activities 
+in Italy started at different times from 7 January until 8 February, depending 
+on every region's decision. Our present data on the incidence of SARS-CoV-2 in 
+different age groups in Italy are in agreement with literature reports showing 
+that subjects older than 10 years are involved in virus transmission. More 
+importantly, we provide evidence to support the hypothesis that also individuals 
+of age 0-9 years can significantly contribute to the spread of SARS-CoV-2.
+
+DOI: 10.3390/v13071269
+PMCID: PMC8428146
+PMID: 34209828 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+48. Biomed Environ Sci. 2021 Jan 20;34(1):50-60. doi: 10.3967/bes2021.007.
+
+The Pathogenesis and Treatment of COVID-19: A System Review.
+
+Ji YL(1), Wu Y(1), Qiu Z(1), Ming H(1), Zhang Y(1), Zhang AN(1), Leng Y(1), Xia 
+ZY(1).
+
+Author information:
+(1)Department of Anesthesiology, Renmin Hospital of Wuhan University, Wuhan 
+430060, Hubei, China.
+
+DOI: 10.3967/bes2021.007
+PMCID: PMC7870101
+PMID: 33531107 [Indexed for MEDLINE]
+
+
+49. Int Immunopharmacol. 2021 Jun;95:107543. doi: 10.1016/j.intimp.2021.107543. Epub 
+2021 Feb 27.
+
+Covid-19 challenges to immune investigations and therapies.
+
+Talmadge JE(1), Marceau F(2).
+
+Author information:
+(1)Department of Pathology and Microbiology, University of Nebraska Medical 
+Center, Omaha, NE 68198, USA; Department of Internal Medicine, University of 
+Nebraska Medical Center, Omaha, NE 68198, USA. Electronic address: 
+jtalmadg@unmc.edu.
+(2)Centre de Recherche du CHU de Québec-Université Laval, Québec, QC G1V 4G2, 
+Canada. Electronic address: francois.marceau@crchudequebec.ulaval.ca.
+
+DOI: 10.1016/j.intimp.2021.107543
+PMCID: PMC7914004
+PMID: 33735717 [Indexed for MEDLINE]
+
+
+50. Trends Microbiol. 2021 Dec;29(12):1049-1051. doi: 10.1016/j.tim.2021.09.009. 
+Epub 2021 Oct 25.
+
+Apart, together: reflections on the COVID-19 pandemic.
+
+Iyer S(1).
+
+Author information:
+(1)Editor, Trends in Microbiology. Electronic address: tim@cell.com.
+
+DOI: 10.1016/j.tim.2021.09.009
+PMCID: PMC8545609
+PMID: 34752742 [Indexed for MEDLINE]
+
+
+51. Nature. 2022 Jul;607(7917):18-19. doi: 10.1038/d41586-022-01771-3.
+
+Fast-evolving COVID variants complicate vaccine updates.
+
+Callaway E.
+
+DOI: 10.1038/d41586-022-01771-3
+PMID: 35760853 [Indexed for MEDLINE]
+
+
+52. Sci Rep. 2021 May 19;11(1):10599. doi: 10.1038/s41598-021-89513-9.
+
+Effect of COVID-19 on liver abnormalities: a systematic review and 
+meta-analysis.
+
+Bzeizi K(1), Abdulla M(2), Mohammed N(2), Alqamish J(3), Jamshidi N(4), Broering 
+D(5).
+
+Author information:
+(1)Department of Liver & Small Bowel Transplantation & Hepatobiliary-Pancreatic 
+Surgery, King Faisal Specialist Hospital & Research Center, P.O. Box 3354, 
+Riyadh, 11211, Saudi Arabia. kbzeizi@kfshrc.edu.sa.
+(2)Internal Medicine Department, Salmaniya Medical Complex, Manama, Bahrain.
+(3)Ibn AlNafees Hospital, Manama, Bahrain.
+(4)School of Science, RMIT University, Melbourne, VIC, 3000, Australia.
+(5)Organ Transplant Center & Department of Surgery, King Faisal Specialist 
+Hospital & Research Centre (Gen. Org) MBC 96, AlFaisal University, P.O. Box 
+3354, Riyadh, 11211, Saudi Arabia.
+
+Emerging evidence suggest association of severe acute respiratory syndrome 
+coronavirus 2 (SARS-CoV-2) infection with the development of many liver 
+abnormalities. The overarching aim of this study was therefore to assess the 
+available evidence on the clinical effects of SARS-CoV-2 on the profiles of 
+liver chemistries and coagulation in COVID-19 diagnosed patients. We considered 
+all study designs including epidemiological and observational that reported 
+liver function test abnormalities in patients confirmed with SARS-CoV-2 
+infection. Medline, Embase databases and Google Scholar as well as relevant 
+reviews were searched to identify appropriate studies from inception to 31st of 
+August 2020. We calculated the pooled mean with 95% confidence intervals (95% 
+CI) through a random-effect model meta-analysis. A total of 35 studies with 
+10,692 participants were considered for the review from which 23 studies with 
+sufficient quantitative data were included in the meta-analysis. The pooled mean 
+for liver enzymes and coagulation parameters did not significantly change in 
+patients diagnosed with COVID-19 and remained within normal range. 
+Notwithstanding potential bias from confounding factors in interpretation of 
+data in this review, findings from the observational studies and case reports 
+suggest that COVID-19 does not appear to have a significant impact on the 
+transaminases or total bilirubin levels of patients with confirmed SARS-CoV-2 
+infection. Further controlled studies and larger sample size observational 
+studies are needed with adequate reporting of other liver function parameters 
+are warranted.
+
+DOI: 10.1038/s41598-021-89513-9
+PMCID: PMC8134580
+PMID: 34012016 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+53. Chem Biol Interact. 2020 Dec 1;332:109298. doi: 10.1016/j.cbi.2020.109298. Epub 
+2020 Oct 27.
+
+Race to arsenal COVID-19 therapeutics: Current alarming status and future 
+directions.
+
+Dubey AK(1), Singh A(2), Prakash S(3), Kumar M(4), Singh AK(5).
+
+Author information:
+(1)Department of Biotechnology, Indian Institute of Technology Madras, Tamil 
+Nadu, 600036, India.
+(2)CSIR-Central Drug Research Institute, Lucknow, 226014, India.
+(3)Department of Pharmacy, Sardar Patel College of Pharmacy, Gorakhpur, 273013, 
+India.
+(4)Department of Microbiology, SGPGIMS, Lucknow, 226014, India.
+(5)Pennsylvania State University, Penn State College of Medicine, Hershey, PA, 
+17033, USA. Electronic address: indianashoksingh@gmail.com.
+
+The on-going pandemic of COVID-19 wreaked by a viral infection of SARS-CoV-2, 
+has generated a catastrophic plight across the globe. Interestingly, one of the 
+hallmarks of COVID-19 is the so-called 'cytokine storm' due to attack of 
+SARS-Cov-2 in the lungs. Considering, mesenchymal stem cells (MSCs) therapy 
+could contribute against SARS-CoV-2 viruses attack because of their immune 
+modulatory and anti-inflammatory ability linked to their stemness, to the 
+arsenal of treatments for COVID-19. Another novel therapeutic strategies include 
+the blockade of rampant generation of pro-inflammatory mediators like acute 
+respiratory distress syndrome (ARDS), degradation of viral protein capsids by 
+PROTACs, composed of Ubiquitin-proteasome framework, and 
+ubiquitination-independent pathway directing the SARS-CoV-2 nucleocapsid protein 
+(nCoV N) and proteasome activator (PA28γ), etc. This review is consequently an 
+endeavour to highlight the several aspects of COVID-19 with incorporation of 
+important treatment strategies discovered to date and putting the real effort on 
+the future directions to put them into the perspective.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.cbi.2020.109298
+PMCID: PMC7588316
+PMID: 33121920 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+54. BMJ. 2021 Dec 6;375:n3028. doi: 10.1136/bmj.n3028.
+
+Covid-19: What we have learnt from behavioural science during the pandemic so 
+far that can help prepare us for the future.
+
+Williams S(1), Drury J(2), Michie S(3), Stokoe E(4).
+
+Author information:
+(1)School of Psychology, Swansea University.
+(2)School of Psychology, University of Sussex.
+(3)University College London.
+(4)Loughborough University.
+
+DOI: 10.1136/bmj.n3028
+PMID: 34872923 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: SM and JD participate in 
+the Scientific Pandemic Influenza Group on Behavioural Science (SPI-B) and are 
+members of Independent SAGE. ES participates in the Policing and Security 
+subgroup of SPI-B (SAGE) and is a member of the Behavioural Advisory Group of 
+Independent SAGE.
+
+
+55. Anal Bioanal Chem. 2021 Jan;413(1):35-48. doi: 10.1007/s00216-020-02889-x. Epub 
+2020 Sep 18.
+
+Review of analytical performance of COVID-19 detection methods.
+
+Giri B(1), Pandey S(1), Shrestha R(1), Pokharel K(1), Ligler FS(2), Neupane 
+BB(1)(3).
+
+Author information:
+(1)Center for Analytical Sciences, Kathmandu Institute of Applied Sciences, 
+Kathmandu, 44600, Nepal.
+(2)Joint Department of Biomedical Engineering, University of North Carolina at 
+Chapel Hill and North Carolina State University, Raleigh, NC, 27695, USA. 
+fsligler@ncsu.edu.
+(3)Central Department of Chemistry, Tribhuvan University, Kathmandu, 44618, 
+Nepal.
+
+In the recent SARS-CoV-2 pandemic, public health experts have emphasized 
+testing, tracking infected people, and tracing their contacts as an effective 
+strategy to reduce the spread of the virus. Several diagnostic methods are 
+reported for detecting the coronavirus in clinical, research, and public health 
+laboratories. Some tests detect the infection directly by detecting the viral 
+RNA and other tests detect the infection indirectly by detecting the host 
+antibodies. A diagnostic test during the pandemic should help make an 
+appropriate clinical decision in a short period of time. Recently reported 
+diagnostic methods for SARS-CoV-2 have varying throughput, batching capacity, 
+requirement of infrastructure setting, analytical performance, and turnaround 
+times ranging from a few minutes to several hours. These factors should be 
+considered while selecting a reliable and rapid diagnostic method to help make 
+an appropriate decision and prompt public health interventions. This paper 
+reviews recent SARS-CoV-2 diagnostic methods published in journals and reports 
+released by regulatory agencies. We compared the analytical efficiency including 
+limit of detection, sensitivity, specificity, and throughput. In addition, we 
+also looked into ease of use, affordability, and availability of accessories. 
+Finally, we discuss the limitations of the methods and provide our perspectives 
+on priorities for future test development.
+
+DOI: 10.1007/s00216-020-02889-x
+PMCID: PMC7498299
+PMID: 32944809 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
+
+
+56. Int J Infect Dis. 2021 Jan;102:566-570. doi: 10.1016/j.ijid.2020.10.100. Epub 
+2020 Nov 4.
+
+Arginine depletion as a therapeutic approach for patients with COVID-19.
+
+Grimes JM(1), Khan S(1), Badeaux M(2), Rao RM(2), Rowlinson SW(2), Carvajal 
+RD(3).
+
+Author information:
+(1)Columbia University Irving Medical Center, New York, NY, USA.
+(2)Aeglea Biotherapeutics Inc., Austin, TX, USA.
+(3)Columbia University Irving Medical Center, New York, NY, USA; Herbert Irving 
+Comprehensive Cancer Center, New York, NY, USA. Electronic address: 
+rdc2150@cumc.columbia.edu.
+
+The COVID-19 pandemic, caused by severe acute respiratory syndrome coronavirus 2 
+(SARS-CoV-2), is a source of significant morbidity and death worldwide, and 
+effective treatments are urgently needed. Clinical trials have focused largely 
+on direct antiviral therapies or on immunomodulation in patients with severe 
+manifestations of COVID-19. One therapeutic approach that remains to be 
+clinically investigated is disruption of the host-virus relationship through 
+amino acid restriction, a strategy used successfully in the setting of cancer 
+treatment. Arginine is an amino acid that has been shown in nonclinical studies 
+to be essential in the life cycle of many viruses. Therefore, arginine depletion 
+may be an effective therapeutic approach against SARS-CoV-2. Several 
+arginine-metabolizing enzymes in clinical development may be a viable approach 
+to induce a low arginine environment to treat COVID-19 and other viral diseases. 
+Herein, we explore the rationale for arginine depletion as a therapeutic 
+approach for COVID-19.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ijid.2020.10.100
+PMCID: PMC7641537
+PMID: 33160064 [Indexed for MEDLINE]
+
+
+57. Asian Pac J Allergy Immunol. 2021 Jun;39(2):69-77. doi: 10.12932/AP-130121-1037.
+
+Innate immunity in COVID-19: Drivers of pathogenesis and potential therapeutic 
+targets.
+
+Ruenjaiman V(1)(2), Hirankarn N(1)(2), Palaga T(2)(3).
+
+Author information:
+(1)Department of Microbiology, Faculty of Medicine, Chulalongkorn University, 
+Bangkok, Thailand.
+(2)Center of Excellence in Immunology and Immune-Mediated Diseases, 
+Chulalongkorn University, Bangkok, Thailand.
+(3)Department of Microbiology, Faculty of Science, Chulalongkorn University, 
+Bangkok, Thailand.
+
+A novel severe acute respiratory syndrome COVID-19 caused by coronavirus 
+SARS-CoV-2 has been confirmed to infect more than 100 million people globally, 
+with mortality reaching nearly 3 million as of March 2021. The symptoms vary 
+widely, from the absence of any symptoms to death. The severity of COVID-19 
+relates to hyperinflammatory conditions with acute respiratory distress syndrome 
+(ARDS), which leads to multiple-organ failure and death. Innate immunity plays 
+an important role in the early response to SARS-CoV-2 infection and regulates 
+the pathogenesis and its clinical outcomes. The most severe cases of COVID-19 
+present with increased innate immune cell infiltration in the lung, and elevated 
+pro-inflammatory cytokines in the blood serum that are associated with disease 
+severity. Here we review the innate immune response to SARS-CoV-2 infection 
+based on the recent reports and discuss the potential roles of innate immune 
+cells and their mediators in pathogenesis that dictate the outcome of the 
+disease. Understanding the roles of innate immune responses at the initial 
+stages of infection may provide early windows into treatment and clues for 
+vaccine development.
+
+DOI: 10.12932/AP-130121-1037
+PMID: 34174806 [Indexed for MEDLINE]
+
+
+58. Med Sci Monit. 2021 Apr 9;27:e930278. doi: 10.12659/MSM.930278.
+
+A Review of the Current Status of Clinical Management of COVID-19 in the 
+Elderly.
+
+Li Q(1), Zhao C(2).
+
+Author information:
+(1)Graduate School, Qinghai University, Xining, Qinghai, China (mainland).
+(2)Department of Geriatrics, Affiliated Hospital of Qinghai University, Xining, 
+Qinghai, China (mainland).
+
+The high infectivity and severity of SARS-CoV-2 infection (COVID-19), and our 
+limited understanding of the biology of the novel coronavirus, as well as the 
+lack of an effective treatment for COVID-19, have created a global pandemic. 
+Those most likely to become seriously ill with COVID-19 are adults, especially 
+the elderly and those who are already weak or sick. At present, a specific drug 
+for treatment of COVID-19 has not been developed. This, combined with the 
+typical coexistence of a variety of chronic diseases in elderly patients, makes 
+treatment challenging at present. In addition, for elderly patients, COVID-19 
+isolation measures during the epidemic can easily lead to psychological 
+problems. Thus, how to manage elderly patients has become a focus of social 
+attention in the current circumstances. This article reviews the effects of 
+COVID-19 and makes management suggestions for elderly patients during this 
+epidemic period. In addition to the elderly, critically ill people are also 
+highly susceptible to this novel coronavirus. For elderly COVID-19 patients, 
+antiviral therapy, immune regulation, and even auxiliary respiratory therapy can 
+be given after a comprehensive evaluation of the disease. With the approval and 
+use of COVID-19 vaccines, it is reasonable to expect that we can conquer 
+SARS-CoV-2.
+
+DOI: 10.12659/MSM.930278
+PMCID: PMC8043417
+PMID: 33833211 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest None.
+
+
+59. Trends Microbiol. 2021 Oct;29(10):894-907. doi: 10.1016/j.tim.2021.03.004. Epub 
+2021 Mar 14.
+
+Therapeutic Potential of Metformin in COVID-19: Reasoning for Its Protective 
+Role.
+
+Samuel SM(1), Varghese E(2), Büsselberg D(3).
+
+Author information:
+(1)Department of Physiology and Biophysics, Weill Cornell Medicine-Qatar, 
+Education City, Qatar Foundation, 24144, Doha, Qatar. Electronic address: 
+sms2016@qatar-med.cornell.edu.
+(2)Department of Physiology and Biophysics, Weill Cornell Medicine-Qatar, 
+Education City, Qatar Foundation, 24144, Doha, Qatar.
+(3)Department of Physiology and Biophysics, Weill Cornell Medicine-Qatar, 
+Education City, Qatar Foundation, 24144, Doha, Qatar. Electronic address: 
+dib2015@qatar-med.cornell.edu.
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections present 
+with increased disease severity and poor clinical outcomes in diabetic patients 
+compared with their nondiabetic counterparts. Diabetes/hyperglycemia-triggered 
+endothelial dysfunction and hyperactive inflammatory and immune responses are 
+correlated to twofold to threefold higher intensive care hospitalizations and 
+more than twice the mortality among diabetic coronavirus disease 2019 (COVID-19) 
+patients. While comorbidities such as obesity, cardiovascular disease, and 
+hypertension worsen the prognosis of diabetic COVID-19 patients, COVID-19 
+infections are also associated with new-onset diabetes, severe metabolic 
+complications, and increased thrombotic events in the backdrop of aberrant 
+endothelial function. While several antidiabetic medications are used to manage 
+blood glucose levels, we discuss the multifaceted ability of metformin to 
+control blood glucose levels and possibly attenuate endothelial dysfunction, 
+inhibit viral entry and infection, and modify inflammatory and immune responses 
+during SARS-CoV-2 infections. These actions make metformin a viable candidate 
+drug to be considered for repurposing and gaining ground against the 
+SARS-CoV-2-induced tsunami in diabetic COVID-19 patients.
+
+Copyright © 2021 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.tim.2021.03.004
+PMCID: PMC7955932
+PMID: 33785249 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Interests The authors declare no 
+conflict of interest. The funders had no role in the design of the study; in the 
+collection, analyses, or interpretation of data; in the writing of the 
+manuscript; or in the decision to publish the article.
+
+
+60. Aging (Albany NY). 2021 Feb 14;13(3):4713-4730. doi: 10.18632/aging.202665. Epub 
+2021 Feb 14.
+
+Neurological involvement in the respiratory manifestations of COVID-19 patients.
+
+Tan BH(1), Liu JM(2), Gui Y(2), Wu S(2), Suo JL(2), Li YC(2).
+
+Author information:
+(1)Laboratory Teaching Center of Basic Medicine, Norman Bethune Health Science 
+Center of Jilin University, Jilin, China.
+(2)Department of Histology and Embryology, College of Basic Medical Sciences, 
+Norman Bethune College of Medicine, Jilin University, Changchun, Jilin, China.
+
+The peculiar features of coronavirus disease 2019 (COVID-19), caused by Severe 
+Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2), are challenging the 
+current biological knowledge. Early in Feb, 2020, we suggested that SARS-CoV-2 
+may possess neuroinvasive potential similar to that of many other coronaviruses. 
+Since then, a variety of neurological manifestations have been associated with 
+SARS-CoV-2 infection, which was supported in some patients with neuroimaging 
+and/or cerebrospinal fluid tests. To date, at least 27 autopsy studies on the 
+brains of COVID-19 patients can be retrieved through PubMed/MEDLINE, among which 
+neuropathological alterations were observed in the brainstem in 78 of 134 
+examined patients, and SARS-CoV-2 nucleic acid and viral proteins were detected 
+in the brainstem in 16/49 (32.7%) and 18/71 (25.3%) cases, respectively. To shed 
+some light on the peculiar respiratory manifestations of COVID-19 patients, this 
+review assessed the existing evidence about the neurogenic mechanism underlying 
+the respiratory failure induced by SARS-CoV-2 infection. Acknowledging the 
+neurological involvement has important guiding significance for the prevention, 
+treatment, and prognosis of SARS-CoV-2 infection.
+
+DOI: 10.18632/aging.202665
+PMCID: PMC7906194
+PMID: 33582654 [Indexed for MEDLINE]
+
+Conflict of interest statement: CONFLICTS OF INTEREST: The authors declared no 
+conflicts of interest.
+
+
+61. N Engl J Med. 2022 Jan 6;386(1):e9. doi: 10.1056/NEJMe2200149.
+
+Audio Interview: Covid-19 - The Outlook in Europe.
+
+Rubin EJ, Baden LR, Drosten C, Morrissey S.
+
+DOI: 10.1056/NEJMe2200149
+PMID: 34986293 [Indexed for MEDLINE]
+
+
+62. BMC Infect Dis. 2024 Nov 14;24(1):1306. doi: 10.1186/s12879-024-10094-9.
+
+Identifying COVID-19 variant through symptoms profile: Would it be possible? A 
+rapid review.
+
+Guarienti FA(1)(2), Xavier FAC(3)(4), Ferraz MD(1)(5), Bartelle MB(1)(6), Pasa 
+R(1)(6), Angonese A(1)(6), Zanirati GG(1), Marinowic DR(1)(2)(7), Machado 
+DC(1)(2)(7).
+
+Author information:
+(1)Brain Institute of Rio Grande do Sul (InsCer), Porto Alegre, Brazil.
+(2)Post Graduation Program in Geriatrics and Gerontology, Pontifical Catholic 
+University of Rio Grande do Sul, Porto Alegre, Brazil.
+(3)Brain Institute of Rio Grande do Sul (InsCer), Porto Alegre, Brazil. 
+fxavier@pucrs.br.
+(4)Post Graduation Program in Medicine and Health Sciences, Pontifical Catholic 
+University of Rio Grande do Sul, Porto Alegre, Brazil. fxavier@pucrs.br.
+(5)Graduate Program in Pharmacy, Pontifical Catholic University of Rio Grande do 
+Sul, Porto Alegre, Brazil.
+(6)Graduate Program in Medicine, Pontifical Catholic University of Rio Grande do 
+Sul, Porto Alegre, Brazil.
+(7)Post Graduation Program in Medicine and Health Sciences, Pontifical Catholic 
+University of Rio Grande do Sul, Porto Alegre, Brazil.
+
+The first outbreaks of coronavirus CoV, SARS-CoV and MERS-CoV have occurred in 
+China and Saudi Arabia over the past decade, respectively. From the end of 2019, 
+a great battle began by the world scientific community against SARS-CoV-2, the 
+virus that caused COVID-19, a pathology that generated devastating consequences 
+on all existing continents. Several mutations have already been detected in the 
+structure of the virus, which have been responsible for the generation of many 
+types of variants since the detection of the first COVID-19 virus identified in 
+China. The worrisome mutations arising from the first genome of SARS-CoV-2 have 
+been intensively studied. Some mutations increase the transmissibility of the 
+disease through Spike, the protein responsible for binding the virus in the 
+human cell. Among the numerous strains, the most discussed are called by the WHO 
+as "variants of concern". This study aims to review if COVID-19 severity may be 
+variant dependent. Our study found tree publications that associate severity of 
+COVI-19 symptoms to different SARS-CoV-2 variants. The most part of publications 
+do not establish which variant is being expressed during studies. More studies 
+with this focus are needed for a better understanding of the disease and 
+respective variants.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12879-024-10094-9
+PMCID: PMC11566187
+PMID: 39543481 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations Ethics approval and consent to 
+participate Not applicable. Consent for publication Not applicable. Competing 
+interests The authors declare no competing interests.
+
+
+63. J Biol Rhythms. 2021 Feb;36(1):4-8. doi: 10.1177/0748730420953335. Epub 2020 Sep 
+2.
+
+Accounting for Time: Circadian Rhythms in the Time of COVID-19.
+
+Sengupta S(1)(2)(3)(4), Brooks TG(3), Grant GR(3)(5), FitzGerald GA(3)(4)(6).
+
+Author information:
+(1)Department of Pediatrics, University of Pennsylvania Perelman School of 
+Medicine, Philadelphia, Pennsylvania.
+(2)Division of Neonatology, The Children's Hospital of Philadelphia, 
+Philadelphia, Pennsylvania.
+(3)Institute of Translational Medicine and Therapeutics (ITMAT), University of 
+Pennsylvania, Philadelphia, Pennsylvania.
+(4)Chronobiology and Sleep Institute, University of Pennsylvania, Philadelphia, 
+Pennsylvania.
+(5)Department of Genetics, University of Pennsylvania Perelman School of 
+Medicine, Philadelphia.
+(6)Systems Pharmacology University of Pennsylvania Perelman School of Medicine, 
+Philadelphia, Pennsylvania.
+
+The COVID-19 pandemic has necessitated novel approaches and collaborative 
+efforts across multiple disciplines. It is known that various aspects of our 
+physiology and response to pathogens are under tight clock control. However, the 
+assimilation of circadian biology into our clinical and research practices is 
+still evolving. Using a focused review of the literature and original analyses 
+of the UK Biobank, we discuss how circadian biology may inform our diagnostic 
+and therapeutic strategies in this pandemic.
+
+DOI: 10.1177/0748730420953335
+PMCID: PMC8685580
+PMID: 32875944 [Indexed for MEDLINE]
+
+
+64. J Biol Rhythms. 2021 Feb;36(1):55-70. doi: 10.1177/0748730421992587. Epub 2021 
+Feb 11.
+
+A Timely Call to Arms: COVID-19, the Circadian Clock, and Critical Care.
+
+Haspel J(1), Kim M(2), Zee P(2), Schwarzmeier T(3), Montagnese S(4), Panda S(5), 
+Albani A(3)(6), Merrow M(3).
+
+Author information:
+(1)Division of Pulmonary and Critical Care Medicine, Washington University 
+School of Medicine, St. Louis, Missouri, USA.
+(2)Department of Neurology, Northwestern University Feinberg School of Medicine, 
+Chicago, Illinois, USA.
+(3)Institute of Medical Psychology, Faculty of Medicine, LMU Munich, Munich, 
+Germany.
+(4)Department of Medicine, University of Padova, Padova, Italy.
+(5)Salk Institute for Biological Studies, La Jolla, California, USA.
+(6)Department of Medicine IV, LMU Munich, Munich, Germany.
+
+We currently find ourselves in the midst of a global coronavirus disease 2019 
+(COVID-19) pandemic, caused by the highly infectious novel coronavirus, severe 
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Here, we discuss aspects 
+of SARS-CoV-2 biology and pathology and how these might interact with the 
+circadian clock of the host. We further focus on the severe manifestation of the 
+illness, leading to hospitalization in an intensive care unit. The most common 
+severe complications of COVID-19 relate to clock-regulated human physiology. We 
+speculate on how the pandemic might be used to gain insights on the circadian 
+clock but, more importantly, on how knowledge of the circadian clock might be 
+used to mitigate the disease expression and the clinical course of COVID-19.
+
+DOI: 10.1177/0748730421992587
+PMCID: PMC7882674
+PMID: 33573430 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Statement: The author(s) 
+have no potential conflicts of interest with respect to the research, 
+authorship, and/or publication of this article.
+
+
+65. Biomed Res Int. 2020 Oct 27;2020:6870512. doi: 10.1155/2020/6870512. eCollection 
+2020.
+
+An Updated Understanding of the Current Emerging Respiratory Infection: 
+COVID-19.
+
+Yuan H(1), Cao X(1), Ji X(2), Du F(3), He J(4), Zhou X(3), Xie Y(5), Zhu Y(6).
+
+Author information:
+(1)Department of Rehabilitation Medicine, The Second People's Hospital of Hefei 
+City, Hefei 230011, China.
+(2)Department of Intensive Care Unit, The Second People's Hospital of Hefei 
+City, Hefei 230011, China.
+(3)Department of Respiratory Medicine, The Second People's Hospital of Hefei 
+City, Hefei 230011, China.
+(4)Department of Radiology, The Second People's Hospital of Hefei City, Hefei 
+230011, China.
+(5)Department of Laboratory Medicine, The Second People's Hospital of Hefei 
+City, Hefei 230011, China.
+(6)School of Public Health, Wannan Medical College, Wuhu 241002, China.
+
+According to the World Health Organization (WHO), the COVID-19 pandemic has been 
+declared as a priority disease. Some patients with COVID-19 had symptoms of 
+multiple organ failure and death. The published articles on COVID-19 infection 
+were reviewed. The origin of SARS-CoV-2 is still not completely established. 
+Person-to-person transmission via droplets, probable aerosols, or close contact 
+is considered as the main mode of transmission. With increased mortality due to 
+SARS-CoV-2, valuable clinical indicators or treatments should be further 
+identified and summarized. CT scanning plays an important role in the diagnosis 
+and evaluation of COVID-19 in asymptomatic patients or those with initially 
+negative RT-PCR results. No specific antiviral therapy is recommended, except 
+the main supportive treatments, and effective measures should be taken into 
+consideration to protect important organs and prevent the development of acute 
+respiratory distress syndrome (ARDS) in patients with severe infection.
+
+Copyright © 2020 Hai Yuan et al.
+
+DOI: 10.1155/2020/6870512
+PMCID: PMC7591962
+PMID: 33134384 [Indexed for MEDLINE]
+
+Conflict of interest statement: We declare no competing interests.
+
+
+66. Sci Rep. 2021 Nov 23;11(1):22777. doi: 10.1038/s41598-021-02321-z.
+
+Comparing the clinical efficacy of COVID-19 vaccines: a systematic review and 
+network meta-analysis.
+
+Rotshild V(#)(1)(2), Hirsh-Raccah B(#)(3)(4), Miskin I(5), Muszkat M(6), Matok 
+I(3).
+
+Author information:
+(1)Pharmacoepidemiology Research Unit, Institute for Drug Research, School of 
+Pharmacy, Faculty of Medicine, The Hebrew University of Jerusalem, P.O.B. 12272, 
+9112102, Jerusalem, Israel. Viki.Rotshild@mail.huji.ac.il.
+(2)Jerusalem Distric, Clalith Health Services Community Division, Jerusalem, 
+Israel. Viki.Rotshild@mail.huji.ac.il.
+(3)Pharmacoepidemiology Research Unit, Institute for Drug Research, School of 
+Pharmacy, Faculty of Medicine, The Hebrew University of Jerusalem, P.O.B. 12272, 
+9112102, Jerusalem, Israel.
+(4)Department of Cardiology, Hadassah University Hospital Ein Karem, Jerusalem, 
+Israel.
+(5)Jerusalem Distric, Clalith Health Services Community Division, Jerusalem, 
+Israel.
+(6)Department of Medicine, Hadassah University Hospital Mt. Scopus, Jerusalem, 
+Israel.
+(#)Contributed equally
+
+New Coronavirus Disease 2019 (COVID-19) vaccines are available to prevent the 
+ongoing severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic. 
+We compared the efficacy of new COVID-19 vaccines to prevent symptomatic and 
+severe disease in the adult population and to prevent symptomatic COVID-19 among 
+the elderly. Leading medical databases were searched until August 30, 2021. 
+Published phase 3 randomized controlled trials (RCTs) evaluated efficacy of the 
+vaccine to prevent symptomatic and sever COVID-19 in adults were included. Two 
+reviewers independently evaluated the literature search results and 
+independently extracted summary data. The risk of bias was evaluated using the 
+Cochrane Risk of Bias Assessment Tool. We performed a network meta-analysis 
+(NMA) according to PRISMA-NMA 2015 to pool indirect comparisons between 
+different vaccines regarding their relative efficacy. The primary outcomes were 
+the efficacy of the vaccine against symptomatic COVID-19 in adults (PROSPERO 
+registration number: CRD42021235364). Above 200,000 adult participants from 
+eight phase 3 RCTs were included in NMA, of whom 52% received the intervention 
+(active COVID-19 vaccine). While each of nine vaccines was tested in the unique 
+clinical trial as compared to control, based on indirect comparison, BNT162b2 
+and mRNA-1273 vaccines were ranked with the highest probability of efficacy 
+against symptomatic COVID-19 (P-scores 0.952 and 0.843, respectively), followed 
+by Gam-COVID-Vac (P-score 0.782), NVX-CoV23730 (P-score 0.700), CoronaVac 
+(P-score 0.570), BN02 (P-score 0.428), WIV04 (P-score 0.327), and Ad26.COV2.S 
+(P-score 0.198). No statistically significant difference was seen in the ability 
+of the vaccines to prevent symptomatic disease in the elderly population. No 
+vaccine was statistically significantly associated with a decreased risk for 
+severe COVID-19 than other vaccines, although mRNA-1273 and Gam-COVID-Vac have 
+the highest P-scores (0.899 and 0.816, respectively), indicating greater 
+protection against severe disease than other vaccines. In our indirect 
+comparison, the BNT162b2 and mRNA-1273 vaccines, which use mRNA technology, were 
+associated with the highest efficacy to prevent symptomatic COVID-19 compared to 
+other vaccines. This finding may have importance when deciding which vaccine to 
+use, together with other important factors as availability of the vaccines, 
+costs, logistics, side effects, and patient acceptability.
+
+© 2021. The Author(s).
+
+DOI: 10.1038/s41598-021-02321-z
+PMCID: PMC8611039
+PMID: 34815503 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+67. Brief Bioinform. 2022 Jan 17;23(1):bbab446. doi: 10.1093/bib/bbab446.
+
+A comprehensive review of the analysis and integration of omics data for 
+SARS-CoV-2 and COVID-19.
+
+Zhu Z(1), Zhang S(1), Wang P(1), Chen X(1), Bi J(1), Cheng L(1)(2), Zhang 
+X(2)(3).
+
+Author information:
+(1)College of Bioinformatics Science and Technology, Harbin Medical University, 
+Harbin, Heilongjiang, China, 150081.
+(2)NHC and CAMS Key Laboratory of Molecular Probe and Targeted Theranostics, 
+Harbin Medical University, Harbin, Heilongjiang, China, 150028.
+(3)McKusick-Zhang Center for Genetic Medicine, Peking Union Medical College, 
+Beijing, China, 100005.
+
+Since the first report of severe acute respiratory syndrome coronavirus 2 
+(SARS-CoV-2) in December 2019, over 100 million people have been infected by 
+COVID-19, millions of whom have died. In the latest year, a large number of 
+omics data have sprung up and helped researchers broadly study the sequence, 
+chemical structure and function of SARS-CoV-2, as well as molecular abnormal 
+mechanisms of COVID-19 patients. Though some successes have been achieved in 
+these areas, it is necessary to analyze and mine omics data for comprehensively 
+understanding SARS-CoV-2 and COVID-19. Hence, we reviewed the current advantages 
+and limitations of the integration of omics data herein. Firstly, we sorted out 
+the sequence resources and database resources of SARS-CoV-2, including protein 
+chemical structure, potential drug information and research literature 
+resources. Next, we collected omics data of the COVID-19 hosts, including 
+genomics, transcriptomics, microbiology and potential drug information data. And 
+subsequently, based on the integration of omics data, we summarized the existing 
+data analysis methods and the related research results of COVID-19 multi-omics 
+data in recent years. Finally, we put forward SARS-CoV-2 (COVID-19) multi-omics 
+data integration research direction and gave a case study to mine deeper for the 
+disease mechanisms of COVID-19.
+
+© The Author(s) 2021. Published by Oxford University Press. All rights reserved. 
+For Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/bib/bbab446
+PMCID: PMC8574485
+PMID: 34718395 [Indexed for MEDLINE]
+
+
+68. Viruses. 2024 Aug 7;16(8):1266. doi: 10.3390/v16081266.
+
+Mechanisms of Gut-Related Viral Persistence in Long COVID.
+
+McMillan P(1), Turner AJ(2), Uhal BD(3).
+
+Author information:
+(1)McMillan Research Ltd., London WC2H 9JQ, UK.
+(2)School of Biomedical Sciences, Faculty of Biological Sciences, University of 
+Leeds, Leeds LS2 9JT, UK.
+(3)Department of Physiology, Michigan State University, East Lansing, MI 48824, 
+USA.
+
+Long COVID (post-acute sequelae of COVID-19-PASC) is a consequence of infection 
+by SARS-CoV-2 that continues to disrupt the well-being of millions of affected 
+individuals for many months beyond their first infection. While the exact 
+mechanisms underlying PASC remain to be defined, hypotheses regarding the 
+pathogenesis of long COVID are varied and include (but are not limited to) 
+dysregulated local or systemic inflammatory responses, autoimmune mechanisms, 
+viral-induced hormonal imbalances, skeletal muscle abnormalities, complement 
+dysregulation, novel abzymes, and long-term persistence of virus and/or 
+fragments of viral RNA or proteins. This review article is based on a 
+comprehensive review of the wide range of symptoms most often observed in long 
+COVID and an attempt to integrate that information into a plausible hypothesis 
+for the pathogenesis of PASC. In particular, it is proposed that long-term 
+dysregulation of the gut in response to viral persistence could lead to the 
+myriad of symptoms observed in PASC.
+
+DOI: 10.3390/v16081266
+PMCID: PMC11360392
+PMID: 39205240 [Indexed for MEDLINE]
+
+Conflict of interest statement: Philip McMillan was an employee of McMillan 
+Research Ltd. The other authors declare no conflicts of interest.
+
+
+69. Respir Res. 2021 Nov 27;22(1):304. doi: 10.1186/s12931-021-01885-8.
+
+Repurposed pharmacological agents for the potential treatment of COVID-19: a 
+literature review.
+
+Kröker A(1), Tirzīte M(2)(3).
+
+Author information:
+(1)Riga Stradins University, Riga, Latvia. alina.kroeker@outlook.com.
+(2)Riga Stradins University, Riga, Latvia.
+(3)Riga East University Hospital, Clinical Centre "Gailezers", Riga, Latvia.
+
+BACKGROUND: The COVID-19 pandemic has affected the world extraordinarily. This 
+disease has a potential to cause a significantly severe course of disease 
+leading to respiratory complications, multiple organ failure and possibly death. 
+In the fight against this pandemic-causing disease, medical professionals around 
+the world are searching for pharmacological agents that could treat and prevent 
+disease progression and mortality. To speed the search of promising treatment 
+options, already existing pharmacological agents are repurposed for the 
+potential treatment of COVID-19 and tested in clinical trials. The aim of this 
+literature review is to investigate the efficacy and safety of repurposed 
+pharmacological agents for the treatment of COVID-19 at different 
+pathophysiologic stages of the disease. For this literature review, 
+online-databases PubMed and Google Scholar were utilised. Keywords "COVID-19", 
+"SARS-CoV-2", "pathogenesis", "drug targets", "pharmacological treatment", 
+"cytokine storm", "coagulopathy" and individual drug names were used. Scientific 
+articles, including reviews, clinical trials, and observational cohorts, were 
+collected and analysed. Furthermore, these articles were examined for references 
+to find more clinical trials testing for the potential treatment of COVID-19. In 
+total, 97 references were used to conduct this research paper.
+RESULTS: The most beneficial pharmacological agent for the treatment of COVID-19 
+are corticosteroids, especially dexamethasone, for the treatment of mechanically 
+ventilated COVID-19 patients. Other promising agents are remdesivir for the 
+treatment of patients with COVID-19 pneumonia requiring minimal supplemental 
+oxygen therapy, and IL-6 receptor antagonist monoclonal antibodies in severe 
+COVID-19. Lopinavir/ritonavir, as well as chloroquine or hydroxychloroquine with 
+or without azithromycin demonstrate the least efficacy in the treatment of 
+COVID-19. The clinical benefits of the treatment of a COVID-19-specific 
+coagulopathy with increased dosing of anticoagulation need further research and 
+confirmation of randomised controlled trials.
+CONCLUSION: The search for pharmacological treatment of COVID-19 has elicited 
+great controversy. Whereas drugs like chloroquine, hydroxychloroquine, and 
+lopinavir/ritonavir have not shown proven benefit, the agents remdesivir and 
+dexamethasone are recommended for clinical use for the treatment of COVID-19. 
+Further randomised trials for other pharmacological treatment strategies are 
+awaited.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12931-021-01885-8
+PMCID: PMC8626754
+PMID: 34838020 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+70. Med Hypotheses. 2021 Jan;146:110363. doi: 10.1016/j.mehy.2020.110363. Epub 2020 
+Nov 16.
+
+Hydrothermotherapy in prevention and treatment of mild to moderate cases of 
+COVID-19.
+
+Ramirez FE(1), Sanchez A(2), Pirskanen AT(3).
+
+Author information:
+(1)Weimar Institute, 20601 West Paoli Lane, Weimar, CA 95736, United States. 
+Electronic address: eramirez@weimar.edu.
+(2)Weimar Institute, 20601 West Paoli Lane, Weimar, CA 95736, United States.
+(3)Terveysprojekti Karpalo ry, Suonenjoki, Finland.
+
+COVID-19 is a new contagious disease caused by a new coronavirus known as severe 
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2). COVID-19 is a disease 
+that has reached every continent in the world; it has overloaded the medical 
+system worldwide and it has been declared a pandemic by the World Health 
+Organization. Currently there is no definite treatment for COVID-19. We realize 
+that host immunity is a critical factor in the outcome of coronavirus 2 
+infection. Here, however, we review the pathophysiology of the disease with a 
+focus on searching for what we can do to combat this new disease. From this, we 
+find that coronavirus is sensitive to heat. We have thus focused on this area of 
+vulnerability of the virus. The emphasis of this hypothesis is on the action of 
+body heat-internal (fever) and external (heat treatment)-in activating the 
+immune system and its antiviral activities, and specifically related to the 
+coronavirus. We hypothesize from this review that heat treatments has the 
+potential to prevent COVID-19 and to decrease the severity of mild and moderate 
+cases of Coronavirus. We propose heat treatments for this uncontrolled worldwide 
+coronavirus pandemic while studies are being done to test the effectiveness of 
+heat treatments in the prevention and treatment of COVID-19.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.mehy.2020.110363
+PMCID: PMC7668174
+PMID: 33303302 [Indexed for MEDLINE]
+
+
+71. In Vivo. 2021 Mar-Apr;35(2):1285-1294. doi: 10.21873/invivo.12380.
+
+The Experience of Greece as a Model to Contain COVID-19 Infection Spread.
+
+Delinasios GJ(1), Fragkou PC(2), Gkirmpa AM(3), Tsangaris G(3), Hoffman 
+RM(4)(5), Anagnostopoulos AK(1)(3).
+
+Author information:
+(1)International Institute of Anticancer Research, Kapandriti, Greece; 
+atanagnost@biocademy.gr george.delinasios@iiar-anticancer.org.
+(2)Fourth Department of Internal Medicine, Attikon University Hospital, National 
+and Kapodistrian University of Athens, Athens, Greece.
+(3)Biomedical Research Foundation of the Academy of Athens, Athens, Greece.
+(4)AntiCancer Inc., San Diego, CA, U.S.A.
+(5)Department of Surgery, University of San Diego, San Diego, CA, U.S.A.
+
+The severe acute respiratory syndrome corona virus 2 (SARS-CoV-2) emerged in 
+late 2019 and has caused a pandemic known as corona virus disease 2019 
+(COVID-19), responsible for the death of more than 2 million people worldwide. 
+The outbreak of COVID-19 has posed an unprecedented threat on human lives and 
+public safety. The aim of this review is to describe key aspects of the 
+bio-pathology of the novel disease, and discuss aspects of its spread, as well 
+as targeted protective strategies that can help shape the outcome of the present 
+and future health crises. Greece is used as a model to inhibit SARS-COV-2 
+spread, since it is one of the countries with the lowest fatality rates among 
+nations of the European Union (E.U.), following two consecutive waves of 
+COVID-19 pandemic. Furthermore, niche research technological approaches and 
+scientific recommendations that emerged during the COVID-19 era are discussed.
+
+Copyright© 2021, International Institute of Anticancer Research (Dr. George J. 
+Delinasios), All rights reserved.
+
+DOI: 10.21873/invivo.12380
+PMCID: PMC8045105
+PMID: 33622932 [Indexed for MEDLINE]
+
+Conflict of interest statement: The Authors declare that they have no conflicts 
+of interest.
+
+
+72. Microb Pathog. 2021 Jan;150:104673. doi: 10.1016/j.micpath.2020.104673. Epub 
+2020 Dec 2.
+
+The interplay between inflammatory pathways and COVID-19: A critical review on 
+pathogenesis and therapeutic options.
+
+Choudhary S(1), Sharma K(1), Silakari O(2).
+
+Author information:
+(1)Molecular Modeling Lab, Department of Pharmaceutical Sciences and Drug 
+Research, Punjabi University, Patiala, Punjab, 147002, India.
+(2)Molecular Modeling Lab, Department of Pharmaceutical Sciences and Drug 
+Research, Punjabi University, Patiala, Punjab, 147002, India. Electronic 
+address: omsilakari@gmail.com.
+
+COVID-19, caused by SARS-CoV-2, emerged as the deadliest outbreak that has now 
+become a serious health issue to mankind. Activation of inflammatory signaling 
+pathways and cytokine storm are crucial factors that lead to acute respiratory 
+distress syndrome (ARDS) in COVID-19 patients. Excessive secretion of 
+pro-inflammatory cytokines and chemokines leads to the dysregulation of the 
+innate immune system. The cytokine storm attracts many inflammatory cells that 
+infiltrate into the lung tissues and ultimately cause immune damage. In addition 
+to the dysregulation of the immune system, dysfunction of the renin-angiotensin 
+system (RAS) due to the downregulation of ACE2 is also associated with the 
+mortality of COVID-19 patients. Both the mechanisms are directly or indirectly 
+associated with cytokine storm that promotes vascular hyperpermeability, 
+vascular edema leading to hypercoagulation and hence multiorgan damage. As of 
+now, there is no specific treatment available for COVID-19, but scientists have 
+purposed several treatment options including cytokine inhibitors, JAK 
+inhibitors, immunomodulators, plasma therapy, etc. In this article, we have 
+provided the detailed mechanism of occurrence of SARS-CoV-2 induced inflammatory 
+storm and its connection with the pre-existing inflammatory conditions. Possible 
+treatment options to cope up with the severe clinical manifestations of COVID-19 
+are also discussed.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.micpath.2020.104673
+PMCID: PMC7709793
+PMID: 33278517 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+73. Hum Genomics. 2020 Dec 22;14(1):47. doi: 10.1186/s40246-020-00300-5.
+
+A rational approach to COVID-19.
+
+Mehrian-Shai R(1).
+
+Author information:
+(1)Department of Pediatric Hemato-Oncology, Sheba Medical Center, Ramat Gan, 
+Israel. Ruty.shai@sheba.health.gov.il.
+
+It is crucial to use the wealth of information emerging from the ongoing 
+SARS-CoV-2 pandemic and confront COVID-19 with a rational approach. There are 
+proactive steps to prevent and fight COVID-19. Management of the disease should 
+be according to clinical features and laboratory test markers and personalized 
+therapeutic targets.
+
+DOI: 10.1186/s40246-020-00300-5
+PMCID: PMC7753102
+PMID: 33353565 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+74. Brief Bioinform. 2022 Jan 17;23(1):bbab406. doi: 10.1093/bib/bbab406.
+
+Advances, challenges and opportunities of phylogenetic and social network 
+analysis using COVID-19 data.
+
+Wang Y(1), Zhao Y(1), Pan Q(2).
+
+Author information:
+(1)School of Mathematical and Natural Science, Arizona State University, 4701 W 
+Thunderbird Rd, 85306, Arizona, USA.
+(2)Department of Statistics, George Washington University, 801 22nd St. NW, 
+20052, Washington DC, USA.
+
+Coronavirus disease 2019 (COVID-19) has attracted research interests from all 
+fields. Phylogenetic and social network analyses based on connectivity between 
+either COVID-19 patients or geographic regions and similarity between syndrome 
+coronavirus 2 (SARS-CoV-2) sequences provide unique angles to answer public 
+health and pharmaco-biological questions such as relationships between various 
+SARS-CoV-2 mutants, the transmission pathways in a community and the 
+effectiveness of prevention policies. This paper serves as a systematic review 
+of current phylogenetic and social network analyses with applications in 
+COVID-19 research. Challenges in current phylogenetic network analysis on 
+SARS-CoV-2 such as unreliable inferences, sampling bias and batch effects are 
+discussed as well as potential solutions. Social network analysis combined with 
+epidemiology models helps to identify key transmission characteristics and 
+measure the effectiveness of prevention and control strategies. Finally, future 
+new directions of network analysis motivated by COVID-19 data are summarized.
+
+© The Author(s) 2021. Published by Oxford University Press. All rights reserved. 
+For Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/bib/bbab406
+PMID: 34601563 [Indexed for MEDLINE]
+
+
+75. Front Cell Infect Microbiol. 2020 Nov 2;10:576875. doi: 
+10.3389/fcimb.2020.576875. eCollection 2020.
+
+CRISPR-Cas System: An Approach With Potentials for COVID-19 Diagnosis and 
+Therapeutics.
+
+Kumar P(1), Malik YS(2)(3), Ganesh B(4), Rahangdale S(5)(6), Saurabh S(6), 
+Natesan S(7), Srivastava A(1), Sharun K(8), Yatoo MI(9), Tiwari R(10), Singh 
+RK(11), Dhama K(12).
+
+Author information:
+(1)Amity Institute of Virology and Immunology, Amity University, Noida, India.
+(2)Division of Biological Standardization, Indian Council of Agricultural 
+Research-Indian Veterinary Research Institute, Bareilly, India.
+(3)College of Animal Biotechnology, Guru Angad Dev Veterinary and Animal Science 
+University, Ludhiana, India.
+(4)Laboratory Division, Indian Council of Medical Research-National Institute of 
+Epidemiology, Ministry of Health & Family Welfare, Chennai, India.
+(5)Academy of Scientific and Innovative Research (AcSIR), CSIR-HRDC Campus, 
+Ghaziabad, India.
+(6)Plant Molecular Biology and Biotechnology Division, CSIR-National Botanical 
+Research Institute, Lucknow, India.
+(7)Indian Institute of Public Health Gandhinagar, Gandhinagar, India.
+(8)Division of Surgery, ICAR-Indian Veterinary Research Institute, Bareilly, 
+India.
+(9)Division of Veterinary Clinical Complex, Faculty of Veterinary Sciences and 
+Animal Husbandry, Sher-E-Kashmir University of Agricultural Sciences and 
+Technology of Kashmir, Srinagar, India.
+(10)Department of Veterinary Microbiology and Immunology, College of Veterinary 
+Sciences, UP Pandit Deen Dayal Upadhayay Pashu Chikitsa Vigyan Vishwavidyalay 
+Evum Go-Anusandhan Sansthan (DUVASU), Mathura, India.
+(11)Division of Veterinary Biotechnology, ICAR-Indian Veterinary Research 
+Institute, Bareilly, India.
+(12)Division of Pathology, ICAR-Indian Veterinary Research Institute, Bareilly, 
+India.
+
+Comment in
+    Lancet. 2021 Apr 10;397(10282):1346-1347. doi: 
+10.1016/S0140-6736(21)00470-0.
+
+COVID-19, the human coronavirus disease caused by SARS-CoV-2, was reported for 
+the first time in Wuhan, China in late 2019. COVID-19 has no preventive vaccine 
+or proven standard pharmacological treatment, and consequently, the outbreak 
+swiftly became a pandemic affecting more than 215 countries around the world. 
+For the diagnosis of COVID-19, the only reliable diagnostics is a qPCR assay. 
+Among other diagnostic tools, the CRISPR-Cas system is being investigated for 
+rapid and specific diagnosis of COVID-19. The CRISPR-Cas-based methods diagnose 
+the SARS-CoV-2 infections within an hour. Apart from its diagnostic 
+ability, CRISPR-Cas system is also being assessed for antiviral therapy 
+development; however, till date, no CRISPR-based therapy has been approved for 
+human use. The Prophylactic Antiviral CRISPR in huMAN cells (PAC-MAN), which is 
+Cas 13 based strategy, has been developed against coronavirus. Although this 
+strategy has the potential to be developed as a therapeutic modality, it may 
+face significant challenges for approval in human clinical trials. This review 
+is focused on describing potential use and challenges of CRISPR-Cas based 
+approaches for the development of rapid and accurate diagnostic technique and/or 
+a possible therapeutic alternative for combating COVID-19. The assessment of 
+potential risks associated with use of CRISPR will be important for future 
+clinical advancements.
+
+Copyright © 2020 Kumar, Malik, Ganesh, Rahangdale, Saurabh, Natesan, Srivastava, 
+Sharun, Yatoo, Tiwari, Singh and Dhama.
+
+DOI: 10.3389/fcimb.2020.576875
+PMCID: PMC7673385
+PMID: 33251158 [Indexed for MEDLINE]
+
+
+76. Tumori. 2021 Feb;107(1):6-11. doi: 10.1177/0300891620977916. Epub 2020 Dec 9.
+
+Lessons learned from COVID-19 for clinical research operations in Italy: what 
+have we learned and what can we apply in the future?
+
+Cagnazzo C(1), Besse MG(2), Manfellotto D(3), Minghetti P(4), Cazzaniga S(5), 
+Cottini L(6), Fontanella A(7), Maruti I(8), Stabile S(9), Testoni S(10), Trogu 
+P(11), Sinno V(12), Gussoni G(13).
+
+Author information:
+(1)Department of Public Health and Pediatrics, University of Turin, Turin, 
+Italy.
+(2)Medical Affairs, Servier Italia SpA, Rome, Italy.
+(3)Department of Internal Medicine, Hospital Fatebenefratelli-AFaR, Rome, Italy.
+(4)Department of Pharmaceutical Sciences, University of Milan, Milan, Italy.
+(5)Janssen-Cilag SpA, Milan, Italy.
+(6)High Research, Milan, Italy.
+(7)Department of Internal Medicine, Madonna del Buonconsiglio Fatebenefratelli 
+Hospital, Naples, Italy.
+(8)Roche SpA, Switzerland.
+(9)Oncology Department, Niguarda Cancer Center, Grande Ospedale Metropolitano 
+Niguarda, Milan, Italy.
+(10)Biostatistics and Clinical Trials Unit, Istituto Scientifico Romagnolo per 
+lo Studio e la Cura dei Tumori (IRST) IRCCS, Meldola (FC), Italy.
+(11)Bayer SpA, Milan, Italy.
+(12)Department of Medical Oncology, Fondazione IRCCS Istituto Nazionale dei 
+Tumori, Milan, Italy.
+(13)Clinical Research Department, "Centro Studi" FADOI, Milan, Italy.
+
+Erratum in
+    Tumori. 2021 Apr;107(2):176. doi: 10.1177/03008916211003365.
+
+The coronavirus disease 2019 (COVID-19) pandemic has stressed the importance of 
+health research as never before. In the specific domain of clinical research, 
+the effort to rapidly find responses to health challenges and therapeutic 
+hypotheses has highlighted the need for efficient, timely, ethically correct 
+research. The guidelines published by the Agenzia Italiana del Farmaco have 
+shown that some useful changes are feasible: simple and rapid methods have been 
+implemented to conduct clinical research in the emergency conditions of the 
+pandemic, maintaining high levels of quality. In this perspective, four Italian 
+scientific associations operating in clinical research have worked together to 
+evaluate which measures, among the ones implemented during the pandemic, have 
+been particularly significant and potentially effective under normal conditions 
+or in case of emergencies, and that therefore will be useful in the future as 
+well.
+
+DOI: 10.1177/0300891620977916
+PMCID: PMC7726625
+PMID: 33297885 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of conflicting interests: The 
+authors have no conflicts of interest to declare. As claimed explicitly in the 
+affiliations, some authors (M-G.B., S.C., I.M., P.T) are members of the 
+promoting Scientific Associations as well as employees in pharmaceutical 
+companies.
+
+
+77. Epigenomics. 2021 May;13(10):745-750. doi: 10.2217/epi-2021-0057. Epub 2021 Apr 
+20.
+
+Epigenomics in COVID-19; the link between DNA methylation, histone modifications 
+and SARS-CoV-2 infection.
+
+Shirvaliloo M(1)(2).
+
+Author information:
+(1)Student Research Committee, Tabriz University of Medical Sciences, 
+5166 Tabriz, Iran.
+(2)Faculty of Medicine, Tabriz University of Medical Sciences, 15731 Tabriz, 
+Iran.
+
+DOI: 10.2217/epi-2021-0057
+PMCID: PMC8074570
+PMID: 33876664 [Indexed for MEDLINE]
+
+
+78. Front Cell Infect Microbiol. 2020 Oct 28;10:560240. doi: 
+10.3389/fcimb.2020.560240. eCollection 2020.
+
+Systems Biology Approaches for Therapeutics Development Against COVID-19.
+
+Jaiswal S(1), Kumar M(2)(3), Mandeep(1), Sunita(1)(4), Singh Y(4), Shukla P(1).
+
+Author information:
+(1)Enzyme Technology and Protein Bioinformatics Laboratory, Department of 
+Microbiology, Maharshi Dayanand University, Rohtak, India.
+(2)Soil Microbial Ecology and Environmental Toxicology Laboratory, Department of 
+Zoology, University of Delhi, Delhi, India.
+(3)Department of Zoology, Hindu College, University of Delhi, Delhi, India.
+(4)Bacterial Pathogenesis Laboratory, Department of Zoology, University of 
+Delhi, Delhi, India.
+
+Understanding the systems biology approaches for promoting the development of 
+new therapeutic drugs is attaining importance nowadays. The threat of COVID-19 
+outbreak needs to be vanished for global welfare, and every section of research 
+is focusing on it. There is an opportunity for finding new, quick, and accurate 
+tools for developing treatment options, including the vaccine against COVID-19. 
+The review at this moment covers various aspects of pathogenesis and host 
+factors for exploring the virus target and developing suitable therapeutic 
+solutions through systems biology tools. Furthermore, this review also covers 
+the extensive details of multiomics tools i.e., transcriptomics, proteomics, 
+genomics, lipidomics, immunomics, and in silico computational modeling aiming 
+towards the study of host-virus interactions in search of therapeutic targets 
+against the COVID-19.
+
+Copyright © 2020 Jaiswal, Kumar, Mandeep, Sunita, Singh and Shukla.
+
+DOI: 10.3389/fcimb.2020.560240
+PMCID: PMC7655984
+PMID: 33194800 [Indexed for MEDLINE]
+
+
+79. Vet Med Sci. 2021 Mar;7(2):559-571. doi: 10.1002/vms3.394. Epub 2020 Nov 18.
+
+Evolutionary study of COVID-19, severe acute respiratory syndrome coronavirus 2 
+(SARS-CoV-2) as an emerging coronavirus: Phylogenetic analysis and literature 
+review.
+
+Tabibzadeh A(1), Esghaei M(1), Soltani S(2), Yousefi P(1), Taherizadeh M(3), 
+Safarnezhad Tameshkel F(4), Golahdooz M(3), Panahi M(4), Ajdarkosh H(4), Zamani 
+F(4), Karbalaie Niya MH(4).
+
+Author information:
+(1)Department of Virology, Faculty of Medicine, Iran University of Medical 
+Sciences, Tehran, Iran.
+(2)Department of Virology, Faculty of Public Health, Tehran University of 
+Medical Sciences, Tehran, Iran.
+(3)Department of Virology, Rabies Research Center, Pasteur Institute of Iran, 
+Tehran, Iran.
+(4)Gastrointestinal and Liver Diseases Research Center, Iran University of 
+Medical Sciences, Tehran, Iran.
+
+Since emerging coronaviruses have always become a human health concern globally 
+especially severe acute respiratory syndrome coronavirus 2 (SARS-CoV) and Middle 
+East respiratory syndrome coronavirus and a novel coronavirus was introduced in 
+Wuhan, China, in December 2019 (called SARS-CoV-2), many researchers focused on 
+its epidemics, virological and clinical features. SARS-CoV-2 is classified as 
+Betacoronaviruses genus and Sarbecovirus subgenus (lineage B). The virus shows a 
+great similarity with SARS-CoV and bat SARS-like coronaviruses. In this study, 
+we evaluate SARS-CoV-2 virus phylogeny and evolution by using current virus and 
+related sequences.
+
+© 2020 The Authors Veterinary Medicine and Science Published by John Wiley & 
+Sons Ltd.
+
+DOI: 10.1002/vms3.394
+PMCID: PMC7753621
+PMID: 33210477 [Indexed for MEDLINE]
+
+Conflict of interest statement: None declared.
+
+
+80. Chemotherapy. 2021;66(1-2):17-23. doi: 10.1159/000515343. Epub 2021 Mar 19.
+
+SARS-CoV-2 Infection and the COVID-19 Pandemic Emergency: The Importance of 
+Diagnostic Methods.
+
+Ciotti M(1), Benedetti F(2), Zella D(2), Angeletti S(3), Ciccozzi M(4), 
+Bernardini S(5)(6).
+
+Author information:
+(1)Virology Unit, Laboratory of Clinical Microbiology and Virology, Polyclinic 
+Tor Vergata Foundation, Rome, Italy, marco.ciotti@ptvonline.it.
+(2)Department of Biochemistry and Molecular Biology, Institute of Human 
+Virology, University of Maryland School of Medicine, Baltimore, Maryland, USA.
+(3)Unit of Clinical Laboratory Science, University Campus Bio-Medico of Rome, 
+Rome, Italy.
+(4)Unit of Medical Statistics and Molecular Epidemiology, University Campus 
+Bio-Medico of Rome, Rome, Italy.
+(5)Department of Experimental Medicine, University of Rome Tor Vergata, Rome, 
+Italy.
+(6)Department of Laboratory Medicine, Polyclinic Tor Vergata Foundation, Rome, 
+Italy.
+
+BACKGROUND: Currently, a pandemic of coronavirus disease 2019 (COVID-19) caused 
+by the novel coronavirus severe acute respiratory syndrome coronavirus 2 
+(SARS-CoV-2) is underway, resulting in high morbidity and mortality across the 
+globe.
+SUMMARY: A prompt and effective diagnosis is crucial to identify infected 
+individuals, to monitor the infection, to perform contact tracing, and to limit 
+the spread of the virus. Since the announcement of this public health emergency, 
+several diagnostic methods have been developed including molecular and 
+serological assays, and more recently biosensors. Here, we present the use of 
+these assays as well as their main technical features, advantages, and limits. 
+Key Messages: The development of reliable diagnostic assays is crucial not only 
+for a correct diagnosis and containment of COVID-19 pandemic, but also for the 
+decision-making process that is behind the clinical decisions, eventually 
+contributing to the improvement of patient management. Furthermore, with the 
+advent of vaccine and therapeutic monoclonal antibodies against SARS-CoV-2, 
+serological assays will be instrumental for the validation of these new 
+therapeutic options.
+
+© 2021 S. Karger AG, Basel.
+
+DOI: 10.1159/000515343
+PMCID: PMC8089410
+PMID: 33744904 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare.
+
+
+81. Horm Mol Biol Clin Investig. 2021 Jul 30;42(4):425-428. doi: 
+10.1515/hmbci-2021-0006.
+
+COVID-19 transmission: a positive perspective.
+
+Sakarde A(1), Takhelmayum R(1), Garg S(2), Kushwaha AS(3).
+
+Author information:
+(1)Department of Biochemistry, AIIMS Nagpur, Nagpur, Maharashtra, India.
+(2)Department of Biochemistry, University College of Medical Sciences, Delhi, 
+India.
+(3)Department of Community Medicine, AIIMS Nagpur, Nagpur, Maharashtra, India.
+
+OBJECTIVES: To understand the dynamics of infectivity of COVID-19 and allay the 
+fear and anxiety associated with it in healthcare workers and the society.
+CASE PRESENTATION: Three individuals accompanied their pediatric patients in the 
+COVID ward but did not develop infection. Information about their knowledge and 
+perspective about the disease and the protective measures undertaken by them 
+during their stay in the hospital was gathered by administering a questionnaire 
+14 days after discharge.
+CONCLUSIONS: It was observed that use of proper precautionary measures like 
+wearing a mask and regular hand sanitization helped in prevention from COVID-19 
+infection even after having close contact with confirmed cases. Such 
+facts/observation will help in sensitizing the public about COVID-19 and 
+eliminate panic in the society.
+
+© 2021 Walter de Gruyter GmbH, Berlin/Boston.
+
+DOI: 10.1515/hmbci-2021-0006
+PMID: 34331846 [Indexed for MEDLINE]
+
+
+82. Cancer Invest. 2021 Jan;39(1):1-2. doi: 10.1080/07357907.2020.1847383. Epub 2020 
+Nov 11.
+
+Emotional Burden Associated with COVID-19: Trust and Communication in Cancer 
+Care.
+
+Bergerot CD(1), Philip EJ(2).
+
+Author information:
+(1)Centro de Câncer de Brasília (CETTRO), Instituto Unity de Ensino e Pesquisa, 
+Brasília, Brazil.
+(2)University of California San Francisco, San Francisco, CA, USA.
+
+Erratum in
+    Cancer Invest. 2021 Apr;39(4):I. doi: 10.1080/07357907.2021.1893509.
+
+DOI: 10.1080/07357907.2020.1847383
+PMID: 33148064 [Indexed for MEDLINE]
+
+
+83. Nature. 2022 Nov;611(7935):213-214. doi: 10.1038/d41586-022-03445-6.
+
+COVID 'variant soup' is making winter surges hard to predict.
+
+Callaway E.
+
+DOI: 10.1038/d41586-022-03445-6
+PMID: 36307585 [Indexed for MEDLINE]
+
+
+84. Bioorg Chem. 2021 Sep;114:105016. doi: 10.1016/j.bioorg.2021.105016. Epub 2021 
+May 25.
+
+Potential drug development and therapeutic approaches for clinical intervention 
+in COVID-19.
+
+Dowarah J(1), Marak BN(1), Yadav UCS(2), Singh VP(3).
+
+Author information:
+(1)Department of Chemistry, School of Physical Sciences, Mizoram University, 
+Aizawl 796004, Mizoram, India.
+(2)Special Centre for Molecular Medicine, JNU, New Delhi 110067, India.
+(3)Department of Chemistry, School of Physical Sciences, Mizoram University, 
+Aizawl 796004, Mizoram, India; Department of Industrial Chemistry, School of 
+Physical Sciences, Mizoram University, Aizawl 796004, Mizoram, India. Electronic 
+address: vpsingh@mzu.edu.in.
+
+While the vaccination is now available to many countries and will slowly 
+dissipate to others, effective therapeutics for COVID-19 is still illusive. The 
+SARS-CoV-2 pandemic has posed an unprecedented challenge to researchers, 
+scientists, and clinicians and affected the wellbeing of millions of people 
+worldwide. Since the beginning of the pandemic, a multitude of existing 
+anti-viral, antibiotic, antimalarial, and anticancer drugs have been tested, and 
+some have shown potency in the treatment and management of COVID-19, albeit 
+others failed to leave any positive impact and a few also became controversial 
+as they showed mixed clinical outcomes. In the present article, we have brought 
+together some of the candidate therapeutic drugs being repurposed or used in the 
+clinical trials and discussed their clinical efficacy and safety for COVID-19.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bioorg.2021.105016
+PMCID: PMC8143914
+PMID: 34144277 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+85. Biochim Biophys Acta Rev Cancer. 2020 Dec;1874(2):188412. doi: 
+10.1016/j.bbcan.2020.188412. Epub 2020 Aug 20.
+
+COVID-19 and cancer: A guide with suggested COVID-19 rule-out criteria to 
+support clinical decision-making.
+
+Larson C(1), Oronsky B(2), Goyal S(3), Ray C(4), Hedjran F(1), Hammond TC(5), 
+Kesari S(5), Caroen S(1), Lybeck M(1), Dobalian VE(6), Oronsky A(7), Reid T(1).
+
+Author information:
+(1)EpicentRx, Inc., La Jolla, CA, USA.
+(2)EpicentRx, Inc., La Jolla, CA, USA. Electronic address: 
+boronsky@epicentrx.com.
+(3)George Washington University, Washington, DC, USA.
+(4)St. Francis Hospital and Medical Center, Hartford, CT, USA.
+(5)John Wayne Cancer Institute at Providence St. John's Health, Santa Monica, 
+CA, USA.
+(6)Beaches Pediatric Endocrinology, Jacksonville, FL, USA.
+(7)InterWest Partners, Menlo Park, CA, USA.
+
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a highly 
+contagious zoonotic pathogen that has exacted heavy public health, social and 
+economic tolls. In February 2020, the World Health Organization acronymed the 
+disease caused by SARS-CoV-2 as COVID-19, for coronavirus disease 2019. The 
+number of confirmed COVID-19 infections, which has been detected in at least 103 
+countries, has reached 1,970,225 worldwide as of April 14, 2020 with 124,544 
+deaths, according to the U.S. Centers for Disease Control and Prevention (CDC). 
+Many cases of COVID-19 resolve quickly. However, the disease, which, like other 
+respiratory pathogens that cause common cold symptoms is believed to be 
+transmitted through respiratory droplets. Infection with COVID-19 can also lead 
+to significant morbidity and death; this is particularly the case for cancer 
+patients. Moreover, because the signs and symptoms of COVID-19 are easily 
+misattributed to the sequelae of cancer itself, such as pulmonary embolism, or 
+its treatment, such as nausea and diarrhea, diagnosis may be delayed or missed. 
+Potential COVID-19 rule out criteria, based on the Wells' criteria for pulmonary 
+embolism, another protean disease entity, are provided as a decision-making aid. 
+This review summarizes the current understanding of the transmission, clinical 
+presentation, diagnosis and differential diagnosis, pathogenesis, rationale to 
+treat the cancer or not, treatment and prevention of COVID-19 with an emphasis 
+on implications in cancer.
+
+Copyright © 2020 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbcan.2020.188412
+PMCID: PMC7438345
+PMID: 32827582 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+86. PLoS One. 2022 Feb 24;17(2):e0264198. doi: 10.1371/journal.pone.0264198. 
+eCollection 2022.
+
+Forecasting emergence of COVID-19 variants of concern.
+
+Miller JK(1), Elenberg K(2), Dubrawski A(1).
+
+Author information:
+(1)Auton Systems LLC, Pittsburgh, PA, United States of America.
+(2)United States Department of Defense Covid Task Force, Washington, DC, United 
+States of America.
+
+We consider whether one can forecast the emergence of variants of concern in the 
+SARS-CoV-2 outbreak and similar pandemics. We explore methods of population 
+genetics and identify key relevant principles in both deterministic and 
+stochastic models of spread of infectious disease. Finally, we demonstrate that 
+fitness variation, defined as a trait for which an increase in its value is 
+associated with an increase in net Darwinian fitness if the value of other 
+traits are held constant, is a strong indicator of imminent transition in the 
+viral population.
+
+DOI: 10.1371/journal.pone.0264198
+PMCID: PMC8870573
+PMID: 35202422 [Indexed for MEDLINE]
+
+Conflict of interest statement: Commercial affiliation of authors KM and AD with 
+Auton Systems LLC does not alter our adherence to all PLOS ONE policies on 
+sharing data and materials.
+
+
+87. Brief Bioinform. 2022 Jan 17;23(1):bbab455. doi: 10.1093/bib/bbab455.
+
+Integrative COVID-19 biological network inference with probabilistic core 
+decomposition.
+
+Guo Y(1), Esfahani F(2), Shao X(3), Srinivasan V(2), Thomo A(2), Xing L(4), 
+Zhang X(1).
+
+Author information:
+(1)Department of Mathematics and Statistics, University of Victoria, 3800 
+Finnerty Road, V8P 5C2, Victoria, BC, Canada.
+(2)Department of Computer Science, University of Victoria, 3800 Finnerty Road, 
+V8P 5C2, Victoria, BC, Canada.
+(3)Digital Technologies Research Centre, National Research Council Canada, 1200 
+Montreal Road, K1A 0R6, Ottawa, ON, Canada.
+(4)Department of Mathematics and Statistics, University of Saskatchewan, 110 
+Science Place, S7N 5A2, Saskatoon, SK, Canada.
+
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is responsible 
+for millions of deaths around the world. To help contribute to the understanding 
+of crucial knowledge and to further generate new hypotheses relevant to 
+SARS-CoV-2 and human protein interactions, we make use of the information 
+abundant Biomine probabilistic database and extend the experimentally identified 
+SARS-CoV-2-human protein-protein interaction (PPI) network in silico. We 
+generate an extended network by integrating information from the Biomine 
+database, the PPI network and other experimentally validated results. To 
+generate novel hypotheses, we focus on the high-connectivity sub-communities 
+that overlap most with the integrated experimentally validated results in the 
+extended network. Therefore, we propose a new data analysis pipeline that can 
+efficiently compute core decomposition on the extended network and identify 
+dense subgraphs. We then evaluate the identified dense subgraph and the 
+generated hypotheses in three contexts: literature validation for uncovered 
+virus targeting genes and proteins, gene function enrichment analysis on 
+subgraphs and literature support on drug repurposing for identified tissues and 
+diseases related to COVID-19. The major types of the generated hypotheses are 
+proteins with their encoding genes and we rank them by sorting their connections 
+to the integrated experimentally validated nodes. In addition, we compile a 
+comprehensive list of novel genes, and proteins potentially related to COVID-19, 
+as well as novel diseases which might be comorbidities. Together with the 
+generated hypotheses, our results provide novel knowledge relevant to COVID-19 
+for further validation.
+
+© The Author(s) 2021. Published by Oxford University Press. All rights reserved. 
+For Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/bib/bbab455
+PMCID: PMC8689992
+PMID: 34791019 [Indexed for MEDLINE]
+
+
+88. J Cancer Res Clin Oncol. 2021 Sep;147(9):2621-2624. doi: 
+10.1007/s00432-021-03707-2. Epub 2021 Jul 5.
+
+Effectiveness of low-dose radiation therapy to improve mortality of COVID-19.
+
+Ghaznavi H(1).
+
+Author information:
+(1)Department of Radiology, Faculty of Paramedical Sciences, Kurdistan 
+University of Medical Sciences, Sanandaj, Iran. hamid.ghaznavi@muk.ac.ir.
+
+INTRODUCTION: Performing low-dose radiation therapy (LDRT) is a new approach to 
+treat pneumonia resulting from COVID-19 disease. This paper aims to evaluate the 
+effectiveness of LDRT in treating COVID-19 patients.
+METHODS: Medline was searched for "low-dose" and "radiation therapy" and 
+"COVID-19" and "pneumonia" and "inflammation", to retrieve papers that published 
+on low-dose radiation therapy to improve mortality of COVID-19 patients. Only 
+clinical investigations that included original and case report papers were 
+selected for this paper.
+RESULTS: The completed clinical trials that have performed LDRT to treat 
+COVID-19 showed that the effectiveness of LDRT in treating COVID-19 was up to 
+90%.
+CONCLUSION: The vast majority of primary and secondary outcomes of clinical 
+trial investigations regarding LDRT in treating COVID-19 found that LDRT can be 
+considered a feasible treatment to improve mortality of COVID-19 patients.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00432-021-03707-2
+PMCID: PMC8255161
+PMID: 34219180 [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declare that they have no conflict of 
+interest.
+
+
+89. FEBS Lett. 2021 Dec;595(23):2847-2853. doi: 10.1002/1873-3468.14226. Epub 2021 
+Nov 16.
+
+Two years into COVID-19 - Lessons in SARS-CoV-2 and a perspective from papers in 
+FEBS Letters.
+
+Greber UF(1).
+
+Author information:
+(1)Department of Molecular Life Sciences, University of Zürich, Switzerland.
+
+The 2019 outbreak of coronavirus disease (COVID-19) in Wuhan (Hubei province of 
+China) has given rise to a pandemic spread of virus, more than 240 million 
+incidences and a death toll larger than 5 million people. COVID-19 has set off 
+large efforts in research, therapy and patient care, as well as public and 
+private debates in every imaginable form. A number of scientists used the 
+publication platforms provided by the Federation of the European Biochemical 
+Societies (FEBS) to present their research data, reviews, opinions and other 
+contributions relating to COVID-19 and severe acute respiratory syndrome 
+coronavirus 2 (SARS-CoV-2). Here, I highlight the recent COVID-19 papers which 
+have been published and collected in a Virtual Issue in FEBS Letters, and 
+discuss their implications towards understanding the molecular, biochemical and 
+cellular mechanisms of SARS-CoV-2 infections, vaccine development and antiviral 
+discovery strategies.
+
+© 2021 The Author. FEBS Letters published by John Wiley & Sons Ltd on behalf of 
+Federation of European Biochemical Societies.
+
+DOI: 10.1002/1873-3468.14226
+PMCID: PMC8652506
+PMID: 34787897 [Indexed for MEDLINE]
+
+
+90. Biomed Pharmacother. 2021 Oct;142:112023. doi: 10.1016/j.biopha.2021.112023. 
+Epub 2021 Aug 10.
+
+Repurposing methylene blue in the management of COVID-19: Mechanistic aspects 
+and clinical investigations.
+
+Dabholkar N(1), Gorantla S(1), Dubey SK(2), Alexander A(3), Taliyan R(1), 
+Singhvi G(4).
+
+Author information:
+(1)Industrial Research Laboratory, Department of Pharmacy, Birla Institute of 
+Technology and Science (BITS), Pilani, Pilani Campus, Rajasthan, India.
+(2)Medical Research, R&D Healthcare Division, Emami Ltd, Kolkata, India.
+(3)Department of Pharmaceutics, National Institute of Pharmaceutical Education 
+and Research (NIPER), Guwahati, Assam 781101, India.
+(4)Industrial Research Laboratory, Department of Pharmacy, Birla Institute of 
+Technology and Science (BITS), Pilani, Pilani Campus, Rajasthan, India. 
+Electronic address: gautam.singhvi@pilani.bits-pilani.ac.in.
+
+The severe acute respiratory syndrome-coronavirus 2 (SARS-CoV-2) is the most 
+recent coronaviruses, which has infected humans, and caused the disease 
+COVID-19. The World Health Organization has declared COVID-19 as a pandemic in 
+March 2020. The SARS-CoV-2 enters human hosts majorly via the respiratory tract, 
+affecting the lungs first. In few critical cases, the infection progresses to 
+failure of the respiratory system known as acute respiratory distress syndrome 
+acute respiratory distress syndrome may be further associated with multi-organ 
+failure and vasoplegic shock. Currently, the treatment of COVID-19 involves use 
+of antiviral and anti-cytokine drugs. However, both the drugs have low efficacy 
+because they cannot inhibit the production of free radicals and cytokines at the 
+same time. Recently, some researchers have reported the use of methylene blue 
+(MB) in COVID-19 management. MB has been used since a long time as a therapeutic 
+agent, and has been approved by the US FDA for the treatment of other diseases. 
+The additional advantage of MB is its low cost. MB is a safe drug when used in 
+the dose of < 2 mg/kg. In this review, the applicability of MB in COVID-19 and 
+its mechanistic aspects have been explored and compiled. The clinical studies 
+have been explained in great detail. Thus, the potential of MB in the management 
+of COVID-19 has been examined.
+
+Copyright © 2021. Published by Elsevier Masson SAS.
+
+DOI: 10.1016/j.biopha.2021.112023
+PMCID: PMC8352658
+PMID: 34399199 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors declare no conflict of interest.
+
+
+91. Biomed Pharmacother. 2021 Nov;143:112158. doi: 10.1016/j.biopha.2021.112158. 
+Epub 2021 Sep 4.
+
+A mini-review on the impact of COVID 19 on vital organs.
+
+Shah MD(1), Sumeh AS(2), Sheraz M(3), Kavitha MS(4), Venmathi Maran BA(5), 
+Rodrigues KF(6).
+
+Author information:
+(1)Borneo Marine Research Institute, Universiti Malaysia Sabah, Jalan UMS, 88400 
+Kota Kinabalu, Sabah, Malaysia. Electronic address: dawoodshah@ums.edu.my.
+(2)Penampang Health Clinic, Kampung Tuavon, 89500 Penampang, Sabah, Malaysia.
+(3)Arbutus Biopharma Inc, 701 Veterans Circle, Warminster, PA 18974, USA.
+(4)School of Information and Data Sciences, Nagasaki University, Bunkyo-machi 
+1-14, Nagasaki 852-8521, Japan. Electronic address: kavitha@nagasaki-u.ac.jp.
+(5)Borneo Marine Research Institute, Universiti Malaysia Sabah, Jalan UMS, 88400 
+Kota Kinabalu, Sabah, Malaysia. Electronic address: bavmaran@ums.edu.my.
+(6)Biotechnology Research Institute, Universiti Malaysia Sabah, Jalan UMS, 88400 
+Kota Kinabalu, Sabah, Malaysia. Electronic address: kennethr@ums.edu.my.
+
+COVID-19 (Corona Virus Disease-2019) is an infectious disease caused by a novel 
+coronavirus, known as the acute respiratory syndrome coronavirus 2 (SARS-CoV-2). 
+This is a highly contagious disease that has already affected more than 220 
+countries globally, infecting more than 212 million people and resulting in the 
+death of over 4.4 million people. This review aims to highlight the pertinent 
+documentary evidence upon the adverse effects of the SARS-CoV-2 infection on 
+several vital human organs. SARS-CoV-2 primarily targets the lung tissue by 
+causing diffuse alveolar damage and may result in Acute Respiratory Distress 
+Syndrome (ARDS). SARS-CoV-2 infects the cell via cell surface receptor, 
+angiotensin-converting enzyme 2 (ACE2). Besides lungs, SARS-CoV-2 critically 
+damage tissues in other vital human organs such as the heart, kidney, liver, 
+brain, and gastrointestinal tract. The effect on the heart includes muscle 
+dysfunction (acute or protracted heart failure), myocarditis, and cell necrosis. 
+Within hepatic tissue, it alters serum aminotransferase, total bilirubin, and 
+gamma-glutamyl transferase levels. It contributes to acute kidney injury (AKI). 
+Localized infection of the brain can lead to loss or attenuation of olfaction, 
+muscular pain, headaches, encephalopathy, dizziness, dysgeusia, psychomotor 
+disorders, and stroke; while the gastrointestinal symptoms include the 
+disruption of the normal intestinal mucosa, leading to diarrhea and abdominal 
+pain. This review encompassed a topical streak of systemic malfunctions caused 
+by the SARS-CoV-2 infection. As the pandemic is still in progress, more studies 
+will enrich our understanding and analysis of this disease.
+
+Copyright © 2021 The Authors. Published by Elsevier Masson SAS.. All rights 
+reserved.
+
+DOI: 10.1016/j.biopha.2021.112158
+PMCID: PMC8416601
+PMID: 34507116 [Indexed for MEDLINE]
+
+
+92. Annu Rev Biophys. 2021 May 6;50:493-523. doi: 
+10.1146/annurev-biophys-102620-080956.
+
+The Contribution of Biophysics and Structural Biology to Current Advances in 
+COVID-19.
+
+Barrantes FJ(1).
+
+Author information:
+(1)Biomedical Research Institute (BIOMED), Catholic University of Argentina 
+(UCA)-National Scientific and Technical Research Council, Argentina (CONICET), 
+C1107AFF Buenos Aires, Argentina; email: francisco_barrantes@uca.edu.ar.
+
+Critical to viral infection are the multiple interactions between viral proteins 
+and host-cell counterparts. The first such interaction is the recognition of 
+viral envelope proteins by surface receptors that normally fulfil other 
+physiological roles, a hijacking mechanism perfected over the course of 
+evolution. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the 
+etiological agent of coronavirus disease 2019 (COVID-19), has successfully 
+adopted this strategy using its spike glycoprotein to dock on the membrane-bound 
+metalloprotease angiotensin-converting enzyme 2 (ACE2). The crystal structures 
+of several SARS-CoV-2 proteins alone or in complex with their receptors or other 
+ligands were recently solved at an unprecedented pace. This accomplishment is 
+partly due to the increasing availability of data on other coronaviruses and 
+ACE2 over the past 18 years. Likewise, other key intervening actors and 
+mechanisms of viral infection were elucidated with the aid of biophysical 
+approaches. An understanding of the various structurally important motifs of the 
+interacting partners provides key mechanistic information for the development of 
+structure-based designer drugs able to inhibit various steps of the infective 
+cycle, including neutralizing antibodies, small organic drugs, and vaccines. 
+This review analyzes current progress and the outlook for future structural 
+studies.
+
+DOI: 10.1146/annurev-biophys-102620-080956
+PMID: 33957057 [Indexed for MEDLINE]
+
+
+93. Signal Transduct Target Ther. 2021 Jun 9;6(1):226. doi: 
+10.1038/s41392-021-00644-x.
+
+Fast-spreading SARS-CoV-2 variants: challenges to and new design strategies of 
+COVID-19 vaccines.
+
+Zhou W(1), Wang W(2).
+
+Author information:
+(1)State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, 
+Sichuan University, and Collaborative Innovation Center for Biotherapy, Chengdu, 
+PR China.
+(2)State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, 
+Sichuan University, and Collaborative Innovation Center for Biotherapy, Chengdu, 
+PR China. weiwang@scu.edu.cn.
+
+DOI: 10.1038/s41392-021-00644-x
+PMCID: PMC8187888
+PMID: 34108440 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+94. Int J Biol Sci. 2021 Apr 10;17(6):1600-1612. doi: 10.7150/ijbs.58906. 
+eCollection 2021.
+
+From impossible to possible: the lessons from the control of recent COVID-19 
+outbreaks in China.
+
+Tai L(1)(2), Wong K(1)(2), Wang L(1)(3), Di LJ(1)(2).
+
+Author information:
+(1)Cancer center, Faculty of health sciences, University of Macau.
+(2)Institute of translational medicine, Faculty of health sciences, University 
+of Macau.
+(3)Metabolomics core, Faculty of health sciences, University of Macau.
+
+The COVID-19 pandemic has catastrophically impacted the world. Before the 
+success in vaccination, this virus shows no sign of stop spreading. Nearly all 
+the countries have implemented stringent approaches to slow down the 
+transmission of the virus, but the virus still caused over 2 million deaths and 
+the number is increasing. Therefore, preventing the virus spreading is still 
+necessary to protect most people, especially the ones with pre-conditions. 
+Mainland China has successfully eradicated the COVID-19 virus infection in Wuhan 
+in 2020. After that, several small-scale outbreaks occurred in many cities in 
+China, but none of these COVID-19 virus infections caused the widespread. In 
+this review, we would like to give a detailed presentation of the approaches 
+that were implemented by the China government to suppress the virus spreading by 
+considering the unique characteristics of this virus and the paths of the virus 
+transmission. Both the pros and cons of these strategies will also be analyzed. 
+The experiences and lessons learned during the virus-fighting in China, 
+expectedly, will be a useful source of reference for other regions in overcoming 
+the threat caused by the COVID-19 virus.
+
+© The author(s).
+
+DOI: 10.7150/ijbs.58906
+PMCID: PMC8071760
+PMID: 33907524 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interest exists.
+
+
+95. Nature. 2021 Apr;592(7855):500-501. doi: 10.1038/d41586-021-00996-y.
+
+India's COVID-vaccine woes - by the numbers.
+
+Padma TV.
+
+DOI: 10.1038/d41586-021-00996-y
+PMID: 33854229 [Indexed for MEDLINE]
+
+
+96. Biomed Pharmacother. 2021 May;137:111300. doi: 10.1016/j.biopha.2021.111300. 
+Epub 2021 Jan 28.
+
+Stem cell therapy in COVID-19: Pooled evidence from SARS-CoV-2, SARS-CoV, 
+MERS-CoV and ARDS: A systematic review.
+
+Mahendiratta S(1), Bansal S(2), Sarma P(3), Kumar H(4), Choudhary G(5), Kumar 
+S(6), Prakash A(7), Sehgal R(8), Medhi B(9).
+
+Author information:
+(1)Department of Pharmacology, Postgraduate Institute of Medical Education and 
+Research, Chandigarh, India. Electronic address: 
+saniya.mahendiratta88@gmail.com.
+(2)Post Graduate Institute of Medical Education and Research, Chandigarh, India. 
+Electronic address: 2006.seema@gmail.com.
+(3)Department of Pharmacology, Postgraduate Institute of Medical Education and 
+Research, Chandigarh, India. Electronic address: phulen10@gmail.com.
+(4)Department of Pharmacology, Postgraduate Institute of Medical Education and 
+Research, Chandigarh, India. Electronic address: hkumar98@gmail.com.
+(5)Department of Pharmacology, Postgraduate Institute of Medical Education and 
+Research, Chandigarh, India. Electronic address: gajendra809@gmail.com.
+(6)PGIMER, Chandigarh, India. Electronic address: subodhbiotech@gmail.com.
+(7)Department of Pharmacology, Postgraduate Institute of Medical Education and 
+Research, Chandigarh, India. Electronic address: ajayprakashpgi@gmail.com.
+(8)Dept. of Parasitology, Postgraduate Institute of Medical Education and 
+Research, Chandigarh, India. Electronic address: sehgalpgi@gmail.com.
+(9)Department of Pharmacology, Postgraduate Institute of Medical Education and 
+Research, Chandigarh, India. Electronic address: drbikashus@yahoo.com.
+
+BACKGROUND: SARS-CoV-2, which majorly affects the lungs and respiratory tract is 
+thought due to dysregulation of the immune system which causes an immense 
+imbalance of the cytokines. However, till now no standard treatment has been 
+developed in treating the disease. On the other hand, it becomes important to 
+prevent the acute respiratory tract infection due to COVID-19 which is the most 
+dangerous phase leading to increased mortality. Hence this systematic review has 
+been framed by pooling the available data of the use of stem cells in 
+SARS-CoV-2, SARS-CoV, MERS-CoV and ARDS.
+METHODS: 6 literature databases (PubMed, EMBASE, Scopus, Google Scholar, 
+Clinicaltrials.gov, and Clinical trial registry of India) were searched for 
+relevant studies till 10th August 2020 using keywords stem cells, mesenchymal 
+stem cells, cell therapy, SARS CoV-2, SARS Coronavirus, Coronavirus 2, COVID-19, 
+nCoV-19, Novel Coronavirus, MERS CoV, ARDS, acute respiratory distress syndrome.
+RESULTS: The observations of this systematic review suggest capability of MSCs 
+in reducing the systemic inflammation and protecting against SARS-CoV-2 as 
+evidenced by the available clinical data.
+CONCLUSION: MSCs can overcome the clinical challenges currently faced by 
+SARS-CoV-2 infected patients, specifically who are seriously ill and not 
+responding to conventional therapies. Though the available clinical data is 
+motivating, still predicting the therapeutic potential of MSCs will be too early 
+in COVID-19. Hence, further studies in a larger cohort of patients becomes a 
+prerequisite to validate their potential efficacy.
+
+Copyright © 2021. Published by Elsevier Masson SAS.
+
+DOI: 10.1016/j.biopha.2021.111300
+PMCID: PMC7843034
+PMID: 33529945 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.
+
+
+97. Curr Mol Med. 2021;21(6):441-456. doi: 10.2174/1566524020999201117120147.
+
+Addressing the Importance of Stem Cell-Based Therapy: A Perspective in the 
+Treatment of COVID-19.
+
+Ibrahim C(1), Semaan H(1), El-Sabban M(2), Najjar F(3), Hamade A(3).
+
+Author information:
+(1)Laboratoire d'Innovation Therapeutique, "Stem cell, Organogenesis and 
+Regenerative Medicine" Master Program, Lebanese University, Faculty of Sciences, 
+Beirut, Lebanon.
+(2)Department of Anatomy, Cell Biology and Physiological Sciences, Faculty of 
+Medicine, American University of Beirut, Beirut, Lebanon.
+(3)Laboratoire d'Innovation Thérapeutique, Departments of Biology, Chemistry and 
+Biochemistry, Lebanese University, Faculty of Sciences II, Fanar, Lebanon.
+
+Severe acute respiratory syndrome-associated coronavirus 2 (SARS-CoV-2) is an 
+extremely pathogenic virus belonging to the family of Coronaviridae. First 
+identified in Wuhan, China in December 2019 after an epidemiological 
+investigation of an emerging cluster of pneumonia of unknown etiology, 
+SARS-CoV-2 was declared the cause of a pandemic on March 11 by the World Health 
+Organization (WHO), pointing to the over 118000 cases of Coronavirus disease 
+2019 (COVID-19) in over 110 countries. Despite the promising results of drug 
+repositioning studies in the treatment of COVID-19, the evidence of their safety 
+and efficacy remains inconclusive. Cell based therapy has been proven safe and 
+possibly effective in treating multiple lung injuries and diseases, but its 
+potential use in the treatment of COVID-19 has not been yet elucidated. Our aim 
+in this review is to provide an overview of the immunomodulatory effect and the 
+regenerative capacity of stem cells and their secretome in the treatment of many 
+diseases including lung injuries. Those findings may contribute to a better 
+understanding of the potential of stem cell therapy in SARS-CoV-2 infection and 
+its potential use in order to find a solution for this healthcare crisis.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1566524020999201117120147
+PMID: 33208076 [Indexed for MEDLINE]
+
+
+98. Mol Cell Biochem. 2021 Nov;476(11):3987-4002. doi: 10.1007/s11010-021-04217-y. 
+Epub 2021 Jun 30.
+
+A brief molecular insight of COVID-19: epidemiology, clinical manifestation, 
+molecular mechanism, cellular tropism and immuno-pathogenesis.
+
+Singh S(1), Pandey R(1), Tomar S(1), Varshney R(2), Sharma D(1)(3), Gangenahalli 
+G(4).
+
+Author information:
+(1)Division of Stem Cell and Gene Therapy, Institute of Nuclear Medicine and 
+Allied Sciences, Brig. S. K. Mazumdar Road, Delhi, 110054, India.
+(2)Division of Cyclotron and Radiopharmaceutical Sciences, Institute of Nuclear 
+Medicine and Allied Sciences, Brig. S. K. Mazumdar Road, Delhi, 110054, India.
+(3)Meerut Institute of Engineering and Technology, Meerut, India.
+(4)Division of Stem Cell and Gene Therapy, Institute of Nuclear Medicine and 
+Allied Sciences, Brig. S. K. Mazumdar Road, Delhi, 110054, India. 
+gurudutta.inmas@gmail.com.
+
+In December 2019, the emergence and expansion of novel and infectious 
+respiratory virus SARS-CoV-2 originated from Wuhan, China caused an 
+unprecedented threat to the public health and became a global pandemic. 
+SARS-CoV-2 is an enveloped, positive sense and single stranded RNA virus 
+belonging to genera betacoronavirus, of Coronaviridae family. The viral genome 
+sequencing studies revealed 75-80% similarity with SARS-CoV. SARS-CoV-2 mainly 
+affects the lower respiratory system and may progress to pneumonia and Acute 
+Respiratory Distress Syndrome (ARDS). Apart from life-threatening situations and 
+burden on the global healthcare system, the COVID-19 pandemic has imposed 
+several challenges on the worldwide economics and livelihood. The novel pathogen 
+is highly virulent, rapidly mutating and has a tendency to cross the species 
+boundaries such as from bats to humans through the evolution and natural 
+selection from intermediate host. In this review we tried to summarize the 
+overall picture of SARS-CoV-2 including origin/ emergence, epidemiology, 
+pathogenesis, genome organization, comparative analysis with other CoVs, 
+infection and replication mechanism along with cellular tropism and 
+immunopathogenesis which will provide a brief panoramic view about the virus and 
+disease.
+
+© 2021. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s11010-021-04217-y
+PMCID: PMC8244678
+PMID: 34195882 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+99. Transfus Apher Sci. 2020 Oct;59(5):102933. doi: 10.1016/j.transci.2020.102933. 
+Epub 2020 Sep 3.
+
+Update on newer approaches to prevent or treat COVID-19 infection: What we all 
+need the most right now!!
+
+Seghatchian J(1), Acker JP(2), Putter JS(3).
+
+Author information:
+(1)International Consultancy in Strategic Safety/ Quality Innovations of Blood- 
+Derived Bioproducts and Quality Audit / Inspection, London, England, UK.
+(2)Centre for Innovation, Canadian Blood Services, Edmonton, AB, Canada; 
+Department of Laboratory Medicine and Pathology, University of Alberta, 
+Edmonton, AB, Canada. Electronic address: jason.acker@blood.ca.
+(3)Medical Biomechanics Inc., San Marcos, CA USA.
+
+COVID-19 convalescent plasma (CCP) therapy involves the use of circulating 
+antibodies administration from recovered COVID 19 patients as a practical 
+strategy to provide immediate passive immunity in susceptible recipients in 
+need. Global concern over the potential for "second" or "third" waves of 
+infection to occur before effective vaccines or drug therapies are available has 
+many looking at other biological sources for large-scale production of 
+neutralizing SARS-CoV-2 antibodies. This report summarizes some of the novel 
+strategies for developing alternative safe sources of therapeutic autologous 
+antibodies from COVID -19 infected patients, and provides some original thoughts 
+on how to rapidly implement a safe passive immunity in those COVID-19 patients 
+who are most in need of intervention. COVID-19 antibodies can be isolated or 
+delivered using a number of other techniques including: plasmapheresis, plasma 
+cryoprecipitate reduced (cryosupernatant), antibody hyperconcentrates and 
+advanced cell-based delivery systems. While these proposed technological options 
+may, in some cases, be theoretical, the growing concern over the rapid spread of 
+the SARS-CoV-2 virus has prompted many to pursue innovative and creative 
+solutions to reduce the mortality and morbidity resulting from the current 
+global pandemic. A comparative analysis of various strategies currently in use 
+deserved exploring and this highlighted separately as the essential part of this 
+concise theme.
+
+Copyright © 2020 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.transci.2020.102933
+PMCID: PMC7470817
+PMID: 32919879 [Indexed for MEDLINE]
+
+
+100. Biomed Pharmacother. 2021 May;137:111363. doi: 10.1016/j.biopha.2021.111363. 
+Epub 2021 Feb 5.
+
+Induced dysregulation of ACE2 by SARS-CoV-2 plays a key role in COVID-19 
+severity.
+
+Mehrabadi ME(1), Hemmati R(2), Tashakor A(3), Homaei A(4), Yousefzadeh M(5), 
+Hemati K(6), Hosseinkhani S(7).
+
+Author information:
+(1)Department of Biology, Faculty of Basic Sciences, Shahrekord University, 
+Sharekord, Iran.
+(2)Department of Biology, Faculty of Basic Sciences, Shahrekord University, 
+Sharekord, Iran; Biotechnology Research Institute, Shahrekord University, 
+Shahrekord, Iran; COVID-19 research group, Faculty of Basic Sciences, Shahrekord 
+Univesity, Shahrekord, Iran. Electronic address: Roohullah.hemmati@sku.ac.ir.
+(3)Irish Centre for Vascular Biology, Royal College of Surgeons in Ireland, 
+Dublin, Ireland; School of Pharmacy and Biomolecular Sciences, Royal College of 
+Surgeons in Ireland, Dublin, Ireland.
+(4)Department of Marine Biology, Faculty of Marine Science and Technology, 
+University of Hormozgan, Bandar Abbas, Iran.
+(5)Department of Biology, Payame Noor University Of Najafabad, Isfahan, Iran.
+(6)Department of Anesthesiology and Pain, Iran University of Medical Sciences, 
+Tehran, Iran.
+(7)Department of Biochemistry, Faculty of Biological Sciences, Tarbiat Modares 
+University, Tehran, Iran.
+
+Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), the cause of 
+COVID-19, is reported to increase the rate of mortality worldwide. COVID-19 is 
+associated with acute respiratory symptoms as well as blood coagulation in the 
+vessels (thrombosis), heart attack and stroke. Given the requirement of 
+angiotensin converting enzyme 2 (ACE2) receptor for SARS-CoV-2 entry into host 
+cells, here we discuss how the downregulation of ACE2 in the COVID-19 patients 
+and virus-induced shift in ACE2 catalytic equilibrium, change the concentrations 
+of substrates such as angiotensin II, apelin-13, dynorphin-13, and products such 
+as angiotensin (1-7), angiotensin (1-9), apelin-12, dynorphin-12 in the human 
+body. Substrates accumulation ultimately induces inflammation, angiogenesis, 
+thrombosis, neuronal and tissue damage while diminished products lead to the 
+loss of the anti-inflammatory, anti-thrombotic and anti-angiogenic responses. In 
+this review, we focus on the viral-induced imbalance between ACE2 substrates and 
+products which exacerbates the severity of COVID-19. Considering the roadmap, we 
+propose multiple therapeutic strategies aiming to rebalance the products of ACE2 
+and to ameliorate the symptoms of the disease.
+
+Copyright © 2021. Published by Elsevier Masson SAS.
+
+DOI: 10.1016/j.biopha.2021.111363
+PMCID: PMC7862910
+PMID: 33582450 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.
